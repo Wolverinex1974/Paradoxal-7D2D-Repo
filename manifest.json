@@ -1,0 +1,472 @@
+{
+    "launcher_config": {
+        "version": "1.0.0",
+        "discord_invite": "https://discord.gg/paradoxal",
+        "latest_version": "1.1.7",
+        "update_url": "1co8gIGCZuWE3axYjPzMLbWMqkey8xtTb",
+        "news_text": "Just another TEST!"
+    },
+    "server_info": {
+        "name": "Paradoxal 7D2D Server",
+        "ip": "0.0.0.0",
+        "port": "26900",
+        "game_version": "V1.0"
+    },
+    "mods": [
+        {
+            "name": "WMMZAirdropSpawnZeds",
+            "folder_name": "WMMZAirdropSpawnZeds",
+            "version": "1.0.0",
+            "gdrive_id": "1XOAPNJ1Q-zplRmnEzPb0rbhtVXs4mY5K",
+            "hash": "3bb1498ffdf256a974d0951110e05b2532779ac9f2aae636a7bb8b05574622d7"
+        },
+        {
+            "name": "0-SCore",
+            "folder_name": "0-SCore",
+            "version": "1.0.0",
+            "gdrive_id": "1Eo9dSPIcDptM2RqdqE_VMP2VtRNHbPI1",
+            "hash": "e36174b157cd9e4f1de64aac952450b7895fcefebe9017c36ad7f2cde98c54da"
+        },
+        {
+            "name": "(TMO) Advanced Casing Collector v4_v2.5Stable",
+            "folder_name": "(TMO) Advanced Casing Collector v4_v2.5Stable",
+            "version": "1.0.0",
+            "gdrive_id": "1ZC-wW20JshGSxM7MPaAv6JzbxCGacZyV",
+            "hash": "9ad49b0ee249631869fcc9db7f150777f2d282d9c1f726fe95168ba64c0b3e38"
+        },
+        {
+            "name": "(TMO) Trader Never Closes N More v4.1",
+            "folder_name": "(TMO) Trader Never Closes N More v4.1",
+            "version": "1.0.0",
+            "gdrive_id": "1kbW-43IPwtS8v0r9Z7OnovLAQbZm-pUR",
+            "hash": "652ead2f89b52757cf37cea46e5fe4c6b834300d2582147fcca349679d3184bf"
+        },
+        {
+            "name": "0-Alter_OverrideSounds",
+            "folder_name": "0-Alter_OverrideSounds",
+            "version": "1.0.0",
+            "gdrive_id": "1V_mylHydE5mqEExstDHGevbyEgdX7ryI",
+            "hash": "52c23f9ddf26d76863c3479e1d282676f7e34637b64f55d1385f63254388bd15"
+        },
+        {
+            "name": "0-CustomParticleLoader",
+            "folder_name": "0-CustomParticleLoader",
+            "version": "1.0.0",
+            "gdrive_id": "18B7oUzZpqadF07zqTJf2Ln-i5wWb3jQ6",
+            "hash": "a89b41f71b7ef487d3f2da66cf00af16b52b6f5c3a45feea8ae54d73c410cba7"
+        },
+        {
+            "name": "0-zMoreQuestsNoScrollbar(2.5.0)",
+            "folder_name": "0-zMoreQuestsNoScrollbar(2.5.0)",
+            "version": "1.0.0",
+            "gdrive_id": "1fA8mkzW7imo1oI-Jnoi2MbFyszGXrMux",
+            "hash": "8454ced1d4e506f21483c8c7877a35b6c53b947955760ac61000cf8d5c64f9ea"
+        },
+        {
+            "name": "0_TFP_Harmony",
+            "folder_name": "0_TFP_Harmony",
+            "version": "1.0.0",
+            "gdrive_id": "1WjGNdDp8BqfkQlx9kKKnQtSzlx5JAC5S",
+            "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca"
+        },
+        {
+            "name": "7D1.0_Izayo_Visible_FPV_Gloves_mod",
+            "folder_name": "7D1.0_Izayo_Visible_FPV_Gloves_mod",
+            "version": "1.0.0",
+            "gdrive_id": "1PB9hiIrnP-Gx-d5l41__0J4tNZFaMqVm",
+            "hash": "a8f98d29bc227dc351374d155cbf36e5af4b913084cc903ed1cd20f67afabd51"
+        },
+        {
+            "name": "7D1.0_Izayo_Visible_Mods_mod",
+            "folder_name": "7D1.0_Izayo_Visible_Mods_mod",
+            "version": "1.0.0",
+            "gdrive_id": "1Z0hOp2nKxg3kC7UtthVXhsisVBDDm0FX",
+            "hash": "774d28cc40fed1cc10fa114422e0b0b5f389fb81b170649c31fe844c05cf82c1"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackMisc_pack",
+            "folder_name": "7D1.0_Izayo_WeaponpackMisc_pack",
+            "version": "1.0.0",
+            "gdrive_id": "1ssg4Ik1HSKKFAvfed5SKDy1KGkBz8Jp-",
+            "hash": "31ca1ef59552f886dbd554c22effc09411c5b82ddbb69359e5b8a24ab1dac951"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_44mag",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_44mag",
+            "version": "1.0.0",
+            "gdrive_id": "1lfhEyAKBc4U1nIhhEyRXXqHNTJyMAiFK",
+            "hash": "01b8dd80f4e82cff803b6461e5cea19065639361ece23ba08ab033d9fe776110"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_45ACP",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_45ACP",
+            "version": "1.0.0",
+            "gdrive_id": "1M0uA1lPEs8z-0NBMUp14nROQqo8u0avc",
+            "hash": "a9e1b13a8630fe2f3391f12d47006436ed35db2de3b2e821cbb38191525f75ea"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_556pack",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_556pack",
+            "version": "1.0.0",
+            "gdrive_id": "1hd-V40v9VeBDckHa4i_9E91g9zH4AHN5",
+            "hash": "fdad7a4d8a2753cc48c2bb5ca5e47b09ac10eec5f9775d55430a6bb5548b5e04"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_762pack",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_762pack",
+            "version": "1.0.0",
+            "gdrive_id": "1Y_NaJKvYkOsn01cFrHFJ8b2BkMNk8lgy",
+            "hash": "7e79c91e013554981731a7c84798b2f69ec8b75b5a7d3a4869f38403ad8f8eb9"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
+            "version": "1.0.0",
+            "gdrive_id": "1nI1jDqc2cZKPHpNKWLwt6j2YvvViw8cw",
+            "hash": "d0d341c96eeb3fbc2365d7e63bf71802a5de500487a1415317b46e56a5f25c3e"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
+            "version": "1.0.0",
+            "gdrive_id": "1u1p-oo8JcJHf09t6LGxZhr2bYP6SaFpD",
+            "hash": "a4b96c896332968b71ddb94d46c8a1fa38e771e0614b4e88271626915e6ba176"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
+            "version": "1.0.0",
+            "gdrive_id": "1YFLJ3IRRIYVF_C10ZwPBKJ0pi3wDsCl_",
+            "hash": "71bddaecfe5cc97d7a0a56a6d656058fe547c401be6b2d651740aaec2ad8cb39"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
+            "version": "1.0.0",
+            "gdrive_id": "1uHCOI4vQBFa57nb8MmqlcnakfIKw8k69",
+            "hash": "fded8d456ecd41025af180bbb21132a793db08e4a40578fe068a4cca02c43b68"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
+            "folder_name": "7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
+            "version": "1.0.0",
+            "gdrive_id": "1UyXlzJpFdDfL3IGTuKMs_LoEQ9tSLIhi",
+            "hash": "4fa6c9c5879c84f3889b3047d1e15c81e35559f1d701c0c295b73d3262291b97"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackSpecial_Melee",
+            "folder_name": "7D1.0_Izayo_WeaponpackSpecial_Melee",
+            "version": "1.0.0",
+            "gdrive_id": "1zOIyMeoFIqy8jxal9vDS2R0oTpPvPCbM",
+            "hash": "826bed9515b306f69fe723aa01da8764133cf76dcffbc4d0170b3c32ae4e4f77"
+        },
+        {
+            "name": "7D1.0_Izayo_WeaponpackVanillaReplacer",
+            "folder_name": "7D1.0_Izayo_WeaponpackVanillaReplacer",
+            "version": "1.0.0",
+            "gdrive_id": "1BRf8eXdt4JRER6riaL5RL3AdpbZUa7I1",
+            "hash": "a84b818403042ab0ccb209ef6b03c87d1b95e4e0f127d1e02d3c589730e0d396"
+        },
+        {
+            "name": "AGF-V2-Backpack84Plus-v3.2.0",
+            "folder_name": "AGF-V2-Backpack84Plus-v3.2.0",
+            "version": "1.0.0",
+            "gdrive_id": "1CokNXfgxuFt2tg-_nm2QQuH4FoU9tQBe",
+            "hash": "42afea3086e9a85a224f388343c8b3dd659a050205226c12c760251a45ee1a75"
+        },
+        {
+            "name": "AGF-V2-HUDPlus-1Main-v5.2.0",
+            "folder_name": "AGF-V2-HUDPlus-1Main-v5.2.0",
+            "version": "1.0.0",
+            "gdrive_id": "18vHyq4oQQ3Pgqh0ZbabRmhcGZmUkhE21",
+            "hash": "2d0159d959cc3737304e1795839ea1c335844870656d520d154a684972296c18"
+        },
+        {
+            "name": "AGF-V2-VP-SmeltingPlus-v2.2.1",
+            "folder_name": "AGF-V2-VP-SmeltingPlus-v2.2.1",
+            "version": "1.0.0",
+            "gdrive_id": "1p_c38P0Q_AZVKe6ytInqtcDApf1DYwEH",
+            "hash": "5d2c59bf1861008b3377230a228ddaa3299a36602a844d3b5991bbfef511b3da"
+        },
+        {
+            "name": "Allocs_CommandExtensions",
+            "folder_name": "Allocs_CommandExtensions",
+            "version": "1.0.0",
+            "gdrive_id": "1Uph4HUxBWLXQ68zV8iDAYYfO2U78e2uj",
+            "hash": "b5ba4e1392222123dd96d974da3967084eb3cbb9771814771c0e0c4b8f87ba2c"
+        },
+        {
+            "name": "Allocs_CommonFunc",
+            "folder_name": "Allocs_CommonFunc",
+            "version": "1.0.0",
+            "gdrive_id": "1nLpmMkUBROaDcHzX7IHJE6X2CI4DuHyx",
+            "hash": "12f99fb3e4c845c7fe3206d1f233397966b42168da32c163caca14d83d7d4c4a"
+        },
+        {
+            "name": "Allocs_WebAndMapRendering",
+            "folder_name": "Allocs_WebAndMapRendering",
+            "version": "1.0.0",
+            "gdrive_id": "1XOC7sxfP5tcBf6C9fozgJdS3MaWGOHPT",
+            "hash": "bbf62476f038d6e75f62543a7ab12455e066ad3373816d4622c55bff4e9a1bbf"
+        },
+        {
+            "name": "ArrowsAndBoltsCauseBleed",
+            "folder_name": "ArrowsAndBoltsCauseBleed",
+            "version": "1.0.0",
+            "gdrive_id": "1trI_uY-rpxk8PkKfMFU3cLtBAXtsF_oM",
+            "hash": "c286939cb3f45ce4a51061fd049063a1de5ae4cfe337a723f542e3744ae2b90d"
+        },
+        {
+            "name": "BdubsVehicles",
+            "folder_name": "BdubsVehicles",
+            "version": "1.0.0",
+            "gdrive_id": "1jOo6qVqml4vxLvMOk3yno9jeBrAeGLGW",
+            "hash": "e0f8d1a1d629e1bbee2f420db63cb0382ad4d9b8791d33c32a1a003b2da057ad"
+        },
+        {
+            "name": "Better perks",
+            "folder_name": "Better perks",
+            "version": "1.0.0",
+            "gdrive_id": "1y5czRLpsPSZ9sGVE1i5XDu-ewSLV3KZD",
+            "hash": "659cbca257a4df4cb6edaf7bc8e224cac48d99359cc2d00c2a895ad21a87705d"
+        },
+        {
+            "name": "Better_Biomes_v2_0_1-5366-2-0-1-1751658087",
+            "folder_name": "Better_Biomes_v2_0_1-5366-2-0-1-1751658087",
+            "version": "1.0.0",
+            "gdrive_id": "1jeXN03AcFIQ_swq6bCBNNkHtDPgb_5UE",
+            "hash": "d13de51d77a85aa2443827b9c0cee18ab437048620064ce07876906a48c9e2cd"
+        },
+        {
+            "name": "Dewtas Random Knockdown Timer-5594-V1-0-1722402997",
+            "folder_name": "Dewtas Random Knockdown Timer-5594-V1-0-1722402997",
+            "version": "1.0.0",
+            "gdrive_id": "1q2iPIvGXTrIouG_tPFSpbCP0MBPnvexl",
+            "hash": "304a95a9dfcbd0e070783bd5a2faacc397dc11a12634bd23eefe8f6dc29151e6"
+        },
+        {
+            "name": "KHV1_Zombie_Reach_Adjustment",
+            "folder_name": "KHV1_Zombie_Reach_Adjustment",
+            "version": "1.0.0",
+            "gdrive_id": "1ax7fw-9V_szJwtN82BkbrJ5IDMgX_5aS",
+            "hash": "550555af6aa60a7f0c6f3e3ad10517d9acf187c3d5019e33e3e10958404f0496"
+        },
+        {
+            "name": "Medical_conditions",
+            "folder_name": "Medical_conditions",
+            "version": "1.0.0",
+            "gdrive_id": "1nTSSZlRHXbmYVgwaiCk1iMSb9S1mqnaF",
+            "hash": "f2212dffdb37479a0012174b9a68d4087fd61f6ea8b9089101539b364371d17a"
+        },
+        {
+            "name": "MPLogue_UrbanDecay_7D2D_v2_0_1",
+            "folder_name": "MPLogue_UrbanDecay_7D2D_v2_0_1",
+            "version": "1.0.0",
+            "gdrive_id": "1Y6pNyZsE0gk4gb5qVPnme-5Yj6jfsQlJ",
+            "hash": "0749d1a0d3ef5c299b2459910832e02da322e7c91f94cccfb821c2bc4c20a178"
+        },
+        {
+            "name": "MXMRMXs POI PACK V1.14",
+            "folder_name": "MXMRMXs POI PACK V1.14",
+            "version": "1.0.0",
+            "gdrive_id": "1e8Xt4v34q9MaATgGTw2bD4tqv2xfKwhq",
+            "hash": "2134c7cdfdb9f9add56fe50e512662abe38a49d3889910ed68f9526f4d8e89dc"
+        },
+        {
+            "name": "New Spawn start zone",
+            "folder_name": "New Spawn start zone",
+            "version": "1.0.0",
+            "gdrive_id": "1W3EqxEfqcoIC_9vDNnO_6Oa0yYEHx51f",
+            "hash": "fd6327bb9648b89aadd56742b20f3dc86a84812a787bb16cc46d1459a172c3fa"
+        },
+        {
+            "name": "Officecats5 POI pack",
+            "folder_name": "Officecats5 POI pack",
+            "version": "1.0.0",
+            "gdrive_id": "1E9Hk5PAiKg-Tn-WMwEE0ngSJOD0y2TAI",
+            "hash": "3497363e97b43e1e9e69ee1b64e172dc80c348d38ce27d8d1ec9791a5224b55f"
+        },
+        {
+            "name": "Primitive_Farming_Style",
+            "folder_name": "Primitive_Farming_Style",
+            "version": "1.0.0",
+            "gdrive_id": "1CzIiIa2I_frYaLrCl23u9FGZbyVZ0kKg",
+            "hash": "189ff9f9f75f3fae51fe60c8e7267f411a2b099b69e2b6fafd8c1eb868449f09"
+        },
+        {
+            "name": "PrismaCore",
+            "folder_name": "PrismaCore",
+            "version": "1.0.0",
+            "gdrive_id": "1u2YyP4tJmL3NtCw5cJoKZgNnXsw8bdWu",
+            "hash": "02182e2288accd42c3e35aa974207b1d4fc9fd0e605f5766fc75fc9133115ac9"
+        },
+        {
+            "name": "ProjectileBleedMod",
+            "folder_name": "ProjectileBleedMod",
+            "version": "1.0.0",
+            "gdrive_id": "1lFDPpqchJckrhkD0rRLribcR_76lREyB",
+            "hash": "4234506eaf12dd825b68439594bf749cfcabeb683b29354e2eb085b9fe89a8f8"
+        },
+        {
+            "name": "RopeAndRealism_V21",
+            "folder_name": "RopeAndRealism_V21",
+            "version": "1.0.0",
+            "gdrive_id": "1nbkflR-sdR1fNPKBrwKnaqgpey9axSEL",
+            "hash": "5475178fb1c2b33d2e68b3cc650ad1819fbe3fb49b7e1c7788c3e6222a2f2b23"
+        },
+        {
+            "name": "Teragon POIs",
+            "folder_name": "Teragon POIs",
+            "version": "1.0.0",
+            "gdrive_id": "1iVyY8kOcvwh8oYntPPQxoKoYGSJF8QPg",
+            "hash": "a0ae4b6e95838a456fee8786723ee2691424924b490b34002c121abcd1c0864f"
+        },
+        {
+            "name": "TFP_CommandExtensions",
+            "folder_name": "TFP_CommandExtensions",
+            "version": "1.0.0",
+            "gdrive_id": "1B0XJyz6CS1Op1tVWgvFhIHA70hBo_X50",
+            "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00"
+        },
+        {
+            "name": "TFP_MapRendering",
+            "folder_name": "TFP_MapRendering",
+            "version": "1.0.0",
+            "gdrive_id": "1E8bIRNGgjo4Zd24Jm4eh7hpZ7sQicT0A",
+            "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f"
+        },
+        {
+            "name": "TFP_WebServer",
+            "folder_name": "TFP_WebServer",
+            "version": "1.0.0",
+            "gdrive_id": "1YeZl0astVb5lOG9R54V2NfUsmOtRvXJP",
+            "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323"
+        },
+        {
+            "name": "The_Countryside_POI_pack",
+            "folder_name": "The_Countryside_POI_pack",
+            "version": "1.0.0",
+            "gdrive_id": "1g_SPetztNOH5ba-sBYqb1FrEZmEBpxC9",
+            "hash": "4d6e3bbb0f5cfae2d25c8271f6f55ceca3e1b72a36cf89e09e836d520e395aa5"
+        },
+        {
+            "name": "V2-OakravenAmmoPress",
+            "folder_name": "V2-OakravenAmmoPress",
+            "version": "1.0.0",
+            "gdrive_id": "1T_ZRJ2IRpvbY4gn_oZWqn4fWC9gPBm3m",
+            "hash": "ee7b2aa4e1b183608b18e8c774a1972c03e025653e06add364c4b737ad294697"
+        },
+        {
+            "name": "V2-PartyStackSize",
+            "folder_name": "V2-PartyStackSize",
+            "version": "1.0.0",
+            "gdrive_id": "1db9HzUDtHIGo_cyp6uSHlTSmvYCCQCEz",
+            "hash": "c37d66525ac8e18eddd031456f52fdfe709db4486c05bb3e41226b5686765f64"
+        },
+        {
+            "name": "Valmars Survivor Notes-5993-2-0-2-0-1750823830",
+            "folder_name": "Valmars Survivor Notes-5993-2-0-2-0-1750823830",
+            "version": "1.0.0",
+            "gdrive_id": "1gHWZrfNK7GfvWuq7MBhlNYdyoCH3U8NL",
+            "hash": "418ce6e8423b45c72326cbc61972a9fa0816c61e8ef8725a39061969e462d54c"
+        },
+        {
+            "name": "Valmars_Starter_Class_System_SSO",
+            "folder_name": "Valmars_Starter_Class_System_SSO",
+            "version": "1.0.0",
+            "gdrive_id": "1VOSMhibDwigzrzEEaFrMhWWAwPqEIIan",
+            "hash": "bca0d73e65dce8cb3dd7e74f3360a0304f7cb76d6c6c2c307b416285b9dfc012"
+        },
+        {
+            "name": "Voltraluxs POI Pack 2.5",
+            "folder_name": "Voltraluxs POI Pack 2.5",
+            "version": "1.0.0",
+            "gdrive_id": "1p8YJnub1WmNujxddFI1-osAQnwz26nWv",
+            "hash": "173c3d6f08510a12c1b91ed2efbd20e33000401e5f39a48817064a8f2b61107c"
+        },
+        {
+            "name": "WalkerSim2",
+            "folder_name": "WalkerSim2",
+            "version": "1.0.0",
+            "gdrive_id": "1UTPzQYuK5mYTiSpaxv0VpJEHG34vtCWT",
+            "hash": "24a93b167406fe7bbc50beb4f2e70f0d9bf1b49bb70b2ca1375354028770e44d"
+        },
+        {
+            "name": "War3zuk FarmLife 2024",
+            "folder_name": "War3zuk FarmLife 2024",
+            "version": "1.0.0",
+            "gdrive_id": "1V11pLDFWnapPUr35qjqC-hRlT8Qa-sam",
+            "hash": "1b227912c78cf982f95903a3a373e948261a9f77c19d9b3b63b71c2e6ba0ac08"
+        },
+        {
+            "name": "Xample_MarkersMod",
+            "folder_name": "Xample_MarkersMod",
+            "version": "1.0.0",
+            "gdrive_id": "1FHgfYmR6gDzsDHOe5WGZakF0RZ0wzbRc",
+            "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f"
+        },
+        {
+            "name": "xcp_DupesFix_AsylumMods",
+            "folder_name": "xcp_DupesFix_AsylumMods",
+            "version": "1.0.0",
+            "gdrive_id": "1GDHibd28colSJ6UUXf0jfnFFja35lDk9",
+            "hash": "c2c0a967434c6891cf9614fac6c4ea34197d9a0343e8382b091305e764ce8ecc"
+        },
+        {
+            "name": "xcp_No_Danger_Metre_Skull_Remove",
+            "folder_name": "xcp_No_Danger_Metre_Skull_Remove",
+            "version": "1.0.0",
+            "gdrive_id": "1DvrW_oPkUlvNZ-39p4ar1gkDc5XhvjTa",
+            "hash": "fa05597705699bab1a466f060bf2528ec31747c9d3318fc1295363ca9b009003"
+        },
+        {
+            "name": "xcp_RWGFix_AsylumMods",
+            "folder_name": "xcp_RWGFix_AsylumMods",
+            "version": "1.0.0",
+            "gdrive_id": "1r00Y_xOCYwNJ-tnk1WyiHchLNV1TUfqb",
+            "hash": "fb124b3202b23b9f5eabd892521e60b9d8aacdd1820ab3f68d68040437fdfcc3"
+        },
+        {
+            "name": "ZZTong-Prefabs",
+            "folder_name": "ZZTong-Prefabs",
+            "version": "1.0.0",
+            "gdrive_id": "1YvG3xzkULk7gTZa8cgmOVAejItHD-CpF",
+            "hash": "a4f706adc85ad40bb96c48c1603c161ca62879356e61ffba3cc84d2d94cf0f2d"
+        },
+        {
+            "name": "zzzScomar82_Hobacs",
+            "folder_name": "zzzScomar82_Hobacs",
+            "version": "1.0.0",
+            "gdrive_id": "1zLgrrRVTCMEZDVrkiYJcHfn8WTynywS8",
+            "hash": "5510750cdf7f0043ca29609c105daeb4322d96d6d04145a7b80e2ce0b520162d"
+        },
+        {
+            "name": "zzzzNail_Realism",
+            "folder_name": "zzzzNail_Realism",
+            "version": "1.0.0",
+            "gdrive_id": "1jmcGSESRkIWCGIGFE3ar_u_u0w0AgN-d",
+            "hash": "8aff9de5a31503f2694268f4a0603d7d4bec4a95044468db95c49f22e3d7683b"
+        },
+        {
+            "name": "Zzzzxcpv_Classic_All_In_One",
+            "folder_name": "Zzzzxcpv_Classic_All_In_One",
+            "version": "1.0.0",
+            "gdrive_id": "1Kae7q59eXNRMNlPFc_Fq8CPC9RlWnZbv",
+            "hash": "b6a8fb644590b260d453d4225b31fbd6bc6317d35b1337682bb5627bf3ee0354"
+        },
+        {
+            "name": "ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "ZZZ_FNS_Loot_All_the_Things",
+            "version": "1.0.0",
+            "gdrive_id": "1VCN0o-A5PE19UBblO7OcXsXba_w_QopR",
+            "hash": "823981e7d4d0648edaaf0e641b1c6089d0e0bbb365449c056458761409789bce"
+        },
+        {
+            "name": "TMO-Core_v2_v2.4Stable",
+            "folder_name": "TMO-Core_v2_v2.4Stable",
+            "version": "1.0.0",
+            "gdrive_id": "1-aDnbgSXKOPOwN2yXlZ8e9RyVDBB5CLn",
+            "hash": "2c28baccc5b618b939e7ad33d4aa40c5e3738938e1d07023cfe61b7e83728494"
+        }
+    ]
+}
