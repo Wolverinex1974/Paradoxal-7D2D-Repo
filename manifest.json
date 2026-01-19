@@ -636,6 +636,15 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Valmars.Survivor.Notes.zip"
             ]
+        },
+        {
+            "name": "AA_Test_Mod",
+            "folder_name": "AA_Test_Mod",
+            "version": "1.0.0",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/AA_Test_Mod.zip"
+            ],
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
     ]
 }
