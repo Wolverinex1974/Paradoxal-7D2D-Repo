@@ -294,20 +294,6 @@
             ]
         },
         {
-            "name": "Better_Biomes_v2_0_1-5366-2-0-1-1751658087",
-            "folder_name": "Better_Biomes_v2_0_1-5366-2-0-1-1751658087",
-            "version": "1.0.0",
-            "hash": "d13de51d77a85aa2443827b9c0cee18ab437048620064ce07876906a48c9e2cd",
-            "download_urls": []
-        },
-        {
-            "name": "Dewtas Random Knockdown Timer-5594-V1-0-1722402997",
-            "folder_name": "Dewtas Random Knockdown Timer-5594-V1-0-1722402997",
-            "version": "1.0.0",
-            "hash": "304a95a9dfcbd0e070783bd5a2faacc397dc11a12634bd23eefe8f6dc29151e6",
-            "download_urls": []
-        },
-        {
             "name": "KHV1_Zombie_Reach_Adjustment",
             "folder_name": "KHV1_Zombie_Reach_Adjustment",
             "version": "1.0.0",
@@ -461,13 +447,6 @@
             ]
         },
         {
-            "name": "Valmars Survivor Notes-5993-2-0-2-0-1750823830",
-            "folder_name": "Valmars Survivor Notes-5993-2-0-2-0-1750823830",
-            "version": "1.0.0",
-            "hash": "418ce6e8423b45c72326cbc61972a9fk0816c61e8ef8725a39061969e462d54c",
-            "download_urls": []
-        },
-        {
             "name": "Valmars_Starter_Class_System_SSO",
             "folder_name": "Valmars_Starter_Class_System_SSO",
             "version": "1.0.0",
@@ -521,13 +500,6 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/xcp_DupesFix_AsylumMods.zip"
             ]
-        },
-        {
-            "name": "xcp_No_Danger_Metre_Skull_Remove",
-            "folder_name": "xcp_No_Danger_Metre_Skull_Remove",
-            "version": "1.0.0",
-            "hash": "fa05597705699bab1a466f060bf2528ec31747c9j3318fc1295363ca9b009003",
-            "download_urls": []
         },
         {
             "name": "xcp_RWGFix_AsylumMods",
@@ -636,15 +608,6 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Valmars.Survivor.Notes.zip"
             ]
-        },
-        {
-            "name": "AA_Test_Mod",
-            "folder_name": "AA_Test_Mod",
-            "version": "1.0.0",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/AA_Test_Mod.zip"
-            ],
-            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
     ]
 }
