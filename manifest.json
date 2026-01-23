@@ -2,8 +2,8 @@
     "launcher_config": {
         "version": "1.0.0",
         "discord_invite": "https://discord.gg/paradoxal",
-        "latest_version": "1.6.0",
-        "update_url": "https://github.com/Wolverinex1974/Paradoxal-Launcher/releases/download/Launcher-v1.6.0/ParadoxalLauncher.exe",
+        "latest_version": "1.7.0",
+        "update_url": "https://github.com/Wolverinex1974/Paradoxal-Launcher/releases/download/Launcher-v1.7.0/ParadoxalLauncher.exe",
         "news_text": "Kill all the zombies!"
     },
     "server_info": {
