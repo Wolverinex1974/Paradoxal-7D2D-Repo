@@ -740,6 +740,17 @@
             ],
             "tier": 1,
             "load_order": 65
+        },
+        {
+            "name": "Just Cook It",
+            "folder_name": "Just Cook It",
+            "version": "1.0.0",
+            "hash": "c68f82af50781559bb7466dd4734bbbc2575916c89c65ef0de48a4f9187de7cd",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Just.Cook.It.zip"
+            ],
+            "tier": 1,
+            "load_order": 66
         }
     ]
 }
