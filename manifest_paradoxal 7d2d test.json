@@ -1,0 +1,56 @@
+{
+    "launcher_config": {
+        "version": "1.0.0",
+        "latest_version": "1.0.0",
+        "update_url": "",
+        "news_text": "Welcome to the Nexus."
+    },
+    "server_info": {
+        "name": "Paradoxal Server",
+        "ip": "0.0.0.0",
+        "port": "26900",
+        "game_version": "V1.0"
+    },
+    "mods": [
+        {
+            "name": "0_TFP_Harmony",
+            "folder_name": "0_TFP_Harmony",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 3
+        },
+        {
+            "name": "TFP_CommandExtensions",
+            "folder_name": "TFP_CommandExtensions",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 3
+        },
+        {
+            "name": "TFP_MapRendering",
+            "folder_name": "TFP_MapRendering",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 3
+        },
+        {
+            "name": "TFP_WebServer",
+            "folder_name": "TFP_WebServer",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 3
+        },
+        {
+            "name": "Xample_MarkersMod",
+            "folder_name": "Xample_MarkersMod",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1
+        }
+    ]
+}
