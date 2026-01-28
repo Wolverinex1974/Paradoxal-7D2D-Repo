@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "update_url": "",
-        "news_text": "The home stretch."
+        "news_text": "The home stretch.",
+        "total_payload_size": 10114663654
     },
     "server_info": {
         "name": "Paradoxal Server",
@@ -20,7 +21,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0_TFP_Harmony.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die"
         },
         {
             "name": "TFP_CommandExtensions",
@@ -30,7 +33,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_CommandExtensions.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Additional commands for server operation"
         },
         {
             "name": "TFP_MapRendering",
@@ -40,7 +45,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_MapRendering.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Render the game map to image map tiles as it is uncovered"
         },
         {
             "name": "TFP_WebServer",
@@ -50,7 +57,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_WebServer.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Integrated Webserver for the Web Dashboard and server APIs"
         },
         {
             "name": "Xample_MarkersMod",
@@ -60,7 +69,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Xample_MarkersMod.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "Catalysm and Alloc",
+            "description": "Allows placing custom markers on the web map"
         },
         {
             "name": "(TMO) Advanced Casing Collector v4_v2.5Stable",
@@ -70,7 +81,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TMO.Advanced.Casing.Collector.v4_v2.5Stable.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "TheMeanOneMods",
+            "description": "Collects some of the bullet casings when the modifier is attached to your weapon and allows you save on crafting ammo!"
         },
         {
             "name": "(TMO) Trader Never Closes N More v4.1",
@@ -80,7 +93,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TMO.Trader.Never.Closes.N.More.v4.1.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "TheMeanOneMods",
+            "description": "The traders TEST will never close with this mod! Also adjusts restock timer and Vending Machines.  Version 4.0"
         },
         {
             "name": "0-Alter_OverrideSounds",
@@ -90,7 +105,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0-Alter_OverrideSounds.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Alter",
+            "description": "Alter_Soundoverride"
         },
         {
             "name": "0-CustomParticleLoader",
@@ -100,17 +117,21 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0-CustomParticleLoader.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "closer_ex",
+            "description": "Allow you to use custom particle for explosion effects, with your own monoscripts."
         },
         {
             "name": "0-SCore",
             "folder_name": "0-SCore",
             "version": "1.0.0",
-            "hash": "e36174b157cd9e4f1de64aac952450b7895fcefebe9017c36ad7f2cde98c54da",
+            "hash": "be8baf3f05dd97869e7f48814b751c9b5cda8023677dd0d84ec17db56dee0527",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0-SCore.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "sphereii",
+            "description": "SCore Mod"
         },
         {
             "name": "0-zMoreQuestsNoScrollbar(2.5.0)",
@@ -120,7 +141,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0-zMoreQuestsNoScrollbar.2.5.0.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "jns0fficial",
+            "description": "Increases the amount of available quests at traders and adds other QoL changes related to quests."
         },
         {
             "name": "7D1.0_Izayo_Visible_FPV_Gloves_mod",
@@ -130,7 +153,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_Visible_FPV_Gloves_mod.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_FPV_GLOVES"
         },
         {
             "name": "7D1.0_Izayo_Visible_Mods_mod",
@@ -140,7 +165,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_Visible_Mods_mod.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_MMVMV2"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackMisc_pack",
@@ -150,7 +177,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackMisc_pack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_Miscpack"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_44mag",
@@ -160,7 +189,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_44mag.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_44magnum"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_45ACP",
@@ -170,7 +201,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_45ACP.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_45ACP"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_556pack",
@@ -180,7 +213,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_556pack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_556"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_762pack",
@@ -190,7 +225,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_762pack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_762pack"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
@@ -200,7 +237,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_9mmVAL.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_9mmVAL"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
@@ -210,7 +249,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_DemolitionPack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_Demopack"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
@@ -220,7 +261,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_HVW"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
@@ -230,7 +273,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_SG"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
@@ -240,7 +285,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackRemastered_Technicalpack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_RMP_Tech"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackSpecial_Melee",
@@ -250,7 +297,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackSpecial_Melee.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_melee"
         },
         {
             "name": "7D1.0_Izayo_WeaponpackVanillaReplacer",
@@ -260,7 +309,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/7D1.0_Izayo_WeaponpackVanillaReplacer.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "IZY",
+            "description": "IZY_VRP"
         },
         {
             "name": "AGF-V2-Backpack84Plus-v3.2.0",
@@ -270,7 +321,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/AGF-V2-Backpack84Plus-v3.2.0.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "AuroraGiggleFairy (AGF)",
+            "description": "84 slot backpack and extra large storage options."
         },
         {
             "name": "AGF-V2-HUDPlus-1Main-v5.2.0",
@@ -280,7 +333,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/AGF-V2-HUDPlus-1Main-v5.2.0.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "AuroraGiggleFairy (AGF)",
+            "description": "QOL HUD with lots of features."
         },
         {
             "name": "AGF-V2-VP-SmeltingPlus-v2.2.1",
@@ -290,7 +345,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/AGF-V2-VP-SmeltingPlus-v2.2.1.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "AuroraGiggleFairy (AGF)",
+            "description": "3 forge slots, sand smelts 1:5 ratio, smelt or craft clay/rock/stone in single units."
         },
         {
             "name": "Allocs_CommandExtensions",
@@ -300,7 +357,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Allocs_CommandExtensions.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "Christian 'Alloc' Illy",
+            "description": "Additional commands for server operation"
         },
         {
             "name": "Allocs_CommonFunc",
@@ -310,7 +369,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Allocs_CommonFunc.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "Christian 'Alloc' Illy",
+            "description": "Common functions"
         },
         {
             "name": "Allocs_WebAndMapRendering",
@@ -320,7 +381,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Allocs_WebAndMapRendering.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "Christian 'Alloc' Illy",
+            "description": "Render the game map to image map tiles as it is uncovered"
         },
         {
             "name": "ArrowsAndBoltsCauseBleed",
@@ -330,7 +393,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ArrowsAndBoltsCauseBleed.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Applies a perk-driven bleed effect to all vanilla arrows/bolts. Self-contained and bug-free. Requires the Deep Cuts perk."
         },
         {
             "name": "BdubsVehicles",
@@ -340,7 +405,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/BdubsVehicles.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "bdubyah",
+            "description": "This is a collection of all my individually released vehicles."
         },
         {
             "name": "Better perks",
@@ -350,7 +417,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Better.perks.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Black Wolf",
+            "description": "Improves various underpowered perks"
         },
         {
             "name": "Better_Biomes_v2",
@@ -360,7 +429,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Better_Biomes_v2.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "MPLogue",
+            "description": "Enhanced Biome immersion with fallen trees and underbrush"
         },
         {
             "name": "Dewtas Random Knockdown Timer 2.5",
@@ -370,7 +441,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Dewtas.Random.Knockdown.Timer.2.5.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Dewta",
+            "description": "Randomizes time zombies take to get up after being knocked down from 1 - 7 seconds."
         },
         {
             "name": "FNS Self-Planting Trees v2",
@@ -380,7 +453,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/FNS.Self-Planting.Trees.v2.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "FlufferNutterSandwich",
+            "description": "The trees immediately replant themselves in the same spot after you cut them down.  It also drastically removes tree seeds, so there is less hassle with inventory management and replanting."
         },
         {
             "name": "Just Cook It",
@@ -390,7 +465,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Just.Cook.It.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "ShadowOsmium",
+            "description": "Grilling and boiling meat no longer require skills as it is just common sense. Also tweaks recipe costs for Charred, Boiled and Grilled meats."
         },
         {
             "name": "KHV1_Zombie_Reach_Adjustment",
@@ -400,7 +477,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/KHV1_Zombie_Reach_Adjustment.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "FlufferNutterSandwich",
+            "description": "This mod reduces zombie reach so they aren't slapping you outside of spear range.  FNS was given permission by Khaine, the original author, to recreate this mod on Nexus.  Khaine did the work, all credit is rightly his."
         },
         {
             "name": "Locks",
@@ -410,7 +489,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Locks.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Xyth/SphereII/Mumpfy",
+            "description": "Locks - Locks for the LockPicking minigame enabled in Sphereii's SCore"
         },
         {
             "name": "Longer Lasting Buffs 5x",
@@ -420,7 +501,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Longer.Lasting.Buffs.5x.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "napalm1",
+            "description": "Buffs last 5x longer and stack for 5x as much.  Applies to Candies, Drugs and some Drinks"
         },
         {
             "name": "Medical_conditions",
@@ -430,17 +513,21 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Medical_conditions.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "excyborg",
+            "description": "Adding around 50 medical conditions."
         },
         {
             "name": "MPLogue_UrbanDecay_7D2D_v2_0_1",
             "folder_name": "MPLogue_UrbanDecay_7D2D_v2_0_1",
             "version": "1.0.0",
-            "hash": "0749d1a0d3ef5c299b2459910832e02da322e7c91f94cccfb821c2bc4c20a178",
+            "hash": "73e8d053370f445f168b88a5fabf23018d5d2bcd14385888f25d03966e1516b2",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/MPLogue_UrbanDecay_7D2D_v2_0_1.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "MPLogue",
+            "description": "MPLogue_UrbanDecay_7D2D_v1_0"
         },
         {
             "name": "MXMRMXs POI PACK V1.14",
@@ -450,7 +537,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/MXMRMXs.POI.PACK.V1.14.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "War0zzz",
+            "description": "POI Pack that i created to help add just a little more variety to RWG worlds"
         },
         {
             "name": "New Spawn start zone",
@@ -460,7 +549,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/New.Spawn.start.zone.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "YourName",
+            "description": "Forces all new player spawns into forest biomes during random world generation. For 7D2D 2.2 Stable."
         },
         {
             "name": "Officecats5 POI pack",
@@ -470,7 +561,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Officecats5.POI.pack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Officecats5",
+            "description": "POI pack"
         },
         {
             "name": "Primitive_Farming_Style",
@@ -480,7 +573,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Primitive_Farming_Style.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Wolverine",
+            "description": "Simplifies agriculture by allowing direct planting on most natural ground, removing the need for craftable farm plots."
         },
         {
             "name": "PrismaCore",
@@ -490,7 +585,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/PrismaCore.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Prisma501",
+            "description": "Additional management and player control functionality"
         },
         {
             "name": "ProjectileBleedMod",
@@ -500,7 +597,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ProjectileBleedMod.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Standalone mod that adds a perk-driven bleed effect to all standard bullet, shell, slug, and dart ammunition. Requires the Deep Cuts perk."
         },
         {
             "name": "RopeAndRealism_V21",
@@ -510,7 +609,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/RopeAndRealism_V21.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "AI Assistant and You",
+            "description": "Replaces yucca fibers with a craftable rope in early-game recipes for a more immersive crafting progression."
         },
         {
             "name": "Teragon POIs",
@@ -520,7 +621,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Teragon.POIs.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Pille",
+            "description": "This modlet adds POIs that are needed for worlds that were created with Teragon (mainly bridges and other road parts). Some of the POIs are modified vanilla POIs."
         },
         {
             "name": "The_Countryside_POI_pack",
@@ -530,7 +633,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/The_Countryside_POI_pack.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Exhin And Kellsan",
+            "description": "High realism rural POIs for V2.5"
         },
         {
             "name": "TMO-Core_v2_v2.4Stable",
@@ -540,7 +645,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TMO-Core_v2_v2.4Stable.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "TheMeanOneMods",
+            "description": "Hard dependency and library for TheMeanOne Mods, TheMeanOneDevelopments SP and additional added core features for gameplay."
         },
         {
             "name": "V2-OakravenAmmoPress",
@@ -550,7 +657,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/V2-OakravenAmmoPress.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "oakraven, with support from arramus",
+            "description": "Adds an ammo press for efficient ammo production."
         },
         {
             "name": "V2-PartyStackSize",
@@ -560,7 +669,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/V2-PartyStackSize.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "arramus",
+            "description": "Increases stack size for group storage."
         },
         {
             "name": "Valmars Survivor Notes",
@@ -570,7 +681,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Valmars.Survivor.Notes.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Valmar",
+            "description": "Exchange survivor notes for Books."
         },
         {
             "name": "Valmars_Starter_Class_System_SSO",
@@ -580,7 +693,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Valmars_Starter_Class_System_SSO.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Valmar",
+            "description": "Adds Starter classes to the game. This Version is Serverside Only"
         },
         {
             "name": "Voltraluxs POI Pack 2.5",
@@ -590,7 +705,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Voltraluxs.POI.Pack.2.5.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Voltralux",
+            "description": "A collection of POIs"
         },
         {
             "name": "WalkerSim2",
@@ -600,7 +717,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/WalkerSim2.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "ZehMatt",
+            "description": "Roaming zombies simulation mod."
         },
         {
             "name": "War3zuk FarmLife 2024",
@@ -611,7 +730,9 @@
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/War3zuk.FarmLife.2024.part1.zip",
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/War3zuk.FarmLife.2024.part2.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "War3zuk",
+            "description": "Adds full and comprehensive farming"
         },
         {
             "name": "WMMZAirdropSpawnZeds",
@@ -621,17 +742,21 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/WMMZAirdropSpawnZeds.zip"
             ],
-            "tier": 3
+            "tier": 3,
+            "author": "w00kie n00kie",
+            "description": "Unknown description"
         },
         {
             "name": "xcp_DupesFix_AsylumMods",
             "folder_name": "xcp_DupesFix_AsylumMods",
             "version": "1.0.0",
-            "hash": "c2c0a967434c6891cf9614fac6c4ea34197d9a0343e8382b091305e764ce8ecc",
+            "hash": "70bdbc28f04884a0985aaddc5c657f17655c8945992227d584166381babc90e5",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/xcp_DupesFix_AsylumMods.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "AsylumMods",
+            "description": "Fixes the bug where POI density constraints override DuplicateRepeatDistance settings, causing the same POI to spawn multiple times in close proximity. Enforces minimum distance checks even when tile density is exhausted."
         },
         {
             "name": "xcp_RWGFix_AsylumMods",
@@ -641,17 +766,21 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/xcp_RWGFix_AsylumMods.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Asylum Modding Team",
+            "description": "Fixes the bug where only T-junctions and intersections spawn in world generation. Restores proper spawning of cap (dead-end), corner, and straight road tiles."
         },
         {
             "name": "ZZTong-Prefabs",
             "folder_name": "ZZTong-Prefabs",
             "version": "1.0.0",
-            "hash": "a4f706adc85ad40bb96c48c1603c161ca62879356e61ffba3cc84d2d94cf0f2d",
+            "hash": "55afd743f81b4705474f12e15f8de5a8f746af5baf586c060205d5baa26d822e",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ZZTong-Prefabs.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "ZZTong",
+            "description": "Adds prefabs and some RWG assets made by ZZTong."
         },
         {
             "name": "zzzScomar82_Hobacs",
@@ -661,7 +790,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/zzzScomar82_Hobacs.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Scomar",
+            "description": "Highlighting of buttons and container states"
         },
         {
             "name": "zzzzNail_Realism",
@@ -671,17 +802,21 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/zzzzNail_Realism.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Adds nails to recipes and block drops for realism. Removes duct tape from tool recipes."
         },
         {
             "name": "Zzzzxcpv_Classic_All_In_One",
             "folder_name": "Zzzzxcpv_Classic_All_In_One",
             "version": "1.0.0",
-            "hash": "b6a8fb644590b260d453d4225b31fbd6bc6317d35b1337682bb5627bf3ee0354",
+            "hash": "609e592b75f013be28f95f357168827a5a5d1630ed13335306a1149c01746e69",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Zzzzxcpv_Classic_All_In_One.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Various, Stallionsden",
+            "description": "Adds Vanilla Pois."
         },
         {
             "name": "ZZZ_FNS_Loot_All_the_Things",
@@ -691,7 +826,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ZZZ_FNS_Loot_All_the_Things.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "FlufferNutterSandwich",
+            "description": "Adds many containers as lootable to make the game more immersive."
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
@@ -701,7 +838,9 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Paradoxal_Gaming_tweaks.zip"
             ],
-            "tier": 1
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "A place to gather random edits for various things, like adding new recipes."
         }
     ]
 }
