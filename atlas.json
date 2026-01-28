@@ -14,5 +14,13 @@
         "connection_info": "YOUR_IP:34576",
         "repository_alias": "Wolverinex1974/Paradoxal-7D2D-Repo",
         "status_flag": "ONLINE"
+    },
+    {
+        "display_name": "Paradoxal_7d2d_TEST",
+        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/manifest_paradoxal%207d2d%20test.json",
+        "description": "",
+        "connection_info": "YOUR_IP:34576",
+        "repository_alias": "Wolverinex1974/Paradoxal-7D2D-Repo",
+        "status_flag": "ONLINE"
     }
 ]
