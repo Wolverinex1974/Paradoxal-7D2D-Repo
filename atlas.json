@@ -7,5 +7,14 @@
         "connection_info": "YOUR_IP:34576",
         "repository_alias": "Wolverinex1974/Paradoxal-7D2D-Repo",
         "status_flag": "ONLINE"
+    },
+    {
+        "display_name": "Paradoxal Gaming 7d2d LIVE Server",
+        "profile_id": "98290d2d-3ec3-434e-a50a-2c337368d622",
+        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/manifest_paradoxal_gaming_7d2d_live_server.json",
+        "description": "",
+        "connection_info": "YOUR_IP:31974",
+        "repository_alias": "Wolverinex1974/Paradoxal-7D2D-Repo",
+        "status_flag": "ONLINE"
     }
 ]
