@@ -21,9 +21,9 @@
         "display_name": "7D2D_TEST",
         "profile_id": "1903c851-b882-4fa9-985a-02674a30ddcb",
         "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/manifest_7d2d_test.json",
-        "description": "",
+        "description": "Admin Sync",
         "connection_info": "YOUR_IP:36438",
         "repository_alias": "Wolverinex1974/Paradoxal-7D2D-Repo",
-        "status_flag": "ONLINE"
+        "status_flag": "OFFLINE"
     }
 ]
