@@ -1,0 +1,114 @@
+{
+    "launcher_config": {
+        "version": "1.0.0",
+        "latest_version": "1.0.0",
+        "news_text": "Welcome to the Paradoxal World Directory.",
+        "total_payload_size": 6760167,
+        "registry_overrides": {
+            "eco_zombie_kill_reward": 25,
+            "eco_death_penalty": 50,
+            "eco_currency_name": "Zombie Bucks",
+            "srv_ServerName": "",
+            "srv_ServerDescription": "",
+            "srv_ServerWebsiteURL": "",
+            "srv_WebDashboardEnabled": "",
+            "srv_ServerPort": "",
+            "srv_ServerMaxPlayerCount": "",
+            "srv_TelnetEnabled": "",
+            "srv_TelnetPort": "",
+            "srv_TelnetPassword": "",
+            "srv_GameWorld": "",
+            "srv_WorldGenSeed": "",
+            "srv_WorldGenSize": "",
+            "srv_GameDifficulty": "",
+            "srv_XPMultiplier": "",
+            "srv_DayNightLength": "",
+            "srv_DayLightLength": "",
+            "srv_DropOnDeath": "",
+            "srv_MaxSpawnedZombies": "",
+            "srv_BloodMoonFrequency": "",
+            "srv_BloodMoonEnemyCount": "",
+            "srv_LootAbundance": "",
+            "srv_LootRespawnDays": "",
+            "srv_AirDropFrequency": "",
+            "srv_LandClaimCount": "",
+            "srv_LandClaimSize": "",
+            "srv_EACEnabled": "",
+            "net_heartbeat_interval": 60,
+            "sec_signature_lock": "Paradoxal_Sovereign"
+        }
+    },
+    "server_info": {
+        "name": "Paradoxal Server",
+        "ip": "0.0.0.0",
+        "port": "26900",
+        "game_version": "V1.0"
+    },
+    "mods": [
+        {
+            "name": "0_TFP_Harmony",
+            "folder_name": "0_TFP_Harmony",
+            "version": "1.1.0.4",
+            "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0_TFP_Harmony.zip"
+            ],
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
+            "source": "Auto"
+        },
+        {
+            "name": "TFP_CommandExtensions",
+            "folder_name": "TFP_CommandExtensions",
+            "version": "2.1.0.0",
+            "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_CommandExtensions.zip"
+            ],
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Additional commands for server operation",
+            "source": "Auto"
+        },
+        {
+            "name": "TFP_MapRendering",
+            "folder_name": "TFP_MapRendering",
+            "version": "2.1.0.0",
+            "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_MapRendering.zip"
+            ],
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Render the game map to image map tiles as it is uncovered",
+            "source": "Auto"
+        },
+        {
+            "name": "TFP_WebServer",
+            "folder_name": "TFP_WebServer",
+            "version": "2.5.0.0",
+            "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_WebServer.zip"
+            ],
+            "tier": 3,
+            "author": "The Fun Pimps LLC",
+            "description": "Integrated Webserver for the Web Dashboard and server APIs",
+            "source": "Auto"
+        },
+        {
+            "name": "Xample_MarkersMod",
+            "folder_name": "Xample_MarkersMod",
+            "version": "1.1.1.0",
+            "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Xample_MarkersMod.zip"
+            ],
+            "tier": 1,
+            "author": "Catalysm and Alloc",
+            "description": "Allows placing custom markers on the web map",
+            "source": "Auto"
+        }
+    ]
+}
