@@ -2,7 +2,7 @@
     "launcher_config": {
         "version": "1.0.0",
         "latest_version": "1.0.0",
-        "news_text": "Welcome to the Paradoxal World Directory.",
+        "news_text": "Testing stuff n Things",
         "total_payload_size": 883279,
         "registry_overrides": {
             "eco_zombie_kill_reward": 25,
@@ -928,6 +928,83 @@
             "tier": 1,
             "author": "FlufferNutterSandwich",
             "description": "Adds many containers as lootable to make the game more immersive.",
+            "source": "Auto"
+        },
+        {
+            "name": "Medical_conditions",
+            "folder_name": "Medical_conditions",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
+        },
+        {
+            "name": "Zero_Hour_Core",
+            "folder_name": "Zero_Hour_Core",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
+        },
+        {
+            "name": "DW1982s Extra Dye Colors",
+            "folder_name": "DW1982s Extra Dye Colors",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
+        },
+        {
+            "name": "V2-SolarPowerCrafting",
+            "folder_name": "V2-SolarPowerCrafting",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
+        },
+        {
+            "name": "ZZZ_CraftableChili_FarmLife",
+            "folder_name": "ZZZ_CraftableChili_FarmLife",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
+        },
+        {
+            "name": "ZZZ_HoneyFix_BetterBiomes",
+            "folder_name": "ZZZ_HoneyFix_BetterBiomes",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
+        },
+        {
+            "name": "ZZZ_More_Chuck_And_Charred",
+            "folder_name": "ZZZ_More_Chuck_And_Charred",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto"
         }
     ]
