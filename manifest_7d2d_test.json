@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Testing stuff n Things",
-        "total_payload_size": 883279,
+        "total_payload_size": 150493,
         "registry_overrides": {
             "eco_zombie_kill_reward": 25,
             "eco_death_penalty": 50,
@@ -933,89 +933,105 @@
         {
             "name": "Medical_conditions",
             "folder_name": "Medical_conditions",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "1.3.0",
+            "hash": "f2212dffdb37479a0012174b9a68d4087fd61f6ea8b9089101539b364371d17a",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Medical_conditions.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "excyborg",
+            "description": "Adding around 50 medical conditions.",
             "source": "Auto"
         },
         {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "2.5",
+            "hash": "d4988d57d9ba016ba67ff3aceeeb3b8b2800a1c98f96bc3a504b9ad6b640af03",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/Zero_Hour_Core.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "Wolverine74",
+            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
             "source": "Auto"
         },
         {
             "name": "DW1982s Extra Dye Colors",
             "folder_name": "DW1982s Extra Dye Colors",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "4.0.4",
+            "hash": "de3c9019575d772bbbd4b197bb33cea47c3e7eb0c82ad51c5cf2e3e554cfb7d5",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/DW1982s.Extra.Dye.Colors.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "DragonWolf1982",
+            "description": "This modlet adds some more dye colors with recipes.",
             "source": "Auto"
         },
         {
             "name": "V2-SolarPowerCrafting",
             "folder_name": "V2-SolarPowerCrafting",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "2.5.0.0",
+            "hash": "4140d1bb0de7df14345c3271a6705e9815ec279438a6782c27b11a1da95cbb1e",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/V2-SolarPowerCrafting.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "arramus",
+            "description": "Adding Solar Power Cell and Bank to progression and recipes.",
             "source": "Auto"
         },
         {
             "name": "ZZZ_CraftableChili_FarmLife",
             "folder_name": "ZZZ_CraftableChili_FarmLife",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "2.5",
+            "hash": "92d4a3846b5d120ba00bfa165020f2b80b191a965d671c76d65ba072f464ba65",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ZZZ_CraftableChili_FarmLife.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "Wolverine74",
+            "description": "Allows crafting Can of Chili using Farm Life ingredients and Soy Beans.",
             "source": "Auto"
         },
         {
             "name": "ZZZ_HoneyFix_BetterBiomes",
             "folder_name": "ZZZ_HoneyFix_BetterBiomes",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "2.5",
+            "hash": "e9fcdc0d32881d14a5b6facc29372f211322c32cb60595cef692580ddc0e6bb6",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ZZZ_HoneyFix_BetterBiomes.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "Wolverine74",
+            "description": "Adds Honey and Beeswax drops to MPLogue Better Biomes Stumps.",
             "source": "Auto"
         },
         {
             "name": "ZZZ_More_Chuck_And_Charred",
             "folder_name": "ZZZ_More_Chuck_And_Charred",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "2.5",
+            "hash": "0d050fb45ae00422cc0caf52ec2509a3c5b59196c343c9175ecfb2720fc00efb",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ZZZ_More_Chuck_And_Charred.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "Wolverine74",
+            "description": "Increases spawns for Burnt Zombies and Chucks in Snow.",
             "source": "Auto"
         },
         {
             "name": "zzz_Ammo_Press_Add-On_Compatibility_Patch",
             "folder_name": "zzz_Ammo_Press_Add-On_Compatibility_Patch",
-            "version": "1.0.0",
-            "hash": "PENDING",
-            "download_urls": [],
+            "version": "2.5.2",
+            "hash": "f0272f58dc824a701926ea94466114dc325b67f7710ff074d2acce8998e76b9f",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/zzz_Ammo_Press_Add-On_Compatibility_Patch.zip"
+            ],
             "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
+            "author": "FlufferNutterSandwich",
+            "description": "This is an add-on mod patch to Oakraven's Ammo Press mod.  It adds compatibility to Izy's ammo types.",
             "source": "Auto"
         }
     ]
