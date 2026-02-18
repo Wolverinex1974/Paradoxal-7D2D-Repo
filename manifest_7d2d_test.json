@@ -1006,6 +1006,17 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto"
+        },
+        {
+            "name": "zzz_Ammo_Press_Add-On_Compatibility_Patch",
+            "folder_name": "zzz_Ammo_Press_Add-On_Compatibility_Patch",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto"
         }
     ]
 }
