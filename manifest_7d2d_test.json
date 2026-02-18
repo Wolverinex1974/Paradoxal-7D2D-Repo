@@ -92,7 +92,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_WebServer.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Integrated Webserver for the Web Dashboard and server APIs",
             "source": "Auto"
