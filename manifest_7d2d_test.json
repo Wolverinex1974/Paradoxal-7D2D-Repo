@@ -53,7 +53,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0_TFP_Harmony.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
             "source": "Auto"
@@ -66,7 +66,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_CommandExtensions.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Additional commands for server operation",
             "source": "Auto"
@@ -79,7 +79,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TFP_MapRendering.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Render the game map to image map tiles as it is uncovered",
             "source": "Auto"
