@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Testing stuff n Things",
-        "total_payload_size": 150493,
+        "total_payload_size": 7985202,
         "registry_overrides": {
             "eco_zombie_kill_reward": 25,
             "eco_death_penalty": 50,
@@ -1032,6 +1032,58 @@
             "tier": 1,
             "author": "FlufferNutterSandwich",
             "description": "This is an add-on mod patch to Oakraven's Ammo Press mod.  It adds compatibility to Izy's ammo types.",
+            "source": "Auto"
+        },
+        {
+            "name": "0-Quartz",
+            "folder_name": "0-Quartz",
+            "version": "7.1.1",
+            "hash": "4b2b59aba75f37599839ca92d91b0f9fa9875acb5becc63dbb20e0892654a945",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/0-Quartz.zip"
+            ],
+            "tier": 1,
+            "author": "Laydor",
+            "description": "A UI framework mod that adds some new XUi Widgets and XUi Controllers that can be used by modders",
+            "source": "Auto"
+        },
+        {
+            "name": "00000-Gears",
+            "folder_name": "00000-Gears",
+            "version": "6.0.1",
+            "hash": "f6b2b1de15d686e0aa841db6a0162a68fff9a680d407368b455b54c9f62ac4a1",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/00000-Gears.zip"
+            ],
+            "tier": 1,
+            "author": "Laydor",
+            "description": "A Mod Settings framework that adds settings support for mods. It allows users to change the settings in game",
+            "source": "Auto"
+        },
+        {
+            "name": "zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
+            "folder_name": "zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
+            "version": "2.5.0.9",
+            "hash": "cabdafc6c4ede87505b93edbf6ddad68f04393cb99592fc75eabbec5ab82ea26",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/zzzzPaLoALo-V2-QuestRevamp-Gears.Edition.zip"
+            ],
+            "tier": 1,
+            "author": "original author TheGaijin - fork by PaLoALo",
+            "description": "[DECEA3]Utilizes Gears to allow options for many quest functions. Adds more Tiers for the Trader Quest System and additional super, ultra, and nightmare infestation variants as new quests.[-]",
+            "source": "Auto"
+        },
+        {
+            "name": "ZZZ_LogicalRepairKitOverhaul",
+            "folder_name": "ZZZ_LogicalRepairKitOverhaul",
+            "version": "2.4.2",
+            "hash": "9890920b1072c2c62bef3254559ccf7604152c468534651ca0887647196d4acb",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/ZZZ_LogicalRepairKitOverhaul.zip"
+            ],
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Overhauls the repair system. REQUIRES Izy's Weapon Packs to be installed.",
             "source": "Auto"
         }
     ]
