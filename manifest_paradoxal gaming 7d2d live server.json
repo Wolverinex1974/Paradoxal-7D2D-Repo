@@ -2,7 +2,7 @@
     "launcher_config": {
         "version": "1.0.0",
         "latest_version": "1.0.0",
-        "news_text": "Welcome to the Paradoxal World Directory.",
+        "news_text": "",
         "total_payload_size": 3405564069,
         "registry_overrides": {}
     },
