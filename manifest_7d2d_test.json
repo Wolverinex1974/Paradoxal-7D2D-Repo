@@ -125,13 +125,11 @@
         },
         {
             "name": "(TMO) Trader Never Closes N More v4.1",
-            "folder_name": "007_(TMO) Trader Never Closes N More v4.1",
+            "folder_name": "(TMO) Trader Never Closes N More v4.1",
             "version": "4.1.0",
-            "hash": "4d628fef4c3e592d601f7a97d7941fe46a4c56520925e7b1caaf2624fb14edee",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/TMO.Trader.Never.Closes.N.More.v4.1.zip"
-            ],
-            "tier": 1,
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 3,
             "author": "TheMeanOneMods",
             "description": "The traders TEST will never close with this mod! Also adjusts restock timer and Vending Machines.  Version 4.0",
             "source": "Auto"
