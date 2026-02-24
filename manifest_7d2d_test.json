@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "THis is a TEST!",
-        "total_payload_size": 19719023183,
+        "total_payload_size": 10122833471,
         "registry_overrides": {
             "eco_zombie_kill_reward": 25,
             "eco_death_penalty": 50,
