@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "THis is a TEST!",
-        "total_payload_size": 7985202,
+        "total_payload_size": 1612,
         "registry_overrides": {
             "eco_zombie_kill_reward": 25,
             "eco_death_penalty": 50,
@@ -1082,6 +1082,19 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Overhauls the repair system. REQUIRES Izy's Weapon Packs to be installed.",
+            "source": "Auto"
+        },
+        {
+            "name": "007_(TMO) Trader Never Closes N More v4.1",
+            "folder_name": "007_(TMO) Trader Never Closes N More v4.1",
+            "version": "4.1.0",
+            "hash": "4d628fef4c3e592d601f7a97d7941fe46a4c56520925e7b1caaf2624fb14edee",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/007_.TMO.Trader.Never.Closes.N.More.v4.1.zip"
+            ],
+            "tier": 1,
+            "author": "TheMeanOneMods",
+            "description": "The traders TEST will never close with this mod! Also adjusts restock timer and Vending Machines.  Version 4.0",
             "source": "Auto"
         }
     ]
