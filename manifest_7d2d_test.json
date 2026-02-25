@@ -2,41 +2,9 @@
     "launcher_config": {
         "version": "1.0.0",
         "latest_version": "1.0.0",
-        "news_text": "THis is a TEST!",
-        "total_payload_size": 10122833471,
-        "registry_overrides": {
-            "eco_zombie_kill_reward": 25,
-            "eco_death_penalty": 50,
-            "eco_currency_name": "Zombie Bucks",
-            "srv_ServerName": "Paradoxal Gaming 7D2D Server TEST",
-            "srv_ServerDescription": "Test Server",
-            "srv_ServerWebsiteURL": "",
-            "srv_WebDashboardEnabled": "false",
-            "srv_ServerPort": "36438",
-            "srv_ServerMaxPlayerCount": "18",
-            "srv_TelnetEnabled": "true",
-            "srv_TelnetPort": "8051",
-            "srv_TelnetPassword": "soupfrog",
-            "srv_GameWorld": "RWG",
-            "srv_WorldGenSeed": "TESTING",
-            "srv_WorldGenSize": "8192",
-            "srv_GameDifficulty": "3",
-            "srv_XPMultiplier": "100",
-            "srv_DayNightLength": "60",
-            "srv_DayLightLength": "18",
-            "srv_DropOnDeath": "1",
-            "srv_MaxSpawnedZombies": "64",
-            "srv_BloodMoonFrequency": "7",
-            "srv_BloodMoonEnemyCount": "8",
-            "srv_LootAbundance": "100",
-            "srv_LootRespawnDays": "7",
-            "srv_AirDropFrequency": "72",
-            "srv_LandClaimCount": "5",
-            "srv_LandClaimSize": "41",
-            "srv_EACEnabled": "false",
-            "net_heartbeat_interval": 60,
-            "sec_signature_lock": "Paradoxal_Sovereign"
-        }
+        "news_text": "Welcome to the Paradoxal World Directory.",
+        "total_payload_size": 10122845489,
+        "registry_overrides": {}
     },
     "server_info": {
         "name": "Paradoxal Server",
@@ -46,971 +14,967 @@
     },
     "mods": [
         {
-            "name": "0_TFP_Harmony",
+            "name": "001_TFP_Harmony",
             "folder_name": "001_TFP_Harmony",
             "version": "1.1.0.4",
-            "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
+            "hash": "PENDING",
             "download_urls": [],
             "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
         },
         {
-            "name": "TFP_CommandExtensions",
+            "name": "002_TFP_CommandExtensions",
             "folder_name": "002_TFP_CommandExtensions",
             "version": "2.1.0.0",
-            "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
+            "hash": "PENDING",
             "download_urls": [],
             "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Additional commands for server operation",
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "f2eb53fbbec9831cd4914df82b4470250b1021748f86047525feb6903788c46d"
         },
         {
-            "name": "TFP_MapRendering",
+            "name": "003_TFP_MapRendering",
             "folder_name": "003_TFP_MapRendering",
             "version": "2.1.0.0",
-            "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
+            "hash": "PENDING",
             "download_urls": [],
             "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Render the game map to image map tiles as it is uncovered",
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "cb55bc582ae29d57ab74d809798e1d78005c586acde01a1d85b698474e00b0cb"
         },
         {
-            "name": "TFP_WebServer",
+            "name": "004_TFP_WebServer",
             "folder_name": "004_TFP_WebServer",
             "version": "2.5.0.0",
-            "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
+            "hash": "PENDING",
             "download_urls": [],
             "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Integrated Webserver for the Web Dashboard and server APIs",
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "511e95163c28fbe5df59e59446efde2aca7086e70f75c8ffdb193a125360b592"
         },
         {
-            "name": "(TMO) Advanced Casing Collector v4_v2.5Stable",
+            "name": "005_(TMO) Advanced Casing Collector v4_v2.5Stable",
             "folder_name": "005_(TMO) Advanced Casing Collector v4_v2.5Stable",
             "version": "4.0",
-            "hash": "9ad49b0ee249631869fcc9db7f150777f2d282d9c1f726fe95168ba64c0b3e38",
+            "hash": "PENDING",
             "download_urls": [],
             "tier": 1,
-            "author": "TheMeanOneMods",
-            "description": "Collects some of the bullet casings when the modifier is attached to your weapon and allows you save on crafting ammo!",
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "d13bc4292142ee46110d1bb44f1e66a644f9e7eee4b3d7fe7b11edef92e37e3e"
-        },
-        {
-            "name": "0-Alter_OverrideSounds",
-            "folder_name": "008_0-Alter_OverrideSounds",
-            "version": "1.1.0.4",
-            "hash": "52c23f9ddf26d76863c3479e1d282676f7e34637b64f55d1385f63254388bd15",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Alter",
-            "description": "Alter_Soundoverride",
-            "source": "Auto",
-            "folder_hash": "bf69485dca3586c6da16dff98b740efa9ebee2e2727a50f8b6842b1ebe97d72b"
-        },
-        {
-            "name": "0-CustomParticleLoader",
-            "folder_name": "009_0-CustomParticleLoader",
-            "version": "1.6.0",
-            "hash": "a89b41f71b7ef487d3f2da66cf00af16b52b6f5c3a45feea8ae54d73c410cba7",
-            "download_urls": [],
-            "tier": 1,
-            "author": "closer_ex",
-            "description": "Allow you to use custom particle for explosion effects, with your own monoscripts.",
-            "source": "Auto",
-            "folder_hash": "8d53fb8c17a6cf1d24de2aa201dba92dfb450bfede6ec1ae9d5147160446dea6"
-        },
-        {
-            "name": "0-SCore",
-            "folder_name": "010_0-SCore",
-            "version": "2.5.10.2106",
-            "hash": "be8baf3f05dd97869e7f48814b751c9b5cda8023677dd0d84ec17db56dee0527",
-            "download_urls": [],
-            "tier": 1,
-            "author": "sphereii",
-            "description": "SCore Mod",
-            "source": "Auto",
-            "folder_hash": "e0d34e7d11ece759d11b03da90642844689b90e44077ef819651623c5e105c7f"
-        },
-        {
-            "name": "0-zMoreQuestsNoScrollbar(2.5.0)",
-            "folder_name": "011_0-zMoreQuestsNoScrollbar(2.5.0)",
-            "version": "2.5.0.0",
-            "hash": "8454ced1d4e506f21483c8c7877a35b6c53b947955760ac61000cf8d5c64f9ea",
-            "download_urls": [],
-            "tier": 1,
-            "author": "jns0fficial",
-            "description": "Increases the amount of available quests at traders and adds other QoL changes related to quests.",
-            "source": "Auto",
-            "folder_hash": "c89b8459a6f71d5a90cecd4d8efc247cb5b8c5cde701d5e381d3e36db53cf1b1"
-        },
-        {
-            "name": "7D1.0_Izayo_Visible_FPV_Gloves_mod",
-            "folder_name": "012_7D1.0_Izayo_Visible_FPV_Gloves_mod",
-            "version": "1.1.0.4",
-            "hash": "a8f98d29bc227dc351374d155cbf36e5af4b913084cc903ed1cd20f67afabd51",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_FPV_GLOVES",
-            "source": "Auto",
-            "folder_hash": "0e5aef74ea24fa59fdca106bf911da486dd2c88dab573f9f9d337fb644fcd1ca"
-        },
-        {
-            "name": "7D1.0_Izayo_Visible_Mods_mod",
-            "folder_name": "013_7D1.0_Izayo_Visible_Mods_mod",
-            "version": "1.1.0.4",
-            "hash": "774d28cc40fed1cc10fa114422e0b0b5f389fb81b170649c31fe844c05cf82c1",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_MMVMV2",
-            "source": "Auto",
-            "folder_hash": "61eae5f4954c6a056758109199a21dcb5769f1e34823722cebf3d0ca2df8fbb9"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackMisc_pack",
-            "folder_name": "014_7D1.0_Izayo_WeaponpackMisc_pack",
-            "version": "1.1.0.4",
-            "hash": "31ca1ef59552f886dbd554c22effc09411c5b82ddbb69359e5b8a24ab1dac951",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_Miscpack",
-            "source": "Auto",
-            "folder_hash": "cd33b59a3077a44c0010e934235d32cc1c98a51d0533dd7ffb8f1a893ffddbf7"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_44mag",
-            "folder_name": "015_7D1.0_Izayo_WeaponpackRemastered_44mag",
-            "version": "1.1.0.4",
-            "hash": "01b8dd80f4e82cff803b6461e5cea19065639361ece23ba08ab033d9fe776110",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_44magnum",
-            "source": "Auto",
-            "folder_hash": "5ae587c92fdea2eff7f2a3db7b3621e9d0936d9c2f1ad72704ca5518ee6a4992"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_45ACP",
-            "folder_name": "016_7D1.0_Izayo_WeaponpackRemastered_45ACP",
-            "version": "1.1.0.4",
-            "hash": "a9e1b13a8630fe2f3391f12d47006436ed35db2de3b2e821cbb38191525f75ea",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_45ACP",
-            "source": "Auto",
-            "folder_hash": "e164db8d7468622e24a349a68978bcdab7fbf477c4fb2333d0766818d8ba66e9"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_556pack",
-            "folder_name": "017_7D1.0_Izayo_WeaponpackRemastered_556pack",
-            "version": "1.1.0.4",
-            "hash": "fdad7a4d8a2753cc48c2bb5ca5e47b09ac10eec5f9775d55430a6bb5548b5e04",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_556",
-            "source": "Auto",
-            "folder_hash": "ac04098b6d877b1f4d3c48d811b62e8980a7a4668236a4f22aecf523516de089"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_762pack",
-            "folder_name": "018_7D1.0_Izayo_WeaponpackRemastered_762pack",
-            "version": "1.1.0.4",
-            "hash": "7e79c91e013554981731a7c84798b2f69ec8b75b5a7d3a4869f38403ad8f8eb9",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_762pack",
-            "source": "Auto",
-            "folder_hash": "88d18974f8c545f4e20a9b663b79cdc7c123bfc51377bc80043003e79b911780"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
-            "folder_name": "019_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
-            "version": "1.1.0.4",
-            "hash": "d0d341c96eeb3fbc2365d7e63bf71802a5de500487a1415317b46e56a5f25c3e",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_9mmVAL",
-            "source": "Auto",
-            "folder_hash": "00463e9774aefe1b909193238abab52891c73d64062fb01f974f088d5f116ea5"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
-            "folder_name": "020_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
-            "version": "1.1.0.4",
-            "hash": "a4b96c896332968b71ddb94d46c8a1fa38e771e0614b4e88271626915e6ba176",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_Demopack",
-            "source": "Auto",
-            "folder_hash": "e71be9c9a9b67fd69d6311d7f4d7de47b3459598eeacfa33a5c6d297871867e7"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
-            "folder_name": "021_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
-            "version": "1.1.0.4",
-            "hash": "71bddaecfe5cc97d7a0a56a6d656058fe547c401be6b2d651740aaec2ad8cb39",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_HVW",
-            "source": "Auto",
-            "folder_hash": "18dc36663e9ad662ed8bab144397a1be8d6573fc1b957a84a2fa3ec057939028"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
-            "folder_name": "022_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
-            "version": "1.1.0.4",
-            "hash": "fded8d456ecd41025af180bbb21132a793db08e4a40578fe068a4cca02c43b68",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_SG",
-            "source": "Auto",
-            "folder_hash": "c8d6a6a3654bb77b941adabe3c4cb91393a7533c26b253708c837b1f8f675753"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
-            "folder_name": "023_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
-            "version": "1.1.0.4",
-            "hash": "4fa6c9c5879c84f3889b3047d1e15c81e35559f1d701c0c295b73d3262291b97",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_RMP_Tech",
-            "source": "Auto",
-            "folder_hash": "cbf5ac2efda7ddfc0d692b22e905cf95014c406da016ceaf525c4fa43642c421"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackSpecial_Melee",
-            "folder_name": "024_7D1.0_Izayo_WeaponpackSpecial_Melee",
-            "version": "1.1.0.4",
-            "hash": "826bed9515b306f69fe723aa01da8764133cf76dcffbc4d0170b3c32ae4e4f77",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_melee",
-            "source": "Auto",
-            "folder_hash": "cdad8a55533b07d495ea4af60ae3fd9ad4aca389407ad6ba629de21e74d94e04"
-        },
-        {
-            "name": "7D1.0_Izayo_WeaponpackVanillaReplacer",
-            "folder_name": "025_7D1.0_Izayo_WeaponpackVanillaReplacer",
-            "version": "1.1.0.4",
-            "hash": "a84b818403042ab0ccb209ef6b03c87d1b95e4e0f127d1e02d3c589730e0d396",
-            "download_urls": [],
-            "tier": 1,
-            "author": "IZY",
-            "description": "IZY_VRP",
-            "source": "Auto",
-            "folder_hash": "51e818d0dc720de1ad676e389f2f2bf99a01f19023381412c75dbe6d751af5f4"
-        },
-        {
-            "name": "AGF-V2-Backpack84Plus-v3.2.0",
-            "folder_name": "026_AGF-V2-Backpack84Plus-v3.2.0",
-            "version": "3.2.0",
-            "hash": "42afea3086e9a85a224f388343c8b3dd659a050205226c12c760251a45ee1a75",
-            "download_urls": [],
-            "tier": 1,
-            "author": "AuroraGiggleFairy (AGF)",
-            "description": "84 slot backpack and extra large storage options.",
-            "source": "Auto",
-            "folder_hash": "983b12228a0f2c8e5721888bd2ef3cce16de426738a1f6b98a1595894bbabc77"
-        },
-        {
-            "name": "AGF-V2-HUDPlus-1Main-v5.2.0",
-            "folder_name": "027_AGF-V2-HUDPlus-1Main-v5.2.0",
-            "version": "5.2.0",
-            "hash": "2d0159d959cc3737304e1795839ea1c335844870656d520d154a684972296c18",
-            "download_urls": [],
-            "tier": 1,
-            "author": "AuroraGiggleFairy (AGF)",
-            "description": "QOL HUD with lots of features.",
-            "source": "Auto",
-            "folder_hash": "e5ede8606f7b1271be5dff539aeb561295527937da0bddbdc07675254445c255"
-        },
-        {
-            "name": "AGF-V2-VP-SmeltingPlus-v2.2.1",
-            "folder_name": "028_AGF-V2-VP-SmeltingPlus-v2.2.1",
-            "version": "2.2.1",
-            "hash": "5d2c59bf1861008b3377230a228ddaa3299a36602a844d3b5991bbfef511b3da",
-            "download_urls": [],
-            "tier": 1,
-            "author": "AuroraGiggleFairy (AGF)",
-            "description": "3 forge slots, sand smelts 1:5 ratio, smelt or craft clay/rock/stone in single units.",
-            "source": "Auto",
-            "folder_hash": "8be698f7caec33e6c36daa8d848b56bcfa91b9543dd6c5e1819a5892d5d8dec9"
-        },
-        {
-            "name": "Allocs_CommandExtensions",
-            "folder_name": "029_Allocs_CommandExtensions",
-            "version": "29",
-            "hash": "b5ba4e1392222123dd96d974da3967084eb3cbb9771814771c0e0c4b8f87ba2c",
-            "download_urls": [],
-            "tier": 3,
-            "author": "Christian 'Alloc' Illy",
-            "description": "Additional commands for server operation",
-            "source": "Auto",
-            "folder_hash": "c0dfb2cc849bfc2f76b20ac210663586089705fe06ea67e59053010e98bbebd7"
-        },
-        {
-            "name": "Allocs_CommonFunc",
-            "folder_name": "030_Allocs_CommonFunc",
-            "version": "37",
-            "hash": "12f99fb3e4c845c7fe3206d1f233397966b42168da32c163caca14d83d7d4c4a",
-            "download_urls": [],
-            "tier": 3,
-            "author": "Christian 'Alloc' Illy",
-            "description": "Common functions",
-            "source": "Auto",
-            "folder_hash": "1e98fc403100be47ff8599d20db4ace6f2ab95cb54d859a4e34cb6832ac9341b"
-        },
-        {
-            "name": "Allocs_WebAndMapRendering",
-            "folder_name": "031_Allocs_WebAndMapRendering",
-            "version": "51",
-            "hash": "bbf62476f038d6e75f62543a7ab12455e066ad3373816d4622c55bff4e9a1bbf",
-            "download_urls": [],
-            "tier": 3,
-            "author": "Christian 'Alloc' Illy",
-            "description": "Render the game map to image map tiles as it is uncovered",
-            "source": "Auto",
-            "folder_hash": "3210fac0978be6740c57124f3ae0492b8445206ee930843ccf84b1d7e9c5aeef"
-        },
-        {
-            "name": "ArrowsAndBoltsCauseBleed",
-            "folder_name": "032_ArrowsAndBoltsCauseBleed",
-            "version": "2.2.1",
-            "hash": "c286939cb3f45ce4a51061fd049063a1de5ae4cfe337a723f542e3744ae2b90d",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Applies a perk-driven bleed effect to all vanilla arrows/bolts. Self-contained and bug-free. Requires the Deep Cuts perk.",
-            "source": "Auto",
-            "folder_hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f"
-        },
-        {
-            "name": "BdubsVehicles",
-            "folder_name": "033_BdubsVehicles",
-            "version": "2.5.1.1",
-            "hash": "e0f8d1a1d629e1bbee2f420db63cb0382ad4d9b8791d33c32a1a003b2da057ad",
-            "download_urls": [],
-            "tier": 1,
-            "author": "bdubyah",
-            "description": "This is a collection of all my individually released vehicles.",
-            "source": "Auto",
-            "folder_hash": "cb4376585c72f20492306ee5602598b2158ebb50cb25d024f026049d156c5dc3"
-        },
-        {
-            "name": "Better perks",
-            "folder_name": "034_Better perks",
-            "version": "1.0",
-            "hash": "659cbca257a4df4cb6edaf7bc8e224cac48d99359cc2d00c2a895ad21a87705d",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Black Wolf",
-            "description": "Improves various underpowered perks",
-            "source": "Auto",
-            "folder_hash": "ddf56e28f892eabba38a61fe2df2f291fa80e3c15e64be17bb6f74b8bc2ecba1"
-        },
-        {
-            "name": "Better_Biomes_v2",
-            "folder_name": "035_Better_Biomes_v2",
-            "version": "2.0.1",
-            "hash": "d13de51d77a85aa2443827b9c0cee18ab437048620064ce07876906a48c9e2cd",
-            "download_urls": [],
-            "tier": 1,
-            "author": "MPLogue",
-            "description": "Enhanced Biome immersion with fallen trees and underbrush",
-            "source": "Auto",
-            "folder_hash": "df1b5efe94a4d198f93c98de7b88211490617e0d86b755e98327993dc1b9dd9f"
-        },
-        {
-            "name": "Dewtas Random Knockdown Timer 2.5",
-            "folder_name": "036_Dewtas Random Knockdown Timer 2.5",
-            "version": "1.0",
-            "hash": "304a95a9dfcbd0e070783bd5a2faacc397dc11a12634bd23eefe8f6dc29151e6",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Dewta",
-            "description": "Randomizes time zombies take to get up after being knocked down from 1 - 7 seconds.",
-            "source": "Auto",
-            "folder_hash": "c4f65fcf900d44b952d9ea13b3135b79b73ac9992f6ef733f1e809e34b43b3f2"
-        },
-        {
-            "name": "FNS Self-Planting Trees v2",
-            "folder_name": "037_FNS Self-Planting Trees v2",
-            "version": "1.0",
-            "hash": "6664437270aec6bb72d690f951c7506e641ef0db7f6c18ad92e94c6812af7beb",
-            "download_urls": [],
-            "tier": 1,
-            "author": "FlufferNutterSandwich",
-            "description": "The trees immediately replant themselves in the same spot after you cut them down.  It also drastically removes tree seeds, so there is less hassle with inventory management and replanting.",
-            "source": "Auto",
-            "folder_hash": "e98c8880b24b778cbf4b5b22bd6427b34c8b8a1816605ed40d85aa44574fc425"
-        },
-        {
-            "name": "Just Cook It",
-            "folder_name": "038_Just Cook It",
-            "version": "1.2",
-            "hash": "c68f82af50781559bb7466dd4734bbbc2575916c89c65ef0de48a4f9187de7cd",
-            "download_urls": [],
-            "tier": 1,
-            "author": "ShadowOsmium",
-            "description": "Grilling and boiling meat no longer require skills as it is just common sense. Also tweaks recipe costs for Charred, Boiled and Grilled meats.",
-            "source": "Auto",
-            "folder_hash": "ea986be4874ae3ece2b29a839dec136be9a77be865ff2b769e0b2304f57121ea"
-        },
-        {
-            "name": "KHV1_Zombie_Reach_Adjustment",
-            "folder_name": "039_KHV1_Zombie_Reach_Adjustment",
-            "version": "2.5.1.1",
-            "hash": "550555af6aa60a7f0c6f3e3ad10517d9acf187c3d5019e33e3e10958404f0496",
-            "download_urls": [],
-            "tier": 1,
-            "author": "FlufferNutterSandwich",
-            "description": "This mod reduces zombie reach so they aren't slapping you outside of spear range.  FNS was given permission by Khaine, the original author, to recreate this mod on Nexus.  Khaine did the work, all credit is rightly his.",
-            "source": "Auto",
-            "folder_hash": "db2e7a9812dc2e5a876003aa91483344aae674c0ec801c74420d751b1539f840"
-        },
-        {
-            "name": "Locks",
-            "folder_name": "040_Locks",
-            "version": "2.0.0",
-            "hash": "b358829b4190047829c5d8e20b9f565d63e9291c96a85569a1a07d22dcbd7dc1",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Xyth/SphereII/Mumpfy",
-            "description": "Locks - Locks for the LockPicking minigame enabled in Sphereii's SCore",
-            "source": "Auto",
-            "folder_hash": "e39e9a60748b22b9f27905fa1dbdd2bd29afb2b5d3704478ec6d57e434f036fa"
-        },
-        {
-            "name": "Longer Lasting Buffs 5x",
-            "folder_name": "041_Longer Lasting Buffs 5x",
-            "version": "1.0",
-            "hash": "3b12d8be7fcfcaedce389b8b4f6b0decb55c300ce99870bb075453fdde6f0202",
-            "download_urls": [],
-            "tier": 1,
-            "author": "napalm1",
-            "description": "Buffs last 5x longer and stack for 5x as much.  Applies to Candies, Drugs and some Drinks",
-            "source": "Auto",
-            "folder_hash": "b1baeeb5e1c796ac880dedd77000a10e3f2b6436fd9c332751ec84031301da00"
-        },
-        {
-            "name": "MPLogue_UrbanDecay_7D2D_v2_0_1",
-            "folder_name": "042_MPLogue_UrbanDecay_7D2D_v2_0_1",
-            "version": "1.2.1",
-            "hash": "73e8d053370f445f168b88a5fabf23018d5d2bcd14385888f25d03966e1516b2",
-            "download_urls": [],
-            "tier": 1,
-            "author": "MPLogue",
-            "description": "MPLogue_UrbanDecay_7D2D_v1_0",
-            "source": "Auto",
-            "folder_hash": "d8c3dd38dd1286d94739ed1602970450981098be39a6d2df4833df2c63952761"
-        },
-        {
-            "name": "MXMRMXs POI PACK V1.14",
-            "folder_name": "043_MXMRMXs POI PACK V1.14",
-            "version": "2.0",
-            "hash": "2134c7cdfdb9f9add56fe50e512662abe38a49d3889910ed68f9526f4d8e89dc",
-            "download_urls": [],
-            "tier": 1,
-            "author": "War0zzz",
-            "description": "POI Pack that i created to help add just a little more variety to RWG worlds",
-            "source": "Auto",
-            "folder_hash": "72a6b9c378d787121456dbff9b90d8a6b5acd8b27e4706854e6c4d431ada4fde"
-        },
-        {
-            "name": "New Spawn start zone",
-            "folder_name": "044_New Spawn start zone",
-            "version": "1.0.0",
-            "hash": "fd6327bb9648b89aadd56742b20f3dc86a84812a787bb16cc46d1459a172c3fa",
-            "download_urls": [],
-            "tier": 1,
-            "author": "YourName",
-            "description": "Forces all new player spawns into forest biomes during random world generation. For 7D2D 2.2 Stable.",
-            "source": "Auto",
-            "folder_hash": "d6c3cdd458d4a8b1952b4044909819115d50c9c0dc8badd5036d2aca38b3a387"
-        },
-        {
-            "name": "Officecats5 POI pack",
-            "folder_name": "045_Officecats5 POI pack",
-            "version": "0.0.0",
-            "hash": "3497363e97b43e1e9e69ee1b64e172dc80c348d38ce27d8d1ec9791a5224b55f",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Officecats5",
-            "description": "POI pack",
-            "source": "Auto",
-            "folder_hash": "9367063d70c42f60ef5a16475f67af82ca2f9a3655d0a888afaf546c548d8cd9"
-        },
-        {
-            "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "046_Paradoxal_Gaming_tweaks",
-            "version": "2.2.9",
-            "hash": "060ff5c229124a0371f0b0adc243d590db4a15bebbcd4f505b1b02f34c36f8eb",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "A place to gather random edits for various things, like adding new recipes.",
-            "source": "Auto",
-            "folder_hash": "9f52e85814110c8f588ec8223811777c9d41f072bb10309c199859fe70fa9cfd"
-        },
-        {
-            "name": "Primitive_Farming_Style",
-            "folder_name": "047_Primitive_Farming_Style",
-            "version": "2.1.1",
-            "hash": "189ff9f9f75f3fae51fe60c8e7267f411a2b099b69e2b6fafd8c1eb868449f09",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine",
-            "description": "Simplifies agriculture by allowing direct planting on most natural ground, removing the need for craftable farm plots.",
-            "source": "Auto",
-            "folder_hash": "6428fa117c28aeea767b4aa91012c6827c016fc2a860f3b7159eda941c352649"
-        },
-        {
-            "name": "PrismaCore",
-            "folder_name": "048_PrismaCore",
-            "version": "2.1",
-            "hash": "02182e2288accd42c3e35aa974207b1d4fc9fd0e605f5766fc75fc9133115ac9",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Prisma501",
-            "description": "Additional management and player control functionality",
-            "source": "Auto",
-            "folder_hash": "e607222892e8f4981bd986fed60ba998c77fe8229b459912a1f7215c933ff34f"
-        },
-        {
-            "name": "ProjectileBleedMod",
-            "folder_name": "049_ProjectileBleedMod",
-            "version": "2.2.1",
-            "hash": "4234506eaf12dd825b68439594bf749cfcabeb683b29354e2eb085b9fe89a8f8",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Standalone mod that adds a perk-driven bleed effect to all standard bullet, shell, slug, and dart ammunition. Requires the Deep Cuts perk.",
-            "source": "Auto",
-            "folder_hash": "ce9dc18e11ab8a08d6ef75c6a40cd424f03759adbe4b82f042a162c0bc95cc92"
-        },
-        {
-            "name": "RopeAndRealism_V21",
-            "folder_name": "050_RopeAndRealism_V21",
-            "version": "5.1.10",
-            "hash": "5475178fb1c2b33d2e68b3cc650ad1819fbe3fb49b7e1c7788c3e6222a2f2b23",
-            "download_urls": [],
-            "tier": 1,
-            "author": "AI Assistant and You",
-            "description": "Replaces yucca fibers with a craftable rope in early-game recipes for a more immersive crafting progression.",
-            "source": "Auto",
-            "folder_hash": "5c8cc2f6d62b7b230c115ff14292aefc0da59bdbe498bbfc77e40ad78431762e"
-        },
-        {
-            "name": "Teragon POIs",
-            "folder_name": "051_Teragon POIs",
-            "version": "22.0.0.0",
-            "hash": "a0ae4b6e95838a456fee8786723ee2691424924b490b34002c121abcd1c0864f",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Pille",
-            "description": "This modlet adds POIs that are needed for worlds that were created with Teragon (mainly bridges and other road parts). Some of the POIs are modified vanilla POIs.",
-            "source": "Auto",
-            "folder_hash": "97a547a51690fd9671ac2374b5d3652a2413f8898d1867623b0b9ab665df2c47"
-        },
-        {
-            "name": "The_Countryside_POI_pack",
-            "folder_name": "052_The_Countryside_POI_pack",
-            "version": "2.5.0",
-            "hash": "4d6e3bbb0f5cfae2d25c8271f6f55ceca3e1b72a36cf89e09e836d520e395aa5",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Exhin And Kellsan",
-            "description": "High realism rural POIs for V2.5",
-            "source": "Auto",
-            "folder_hash": "992692ea674245bd63a02f420dd464c3d16f8c8a037c7af23482b5a7ed7e132b"
-        },
-        {
-            "name": "TMO-Core_v2_v2.4Stable",
-            "folder_name": "053_TMO-Core_v2_v2.4Stable",
-            "version": "2.0",
-            "hash": "2c28baccc5b618b939e7ad33d4aa40c5e3738938e1d07023cfe61b7e83728494",
-            "download_urls": [],
-            "tier": 1,
-            "author": "TheMeanOneMods",
-            "description": "Hard dependency and library for TheMeanOne Mods, TheMeanOneDevelopments SP and additional added core features for gameplay.",
-            "source": "Auto",
-            "folder_hash": "79b0d4ad90fd6824db0014ed46e9de7c9258b06963897c70e226593be08ee28a"
-        },
-        {
-            "name": "V2-OakravenAmmoPress",
-            "folder_name": "054_V2-OakravenAmmoPress",
-            "version": "2.5.0.0",
-            "hash": "ee7b2aa4e1b183608b18e8c774a1972c03e025653e06add364c4b737ad294697",
-            "download_urls": [],
-            "tier": 1,
-            "author": "oakraven, with support from arramus",
-            "description": "Adds an ammo press for efficient ammo production.",
-            "source": "Auto",
-            "folder_hash": "61624ba71b8a54addbffdcda643ae711a2f00a2afe33ca3f4d85c59323986195"
-        },
-        {
-            "name": "V2-PartyStackSize",
-            "folder_name": "055_V2-PartyStackSize",
-            "version": "2.5.0.0",
-            "hash": "c37d66525ac8e18eddd031456f52fdfe709db4486c05bb3e41226b5686765f64",
-            "download_urls": [],
-            "tier": 1,
-            "author": "arramus",
-            "description": "Increases stack size for group storage.",
-            "source": "Auto",
-            "folder_hash": "afef5b9c876b0485ededd188c4c3048667b1edc4555bfb97467fefba7735b4a7"
-        },
-        {
-            "name": "Valmars Survivor Notes",
-            "folder_name": "056_Valmars Survivor Notes",
-            "version": "2.0.2.0",
-            "hash": "418ce6e8423b45c72326cbc61972a9fa0816c61e8ef8725a39061969e462d54c",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Valmar",
-            "description": "Exchange survivor notes for Books.",
-            "source": "Auto",
-            "folder_hash": "945114c2212b13f79b7faff79a683605ffa8b5829dfdd552511177a60db93372"
-        },
-        {
-            "name": "Valmars_Starter_Class_System_SSO",
-            "folder_name": "057_Valmars_Starter_Class_System_SSO",
-            "version": "2.2.2.2",
-            "hash": "bca0d73e65dce8cb3dd7e74f3360a0304f7cb76d6c6c2c307b416285b9dfc012",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Valmar",
-            "description": "Adds Starter classes to the game. This Version is Serverside Only",
-            "source": "Auto",
-            "folder_hash": "9a8cb12376fe864e20002c6689036c7bb2b21befdc45dd067d4837fc2a126851"
-        },
-        {
-            "name": "Voltraluxs POI Pack 2.5",
-            "folder_name": "058_Voltraluxs POI Pack 2.5",
-            "version": "21.1.0.1",
-            "hash": "173c3d6f08510a12c1b91ed2efbd20e33000401e5f39a48817064a8f2b61107c",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Voltralux",
-            "description": "A collection of POIs",
-            "source": "Auto",
-            "folder_hash": "b9b77f458860b8ffded355e0970d4c9bcf9dba13e4406ea4596af5e7d789a5df"
-        },
-        {
-            "name": "WalkerSim2",
-            "folder_name": "059_WalkerSim2",
-            "version": "1.0.0.0",
-            "hash": "6b5be5f82d82caef4b95278503fdb299dfe2bf73510b7c024197e240fa92f331",
-            "download_urls": [],
-            "tier": 1,
-            "author": "ZehMatt",
-            "description": "Roaming zombies simulation mod.",
-            "source": "Auto",
-            "folder_hash": "509a23841e720fe5ec8c1e8a75834bca5ea69b0778abbc6629fd61451b564bd2"
-        },
-        {
-            "name": "War3zuk FarmLife 2024",
-            "folder_name": "060_War3zuk FarmLife 2024",
-            "version": "5.2",
-            "hash": "1b227912c78cf982f95903a3a373e948261a9f77c19d9b3b63b71c2e6ba0ac08",
-            "download_urls": [],
-            "tier": 1,
-            "author": "War3zuk",
-            "description": "Adds full and comprehensive farming",
-            "source": "Auto",
-            "folder_hash": "117b8ba200343bfa2ef5b77026af39d196fb30a7cb8703c6b5cf6d14c22da79a"
-        },
-        {
-            "name": "WMMZAirdropSpawnZeds",
-            "folder_name": "061_WMMZAirdropSpawnZeds",
-            "version": "2.5.23.1",
-            "hash": "3bb1498ffdf256a974d0951110e05b2532779ac9f2aae636a7bb8b05574622d7",
-            "download_urls": [],
-            "tier": 1,
-            "author": "w00kie n00kie",
-            "description": "Unknown description",
-            "source": "Auto",
-            "folder_hash": "4de5299712b9a00356fd40cd5b9f90d1bff1897ea80eaebf0a7929035fc59354"
-        },
-        {
-            "name": "xcp_DupesFix_AsylumMods",
-            "folder_name": "062_xcp_DupesFix_AsylumMods",
-            "version": "1.0.0",
-            "hash": "70bdbc28f04884a0985aaddc5c657f17655c8945992227d584166381babc90e5",
-            "download_urls": [],
-            "tier": 1,
-            "author": "AsylumMods",
-            "description": "Fixes the bug where POI density constraints override DuplicateRepeatDistance settings, causing the same POI to spawn multiple times in close proximity. Enforces minimum distance checks even when tile density is exhausted.",
-            "source": "Auto",
-            "folder_hash": "da7b1e4d20a2b83076cf44871b6b66e1fb9cbc21c6a2c4a1a2a18f5788e114a2"
-        },
-        {
-            "name": "xcp_RWGFix_AsylumMods",
-            "folder_name": "063_xcp_RWGFix_AsylumMods",
-            "version": "1.0.0",
-            "hash": "fb124b3202b23b9f5eabd892521e60b9d8aacdd1820ab3f68d68040437fdfcc3",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Asylum Modding Team",
-            "description": "Fixes the bug where only T-junctions and intersections spawn in world generation. Restores proper spawning of cap (dead-end), corner, and straight road tiles.",
-            "source": "Auto",
-            "folder_hash": "84f05ede3933f90c3706a35075c68ffa978ad21ba3a52dae5e67884742f57dcf"
-        },
-        {
-            "name": "ZZTong-Prefabs",
-            "folder_name": "064_ZZTong-Prefabs",
-            "version": "2.5.031",
-            "hash": "55afd743f81b4705474f12e15f8de5a8f746af5baf586c060205d5baa26d822e",
-            "download_urls": [],
-            "tier": 1,
-            "author": "ZZTong",
-            "description": "Adds prefabs and some RWG assets made by ZZTong.",
-            "source": "Auto",
-            "folder_hash": "ca635b313b880d308de8a3201c0bcb380e819145b813c79a2ccbdbb3ca8c075e"
-        },
-        {
-            "name": "zzzScomar82_Hobacs",
-            "folder_name": "065_zzzScomar82_Hobacs",
-            "version": "2.3",
-            "hash": "5510750cdf7f0043ca29609c105daeb4322d96d6d04145a7b80e2ce0b520162d",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Scomar",
-            "description": "Highlighting of buttons and container states",
-            "source": "Auto",
-            "folder_hash": "644e46e39ad4d4d03482915f23113c87c9856dd517827c4b14b0b4a38f65848b"
-        },
-        {
-            "name": "zzzzNail_Realism",
-            "folder_name": "066_zzzzNail_Realism",
-            "version": "2.2.2",
-            "hash": "8aff9de5a31503f2694268f4a0603d7d4bec4a95044468db95c49f22e3d7683b",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Adds nails to recipes and block drops for realism. Removes duct tape from tool recipes.",
-            "source": "Auto",
-            "folder_hash": "b23b42290ad7912dd02dab9401bb4a5f720b5ab0850915eb92acf63994db6475"
-        },
-        {
-            "name": "Zzzzxcpv_Classic_All_In_One",
-            "folder_name": "067_Zzzzxcpv_Classic_All_In_One",
-            "version": "2.0.51.2",
-            "hash": "609e592b75f013be28f95f357168827a5a5d1630ed13335306a1149c01746e69",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Various, Stallionsden",
-            "description": "Adds Vanilla Pois.",
-            "source": "Auto",
-            "folder_hash": "6877cebc78a47f4e77ce87082665703de7743aef113f0179c1f9fcbc95c60cc7"
-        },
-        {
-            "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "068_ZZZ_FNS_Loot_All_the_Things",
-            "version": "2.5.2.1",
-            "hash": "823981e7d4d0648edaaf0e641b1c6089d0e0bbb365449c056458761409789bce",
-            "download_urls": [],
-            "tier": 1,
-            "author": "FlufferNutterSandwich",
-            "description": "Adds many containers as lootable to make the game more immersive.",
-            "source": "Auto",
-            "folder_hash": "b8461339cca0cdb1252191f657352485bd7477fa3396f9d39db092674e640445"
-        },
-        {
-            "name": "Medical_conditions",
-            "folder_name": "069_Medical_conditions",
-            "version": "1.3.0",
-            "hash": "f2212dffdb37479a0012174b9a68d4087fd61f6ea8b9089101539b364371d17a",
-            "download_urls": [],
-            "tier": 1,
-            "author": "excyborg",
-            "description": "Adding around 50 medical conditions.",
-            "source": "Auto",
-            "folder_hash": "0ae53ab54a9c1b6905788f4dd686fd273f26eee3c671e32a1b8cd37165d63526"
-        },
-        {
-            "name": "Zero_Hour_Core",
-            "folder_name": "070_Zero_Hour_Core",
-            "version": "2.5.1",
-            "hash": "d4988d57d9ba016ba67ff3aceeeb3b8b2800a1c98f96bc3a504b9ad6b640af03",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
-            "source": "Auto",
-            "folder_hash": "db08640d63a6df6d27212851400ac253297d40efcd88b73efaaca6c53c2de0ae"
-        },
-        {
-            "name": "DW1982s Extra Dye Colors",
-            "folder_name": "071_DW1982s Extra Dye Colors",
-            "version": "4.0.4",
-            "hash": "de3c9019575d772bbbd4b197bb33cea47c3e7eb0c82ad51c5cf2e3e554cfb7d5",
-            "download_urls": [],
-            "tier": 1,
-            "author": "DragonWolf1982",
-            "description": "This modlet adds some more dye colors with recipes.",
-            "source": "Auto",
-            "folder_hash": "ef308878c071071cc27254c2371be13ddefcfe210e817ff03b731b11a12d5163"
-        },
-        {
-            "name": "V2-SolarPowerCrafting",
-            "folder_name": "072_V2-SolarPowerCrafting",
-            "version": "2.5.0.0",
-            "hash": "4140d1bb0de7df14345c3271a6705e9815ec279438a6782c27b11a1da95cbb1e",
-            "download_urls": [],
-            "tier": 1,
-            "author": "arramus",
-            "description": "Adding Solar Power Cell and Bank to progression and recipes.",
-            "source": "Auto",
-            "folder_hash": "1375acad85e26b1b2aff5cd386498eb25fea449f81ea2379e6fa59350c599605"
-        },
-        {
-            "name": "ZZZ_CraftableChili_FarmLife",
-            "folder_name": "073_ZZZ_CraftableChili_FarmLife",
-            "version": "2.5",
-            "hash": "92d4a3846b5d120ba00bfa165020f2b80b191a965d671c76d65ba072f464ba65",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Allows crafting Can of Chili using Farm Life ingredients and Soy Beans.",
-            "source": "Auto",
-            "folder_hash": "9148c31b8ae8f94311c0ca0755d57da8b903b58703ae5d314e4bc9a7dd952e61"
-        },
-        {
-            "name": "ZZZ_HoneyFix_BetterBiomes",
-            "folder_name": "074_ZZZ_HoneyFix_BetterBiomes",
-            "version": "2.5",
-            "hash": "e9fcdc0d32881d14a5b6facc29372f211322c32cb60595cef692580ddc0e6bb6",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Adds Honey and Beeswax drops to MPLogue Better Biomes Stumps.",
-            "source": "Auto",
-            "folder_hash": "74b704c64d8c5bdd5616689d6a0f28f40c07afc998e0ff590baa77d734cf245d"
-        },
-        {
-            "name": "ZZZ_More_Chuck_And_Charred",
-            "folder_name": "075_ZZZ_More_Chuck_And_Charred",
-            "version": "2.5",
-            "hash": "0d050fb45ae00422cc0caf52ec2509a3c5b59196c343c9175ecfb2720fc00efb",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Increases spawns for Burnt Zombies and Chucks in Snow.",
-            "source": "Auto",
-            "folder_hash": "ee28a856ec3aa2d36cf85a7be92d300fd36bff7fc0d4575284ab79ce12fe28ba"
-        },
-        {
-            "name": "zzz_Ammo_Press_Add-On_Compatibility_Patch",
-            "folder_name": "076_zzz_Ammo_Press_Add-On_Compatibility_Patch",
-            "version": "2.5.2",
-            "hash": "f0272f58dc824a701926ea94466114dc325b67f7710ff074d2acce8998e76b9f",
-            "download_urls": [],
-            "tier": 1,
-            "author": "FlufferNutterSandwich",
-            "description": "This is an add-on mod patch to Oakraven's Ammo Press mod.  It adds compatibility to Izy's ammo types.",
-            "source": "Auto",
-            "folder_hash": "ae92b2042a4e7671a85e9903455fae39d444945f04a43385856f0c0493e914c5"
-        },
-        {
-            "name": "0-Quartz",
-            "folder_name": "077_0-Quartz",
-            "version": "7.1.1",
-            "hash": "4b2b59aba75f37599839ca92d91b0f9fa9875acb5becc63dbb20e0892654a945",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Laydor",
-            "description": "A UI framework mod that adds some new XUi Widgets and XUi Controllers that can be used by modders",
-            "source": "Auto",
-            "folder_hash": "73cefa60cb19f7452271fb95e6889a2ad15665667ffdb53aae26a50407c0ff49"
-        },
-        {
-            "name": "00000-Gears",
-            "folder_name": "078_00000-Gears",
-            "version": "6.0.1",
-            "hash": "f6b2b1de15d686e0aa841db6a0162a68fff9a680d407368b455b54c9f62ac4a1",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Laydor",
-            "description": "A Mod Settings framework that adds settings support for mods. It allows users to change the settings in game",
-            "source": "Auto",
-            "folder_hash": "80c5e6d5d07999ce108f178a88434736be0d08fc34381db6d3465d848d6c64a7"
-        },
-        {
-            "name": "zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
-            "folder_name": "079_zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
-            "version": "2.5.0.9",
-            "hash": "cabdafc6c4ede87505b93edbf6ddad68f04393cb99592fc75eabbec5ab82ea26",
-            "download_urls": [],
-            "tier": 1,
-            "author": "original author TheGaijin - fork by PaLoALo",
-            "description": "[DECEA3]Utilizes Gears to allow options for many quest functions. Adds more Tiers for the Trader Quest System and additional super, ultra, and nightmare infestation variants as new quests.[-]",
-            "source": "Auto",
-            "folder_hash": "87d8786ff17789ed7a895576ae8e7fa09d1a6380102e2200777f8d6f8f52e5cd"
-        },
-        {
-            "name": "ZZZ_LogicalRepairKitOverhaul",
-            "folder_name": "080_ZZZ_LogicalRepairKitOverhaul",
-            "version": "2.4.2",
-            "hash": "9890920b1072c2c62bef3254559ccf7604152c468534651ca0887647196d4acb",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Overhauls the repair system. REQUIRES Izy's Weapon Packs to be installed.",
-            "source": "Auto",
-            "folder_hash": "a885ce979eb76dacffaca1c68d9224b20c70609c3188f1d473f61ff03e7b1ef3"
-        },
-        {
-            "name": "007_(TMO) Trader Never Closes N More v4.1",
-            "folder_name": "007_(TMO) Trader Never Closes N More v4.1",
-            "version": "4.1.0",
-            "hash": "4d628fef4c3e592d601f7a97d7941fe46a4c56520925e7b1caaf2624fb14edee",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/007_.TMO.Trader.Never.Closes.N.More.v4.1.zip"
-            ],
-            "tier": 1,
-            "author": "TheMeanOneMods",
-            "description": "The traders TEST will never close with this mod! Also adjusts restock timer and Vending Machines.  Version 4.0",
-            "source": "Auto",
-            "folder_hash": "1c87a7d0b3fe9ba47ec0ae5a3317c017acb2b149cacea65a230f7419385c74d1"
         },
         {
             "name": "006_Xample_MarkersMod",
             "folder_name": "006_Xample_MarkersMod",
             "version": "1.1.1.0",
-            "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/006_Xample_MarkersMod.zip"
-            ],
+            "hash": "PENDING",
+            "download_urls": [],
             "tier": 1,
-            "author": "Catalysm and Alloc",
-            "description": "Allows placing custom markers on the web map",
+            "author": "Unknown",
+            "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "14e5783b0d9a0c1913d088a9dda1736ff30a496ac00500cf5984b4a55d87919f"
         },
         {
-            "name": "001_TFP_Harmony",
+            "name": "007_(TMO) Trader Never Closes N More v4.1",
+            "folder_name": "007_(TMO) Trader Never Closes N More v4.1",
+            "version": "4.1.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "1c87a7d0b3fe9ba47ec0ae5a3317c017acb2b149cacea65a230f7419385c74d1"
+        },
+        {
+            "name": "008_0-Alter_OverrideSounds",
+            "folder_name": "008_0-Alter_OverrideSounds",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "bf69485dca3586c6da16dff98b740efa9ebee2e2727a50f8b6842b1ebe97d72b"
+        },
+        {
+            "name": "009_0-CustomParticleLoader",
+            "folder_name": "009_0-CustomParticleLoader",
+            "version": "1.6.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "8d53fb8c17a6cf1d24de2aa201dba92dfb450bfede6ec1ae9d5147160446dea6"
+        },
+        {
+            "name": "010_0-SCore",
+            "folder_name": "010_0-SCore",
+            "version": "2.5.10.2106",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e0d34e7d11ece759d11b03da90642844689b90e44077ef819651623c5e105c7f"
+        },
+        {
+            "name": "011_0-zMoreQuestsNoScrollbar(2.5.0)",
+            "folder_name": "011_0-zMoreQuestsNoScrollbar(2.5.0)",
+            "version": "2.5.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "c89b8459a6f71d5a90cecd4d8efc247cb5b8c5cde701d5e381d3e36db53cf1b1"
+        },
+        {
+            "name": "012_7D1.0_Izayo_Visible_FPV_Gloves_mod",
+            "folder_name": "012_7D1.0_Izayo_Visible_FPV_Gloves_mod",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "0e5aef74ea24fa59fdca106bf911da486dd2c88dab573f9f9d337fb644fcd1ca"
+        },
+        {
+            "name": "013_7D1.0_Izayo_Visible_Mods_mod",
+            "folder_name": "013_7D1.0_Izayo_Visible_Mods_mod",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "61eae5f4954c6a056758109199a21dcb5769f1e34823722cebf3d0ca2df8fbb9"
+        },
+        {
+            "name": "014_7D1.0_Izayo_WeaponpackMisc_pack",
+            "folder_name": "014_7D1.0_Izayo_WeaponpackMisc_pack",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "cd33b59a3077a44c0010e934235d32cc1c98a51d0533dd7ffb8f1a893ffddbf7"
+        },
+        {
+            "name": "015_7D1.0_Izayo_WeaponpackRemastered_44mag",
+            "folder_name": "015_7D1.0_Izayo_WeaponpackRemastered_44mag",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "5ae587c92fdea2eff7f2a3db7b3621e9d0936d9c2f1ad72704ca5518ee6a4992"
+        },
+        {
+            "name": "016_7D1.0_Izayo_WeaponpackRemastered_45ACP",
+            "folder_name": "016_7D1.0_Izayo_WeaponpackRemastered_45ACP",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e164db8d7468622e24a349a68978bcdab7fbf477c4fb2333d0766818d8ba66e9"
+        },
+        {
+            "name": "017_7D1.0_Izayo_WeaponpackRemastered_556pack",
+            "folder_name": "017_7D1.0_Izayo_WeaponpackRemastered_556pack",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ac04098b6d877b1f4d3c48d811b62e8980a7a4668236a4f22aecf523516de089"
+        },
+        {
+            "name": "018_7D1.0_Izayo_WeaponpackRemastered_762pack",
+            "folder_name": "018_7D1.0_Izayo_WeaponpackRemastered_762pack",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "88d18974f8c545f4e20a9b663b79cdc7c123bfc51377bc80043003e79b911780"
+        },
+        {
+            "name": "019_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
+            "folder_name": "019_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "00463e9774aefe1b909193238abab52891c73d64062fb01f974f088d5f116ea5"
+        },
+        {
+            "name": "020_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
+            "folder_name": "020_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e71be9c9a9b67fd69d6311d7f4d7de47b3459598eeacfa33a5c6d297871867e7"
+        },
+        {
+            "name": "021_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
+            "folder_name": "021_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "18dc36663e9ad662ed8bab144397a1be8d6573fc1b957a84a2fa3ec057939028"
+        },
+        {
+            "name": "022_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
+            "folder_name": "022_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "c8d6a6a3654bb77b941adabe3c4cb91393a7533c26b253708c837b1f8f675753"
+        },
+        {
+            "name": "023_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
+            "folder_name": "023_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "cbf5ac2efda7ddfc0d692b22e905cf95014c406da016ceaf525c4fa43642c421"
+        },
+        {
+            "name": "024_7D1.0_Izayo_WeaponpackSpecial_Melee",
+            "folder_name": "024_7D1.0_Izayo_WeaponpackSpecial_Melee",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "cdad8a55533b07d495ea4af60ae3fd9ad4aca389407ad6ba629de21e74d94e04"
+        },
+        {
+            "name": "025_7D1.0_Izayo_WeaponpackVanillaReplacer",
+            "folder_name": "025_7D1.0_Izayo_WeaponpackVanillaReplacer",
+            "version": "1.1.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "51e818d0dc720de1ad676e389f2f2bf99a01f19023381412c75dbe6d751af5f4"
+        },
+        {
+            "name": "026_AGF-V2-Backpack84Plus-v3.2.0",
+            "folder_name": "026_AGF-V2-Backpack84Plus-v3.2.0",
+            "version": "3.2.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "983b12228a0f2c8e5721888bd2ef3cce16de426738a1f6b98a1595894bbabc77"
+        },
+        {
+            "name": "027_AGF-V2-HUDPlus-1Main-v5.2.0",
+            "folder_name": "027_AGF-V2-HUDPlus-1Main-v5.2.0",
+            "version": "5.2.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e5ede8606f7b1271be5dff539aeb561295527937da0bddbdc07675254445c255"
+        },
+        {
+            "name": "028_AGF-V2-VP-SmeltingPlus-v2.2.1",
+            "folder_name": "028_AGF-V2-VP-SmeltingPlus-v2.2.1",
+            "version": "2.2.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "8be698f7caec33e6c36daa8d848b56bcfa91b9543dd6c5e1819a5892d5d8dec9"
+        },
+        {
+            "name": "029_Allocs_CommandExtensions",
+            "folder_name": "029_Allocs_CommandExtensions",
+            "version": "29",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "c0dfb2cc849bfc2f76b20ac210663586089705fe06ea67e59053010e98bbebd7"
+        },
+        {
+            "name": "030_Allocs_CommonFunc",
+            "folder_name": "030_Allocs_CommonFunc",
+            "version": "37",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "1e98fc403100be47ff8599d20db4ace6f2ab95cb54d859a4e34cb6832ac9341b"
+        },
+        {
+            "name": "031_Allocs_WebAndMapRendering",
+            "folder_name": "031_Allocs_WebAndMapRendering",
+            "version": "51",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "3210fac0978be6740c57124f3ae0492b8445206ee930843ccf84b1d7e9c5aeef"
+        },
+        {
+            "name": "032_ArrowsAndBoltsCauseBleed",
+            "folder_name": "032_ArrowsAndBoltsCauseBleed",
+            "version": "2.2.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f"
+        },
+        {
+            "name": "033_BdubsVehicles",
+            "folder_name": "033_BdubsVehicles",
+            "version": "2.5.1.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "cb4376585c72f20492306ee5602598b2158ebb50cb25d024f026049d156c5dc3"
+        },
+        {
+            "name": "034_Better perks",
+            "folder_name": "034_Better perks",
+            "version": "1.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ddf56e28f892eabba38a61fe2df2f291fa80e3c15e64be17bb6f74b8bc2ecba1"
+        },
+        {
+            "name": "035_Better_Biomes_v2",
+            "folder_name": "035_Better_Biomes_v2",
+            "version": "2.0.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "df1b5efe94a4d198f93c98de7b88211490617e0d86b755e98327993dc1b9dd9f"
+        },
+        {
+            "name": "036_Dewtas Random Knockdown Timer 2.5",
+            "folder_name": "036_Dewtas Random Knockdown Timer 2.5",
+            "version": "1.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "c4f65fcf900d44b952d9ea13b3135b79b73ac9992f6ef733f1e809e34b43b3f2"
+        },
+        {
+            "name": "037_FNS Self-Planting Trees v2",
+            "folder_name": "037_FNS Self-Planting Trees v2",
+            "version": "1.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e98c8880b24b778cbf4b5b22bd6427b34c8b8a1816605ed40d85aa44574fc425"
+        },
+        {
+            "name": "038_Just Cook It",
+            "folder_name": "038_Just Cook It",
+            "version": "1.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ea986be4874ae3ece2b29a839dec136be9a77be865ff2b769e0b2304f57121ea"
+        },
+        {
+            "name": "039_KHV1_Zombie_Reach_Adjustment",
+            "folder_name": "039_KHV1_Zombie_Reach_Adjustment",
+            "version": "2.5.1.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "db2e7a9812dc2e5a876003aa91483344aae674c0ec801c74420d751b1539f840"
+        },
+        {
+            "name": "040_Locks",
+            "folder_name": "040_Locks",
+            "version": "2.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e39e9a60748b22b9f27905fa1dbdd2bd29afb2b5d3704478ec6d57e434f036fa"
+        },
+        {
+            "name": "041_Longer Lasting Buffs 5x",
+            "folder_name": "041_Longer Lasting Buffs 5x",
+            "version": "1.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "b1baeeb5e1c796ac880dedd77000a10e3f2b6436fd9c332751ec84031301da00"
+        },
+        {
+            "name": "042_MPLogue_UrbanDecay_7D2D_v2_0_1",
+            "folder_name": "042_MPLogue_UrbanDecay_7D2D_v2_0_1",
+            "version": "1.2.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "d8c3dd38dd1286d94739ed1602970450981098be39a6d2df4833df2c63952761"
+        },
+        {
+            "name": "043_MXMRMXs POI PACK V1.14",
+            "folder_name": "043_MXMRMXs POI PACK V1.14",
+            "version": "2.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "72a6b9c378d787121456dbff9b90d8a6b5acd8b27e4706854e6c4d431ada4fde"
+        },
+        {
+            "name": "044_New Spawn start zone",
+            "folder_name": "044_New Spawn start zone",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "d6c3cdd458d4a8b1952b4044909819115d50c9c0dc8badd5036d2aca38b3a387"
+        },
+        {
+            "name": "045_Officecats5 POI pack",
+            "folder_name": "045_Officecats5 POI pack",
+            "version": "0.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9367063d70c42f60ef5a16475f67af82ca2f9a3655d0a888afaf546c548d8cd9"
+        },
+        {
+            "name": "046_Paradoxal_Gaming_tweaks",
+            "folder_name": "046_Paradoxal_Gaming_tweaks",
+            "version": "2.2.9",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9f52e85814110c8f588ec8223811777c9d41f072bb10309c199859fe70fa9cfd"
+        },
+        {
+            "name": "047_Primitive_Farming_Style",
+            "folder_name": "047_Primitive_Farming_Style",
+            "version": "2.1.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "6428fa117c28aeea767b4aa91012c6827c016fc2a860f3b7159eda941c352649"
+        },
+        {
+            "name": "048_PrismaCore",
+            "folder_name": "048_PrismaCore",
+            "version": "2.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e607222892e8f4981bd986fed60ba998c77fe8229b459912a1f7215c933ff34f"
+        },
+        {
+            "name": "049_ProjectileBleedMod",
+            "folder_name": "049_ProjectileBleedMod",
+            "version": "2.2.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ce9dc18e11ab8a08d6ef75c6a40cd424f03759adbe4b82f042a162c0bc95cc92"
+        },
+        {
+            "name": "050_RopeAndRealism_V21",
+            "folder_name": "050_RopeAndRealism_V21",
+            "version": "5.1.10",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "5c8cc2f6d62b7b230c115ff14292aefc0da59bdbe498bbfc77e40ad78431762e"
+        },
+        {
+            "name": "051_Teragon POIs",
+            "folder_name": "051_Teragon POIs",
+            "version": "22.0.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "97a547a51690fd9671ac2374b5d3652a2413f8898d1867623b0b9ab665df2c47"
+        },
+        {
+            "name": "052_The_Countryside_POI_pack",
+            "folder_name": "052_The_Countryside_POI_pack",
+            "version": "2.5.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "992692ea674245bd63a02f420dd464c3d16f8c8a037c7af23482b5a7ed7e132b"
+        },
+        {
+            "name": "053_TMO-Core_v2_v2.4Stable",
+            "folder_name": "053_TMO-Core_v2_v2.4Stable",
+            "version": "2.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "79b0d4ad90fd6824db0014ed46e9de7c9258b06963897c70e226593be08ee28a"
+        },
+        {
+            "name": "054_V2-OakravenAmmoPress",
+            "folder_name": "054_V2-OakravenAmmoPress",
+            "version": "2.5.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "61624ba71b8a54addbffdcda643ae711a2f00a2afe33ca3f4d85c59323986195"
+        },
+        {
+            "name": "055_V2-PartyStackSize",
+            "folder_name": "055_V2-PartyStackSize",
+            "version": "2.5.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "afef5b9c876b0485ededd188c4c3048667b1edc4555bfb97467fefba7735b4a7"
+        },
+        {
+            "name": "056_Valmars Survivor Notes",
+            "folder_name": "056_Valmars Survivor Notes",
+            "version": "2.0.2.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "945114c2212b13f79b7faff79a683605ffa8b5829dfdd552511177a60db93372"
+        },
+        {
+            "name": "057_Valmars_Starter_Class_System_SSO",
+            "folder_name": "057_Valmars_Starter_Class_System_SSO",
+            "version": "2.2.2.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9a8cb12376fe864e20002c6689036c7bb2b21befdc45dd067d4837fc2a126851"
+        },
+        {
+            "name": "058_Voltraluxs POI Pack 2.5",
+            "folder_name": "058_Voltraluxs POI Pack 2.5",
+            "version": "21.1.0.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "b9b77f458860b8ffded355e0970d4c9bcf9dba13e4406ea4596af5e7d789a5df"
+        },
+        {
+            "name": "059_WalkerSim2",
+            "folder_name": "059_WalkerSim2",
+            "version": "1.0.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "509a23841e720fe5ec8c1e8a75834bca5ea69b0778abbc6629fd61451b564bd2"
+        },
+        {
+            "name": "060_War3zuk FarmLife 2024",
+            "folder_name": "060_War3zuk FarmLife 2024",
+            "version": "5.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "117b8ba200343bfa2ef5b77026af39d196fb30a7cb8703c6b5cf6d14c22da79a"
+        },
+        {
+            "name": "061_WMMZAirdropSpawnZeds",
+            "folder_name": "061_WMMZAirdropSpawnZeds",
+            "version": "2.5.23.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "4de5299712b9a00356fd40cd5b9f90d1bff1897ea80eaebf0a7929035fc59354"
+        },
+        {
+            "name": "062_xcp_DupesFix_AsylumMods",
+            "folder_name": "062_xcp_DupesFix_AsylumMods",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "da7b1e4d20a2b83076cf44871b6b66e1fb9cbc21c6a2c4a1a2a18f5788e114a2"
+        },
+        {
+            "name": "063_xcp_RWGFix_AsylumMods",
+            "folder_name": "063_xcp_RWGFix_AsylumMods",
+            "version": "1.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "84f05ede3933f90c3706a35075c68ffa978ad21ba3a52dae5e67884742f57dcf"
+        },
+        {
+            "name": "064_ZZTong-Prefabs",
+            "folder_name": "064_ZZTong-Prefabs",
+            "version": "2.5.031",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ca635b313b880d308de8a3201c0bcb380e819145b813c79a2ccbdbb3ca8c075e"
+        },
+        {
+            "name": "065_zzzScomar82_Hobacs",
+            "folder_name": "065_zzzScomar82_Hobacs",
+            "version": "2.3",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "644e46e39ad4d4d03482915f23113c87c9856dd517827c4b14b0b4a38f65848b"
+        },
+        {
+            "name": "066_zzzzNail_Realism",
+            "folder_name": "066_zzzzNail_Realism",
+            "version": "2.2.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "b23b42290ad7912dd02dab9401bb4a5f720b5ab0850915eb92acf63994db6475"
+        },
+        {
+            "name": "067_Zzzzxcpv_Classic_All_In_One",
+            "folder_name": "067_Zzzzxcpv_Classic_All_In_One",
+            "version": "2.0.51.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "6877cebc78a47f4e77ce87082665703de7743aef113f0179c1f9fcbc95c60cc7"
+        },
+        {
+            "name": "068_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "068_ZZZ_FNS_Loot_All_the_Things",
+            "version": "2.5.2.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "b8461339cca0cdb1252191f657352485bd7477fa3396f9d39db092674e640445"
+        },
+        {
+            "name": "069_Medical_conditions",
+            "folder_name": "069_Medical_conditions",
+            "version": "1.3.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "0ae53ab54a9c1b6905788f4dd686fd273f26eee3c671e32a1b8cd37165d63526"
+        },
+        {
+            "name": "070_Zero_Hour_Core",
+            "folder_name": "070_Zero_Hour_Core",
+            "version": "2.5.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "db08640d63a6df6d27212851400ac253297d40efcd88b73efaaca6c53c2de0ae"
+        },
+        {
+            "name": "071_DW1982s Extra Dye Colors",
+            "folder_name": "071_DW1982s Extra Dye Colors",
+            "version": "4.0.4",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ef308878c071071cc27254c2371be13ddefcfe210e817ff03b731b11a12d5163"
+        },
+        {
+            "name": "072_V2-SolarPowerCrafting",
+            "folder_name": "072_V2-SolarPowerCrafting",
+            "version": "2.5.0.0",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "1375acad85e26b1b2aff5cd386498eb25fea449f81ea2379e6fa59350c599605"
+        },
+        {
+            "name": "073_ZZZ_CraftableChili_FarmLife",
+            "folder_name": "073_ZZZ_CraftableChili_FarmLife",
+            "version": "2.5",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9148c31b8ae8f94311c0ca0755d57da8b903b58703ae5d314e4bc9a7dd952e61"
+        },
+        {
+            "name": "074_ZZZ_HoneyFix_BetterBiomes",
+            "folder_name": "074_ZZZ_HoneyFix_BetterBiomes",
+            "version": "2.5",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "74b704c64d8c5bdd5616689d6a0f28f40c07afc998e0ff590baa77d734cf245d"
+        },
+        {
+            "name": "075_ZZZ_More_Chuck_And_Charred",
+            "folder_name": "075_ZZZ_More_Chuck_And_Charred",
+            "version": "2.5",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ee28a856ec3aa2d36cf85a7be92d300fd36bff7fc0d4575284ab79ce12fe28ba"
+        },
+        {
+            "name": "076_zzz_Ammo_Press_Add-On_Compatibility_Patch",
+            "folder_name": "076_zzz_Ammo_Press_Add-On_Compatibility_Patch",
+            "version": "2.5.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "ae92b2042a4e7671a85e9903455fae39d444945f04a43385856f0c0493e914c5"
+        },
+        {
+            "name": "077_0-Quartz",
+            "folder_name": "077_0-Quartz",
+            "version": "7.1.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "73cefa60cb19f7452271fb95e6889a2ad15665667ffdb53aae26a50407c0ff49"
+        },
+        {
+            "name": "078_00000-Gears",
+            "folder_name": "078_00000-Gears",
+            "version": "6.0.1",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "80c5e6d5d07999ce108f178a88434736be0d08fc34381db6d3465d848d6c64a7"
+        },
+        {
+            "name": "079_zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
+            "folder_name": "079_zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
+            "version": "2.5.0.9",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "87d8786ff17789ed7a895576ae8e7fa09d1a6380102e2200777f8d6f8f52e5cd"
+        },
+        {
+            "name": "080_ZZZ_LogicalRepairKitOverhaul",
+            "folder_name": "080_ZZZ_LogicalRepairKitOverhaul",
+            "version": "2.4.2",
+            "hash": "PENDING",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "a885ce979eb76dacffaca1c68d9224b20c70609c3188f1d473f61ff03e7b1ef3"
+        },
+        {
+            "name": "TFP_Harmony",
             "folder_name": "001_TFP_Harmony",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1020,11 +984,10 @@
             "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
-            "source": "Auto",
-            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
+            "source": "Auto"
         },
         {
-            "name": "002_TFP_CommandExtensions",
+            "name": "TFP_CommandExtensions",
             "folder_name": "002_TFP_CommandExtensions",
             "version": "2.1.0.0",
             "download_urls": [
@@ -1034,11 +997,10 @@
             "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Additional commands for server operation",
-            "source": "Auto",
-            "folder_hash": "f2eb53fbbec9831cd4914df82b4470250b1021748f86047525feb6903788c46d"
+            "source": "Auto"
         },
         {
-            "name": "003_TFP_MapRendering",
+            "name": "TFP_MapRendering",
             "folder_name": "003_TFP_MapRendering",
             "version": "2.1.0.0",
             "download_urls": [
@@ -1048,11 +1010,10 @@
             "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Render the game map to image map tiles as it is uncovered",
-            "source": "Auto",
-            "folder_hash": "cb55bc582ae29d57ab74d809798e1d78005c586acde01a1d85b698474e00b0cb"
+            "source": "Auto"
         },
         {
-            "name": "004_TFP_WebServer",
+            "name": "TFP_WebServer",
             "folder_name": "004_TFP_WebServer",
             "version": "2.5.0.0",
             "download_urls": [
@@ -1062,11 +1023,10 @@
             "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Integrated Webserver for the Web Dashboard and server APIs",
-            "source": "Auto",
-            "folder_hash": "511e95163c28fbe5df59e59446efde2aca7086e70f75c8ffdb193a125360b592"
+            "source": "Auto"
         },
         {
-            "name": "005_(TMO) Advanced Casing Collector v4_v2.5Stable",
+            "name": "TheMeanOnesAdvCasingsCollector",
             "folder_name": "005_(TMO) Advanced Casing Collector v4_v2.5Stable",
             "version": "4.0",
             "download_urls": [
@@ -1076,11 +1036,36 @@
             "tier": 1,
             "author": "TheMeanOneMods",
             "description": "Collects some of the bullet casings when the modifier is attached to your weapon and allows you save on crafting ammo!",
-            "source": "Auto",
-            "folder_hash": "d13bc4292142ee46110d1bb44f1e66a644f9e7eee4b3d7fe7b11edef92e37e3e"
+            "source": "Auto"
         },
         {
-            "name": "008_0-Alter_OverrideSounds",
+            "name": "TFP_MarkersExample",
+            "folder_name": "006_Xample_MarkersMod",
+            "version": "1.1.1.0",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/006_Xample_MarkersMod.zip"
+            ],
+            "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f",
+            "tier": 1,
+            "author": "Catalysm and Alloc",
+            "description": "Allows placing custom markers on the web map",
+            "source": "Auto"
+        },
+        {
+            "name": "TheMeanOnesTraderNeverClosesNMore",
+            "folder_name": "007_(TMO) Trader Never Closes N More v4.1",
+            "version": "4.1.0",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/007_.TMO.Trader.Never.Closes.N.More.v4.1.zip"
+            ],
+            "hash": "4d628fef4c3e592d601f7a97d7941fe46a4c56520925e7b1caaf2624fb14edee",
+            "tier": 1,
+            "author": "TheMeanOneMods",
+            "description": "The traders TEST will never close with this mod! Also adjusts restock timer and Vending Machines.  Version 4.0",
+            "source": "Auto"
+        },
+        {
+            "name": "Alter_Soundoverride",
             "folder_name": "008_0-Alter_OverrideSounds",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1090,11 +1075,10 @@
             "tier": 1,
             "author": "Alter",
             "description": "Alter_Soundoverride",
-            "source": "Auto",
-            "folder_hash": "bf69485dca3586c6da16dff98b740efa9ebee2e2727a50f8b6842b1ebe97d72b"
+            "source": "Auto"
         },
         {
-            "name": "009_0-CustomParticleLoader",
+            "name": "CustomParticleLoader",
             "folder_name": "009_0-CustomParticleLoader",
             "version": "1.6.0",
             "download_urls": [
@@ -1104,11 +1088,10 @@
             "tier": 1,
             "author": "closer_ex",
             "description": "Allow you to use custom particle for explosion effects, with your own monoscripts.",
-            "source": "Auto",
-            "folder_hash": "8d53fb8c17a6cf1d24de2aa201dba92dfb450bfede6ec1ae9d5147160446dea6"
+            "source": "Auto"
         },
         {
-            "name": "010_0-SCore",
+            "name": "0-SCore_sphereii",
             "folder_name": "010_0-SCore",
             "version": "2.5.10.2106",
             "download_urls": [
@@ -1118,11 +1101,10 @@
             "tier": 1,
             "author": "sphereii",
             "description": "SCore Mod",
-            "source": "Auto",
-            "folder_hash": "e0d34e7d11ece759d11b03da90642844689b90e44077ef819651623c5e105c7f"
+            "source": "Auto"
         },
         {
-            "name": "011_0-zMoreQuestsNoScrollbar(2.5.0)",
+            "name": "MoreQuestsNoScrollbar",
             "folder_name": "011_0-zMoreQuestsNoScrollbar(2.5.0)",
             "version": "2.5.0.0",
             "download_urls": [
@@ -1132,11 +1114,10 @@
             "tier": 1,
             "author": "jns0fficial",
             "description": "Increases the amount of available quests at traders and adds other QoL changes related to quests.",
-            "source": "Auto",
-            "folder_hash": "c89b8459a6f71d5a90cecd4d8efc247cb5b8c5cde701d5e381d3e36db53cf1b1"
+            "source": "Auto"
         },
         {
-            "name": "012_7D1.0_Izayo_Visible_FPV_Gloves_mod",
+            "name": "IZY_FPV_GLOVES",
             "folder_name": "012_7D1.0_Izayo_Visible_FPV_Gloves_mod",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1146,11 +1127,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_FPV_GLOVES",
-            "source": "Auto",
-            "folder_hash": "0e5aef74ea24fa59fdca106bf911da486dd2c88dab573f9f9d337fb644fcd1ca"
+            "source": "Auto"
         },
         {
-            "name": "013_7D1.0_Izayo_Visible_Mods_mod",
+            "name": "IZY_MMVMV2",
             "folder_name": "013_7D1.0_Izayo_Visible_Mods_mod",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1160,11 +1140,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_MMVMV2",
-            "source": "Auto",
-            "folder_hash": "61eae5f4954c6a056758109199a21dcb5769f1e34823722cebf3d0ca2df8fbb9"
+            "source": "Auto"
         },
         {
-            "name": "014_7D1.0_Izayo_WeaponpackMisc_pack",
+            "name": "IZY_RMP_Miscpack",
             "folder_name": "014_7D1.0_Izayo_WeaponpackMisc_pack",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1174,11 +1153,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_Miscpack",
-            "source": "Auto",
-            "folder_hash": "cd33b59a3077a44c0010e934235d32cc1c98a51d0533dd7ffb8f1a893ffddbf7"
+            "source": "Auto"
         },
         {
-            "name": "015_7D1.0_Izayo_WeaponpackRemastered_44mag",
+            "name": "IZY_RMP_44magnum",
             "folder_name": "015_7D1.0_Izayo_WeaponpackRemastered_44mag",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1188,11 +1166,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_44magnum",
-            "source": "Auto",
-            "folder_hash": "5ae587c92fdea2eff7f2a3db7b3621e9d0936d9c2f1ad72704ca5518ee6a4992"
+            "source": "Auto"
         },
         {
-            "name": "016_7D1.0_Izayo_WeaponpackRemastered_45ACP",
+            "name": "IZY_RMP_45ACP",
             "folder_name": "016_7D1.0_Izayo_WeaponpackRemastered_45ACP",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1202,11 +1179,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_45ACP",
-            "source": "Auto",
-            "folder_hash": "e164db8d7468622e24a349a68978bcdab7fbf477c4fb2333d0766818d8ba66e9"
+            "source": "Auto"
         },
         {
-            "name": "017_7D1.0_Izayo_WeaponpackRemastered_556pack",
+            "name": "IZY_RMP_556pack",
             "folder_name": "017_7D1.0_Izayo_WeaponpackRemastered_556pack",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1216,11 +1192,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_556",
-            "source": "Auto",
-            "folder_hash": "ac04098b6d877b1f4d3c48d811b62e8980a7a4668236a4f22aecf523516de089"
+            "source": "Auto"
         },
         {
-            "name": "018_7D1.0_Izayo_WeaponpackRemastered_762pack",
+            "name": "IZY_RMP_762pack",
             "folder_name": "018_7D1.0_Izayo_WeaponpackRemastered_762pack",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1230,11 +1205,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_762pack",
-            "source": "Auto",
-            "folder_hash": "88d18974f8c545f4e20a9b663b79cdc7c123bfc51377bc80043003e79b911780"
+            "source": "Auto"
         },
         {
-            "name": "019_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
+            "name": "IZY_RMP_9mmVAL",
             "folder_name": "019_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1244,11 +1218,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_9mmVAL",
-            "source": "Auto",
-            "folder_hash": "00463e9774aefe1b909193238abab52891c73d64062fb01f974f088d5f116ea5"
+            "source": "Auto"
         },
         {
-            "name": "020_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
+            "name": "IZY_RMP_Demopack",
             "folder_name": "020_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1258,11 +1231,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_Demopack",
-            "source": "Auto",
-            "folder_hash": "e71be9c9a9b67fd69d6311d7f4d7de47b3459598eeacfa33a5c6d297871867e7"
+            "source": "Auto"
         },
         {
-            "name": "021_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
+            "name": "IZY_RMP_HVW",
             "folder_name": "021_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1272,11 +1244,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_HVW",
-            "source": "Auto",
-            "folder_hash": "18dc36663e9ad662ed8bab144397a1be8d6573fc1b957a84a2fa3ec057939028"
+            "source": "Auto"
         },
         {
-            "name": "022_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
+            "name": "IZY_RMP_SG",
             "folder_name": "022_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1286,11 +1257,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_SG",
-            "source": "Auto",
-            "folder_hash": "c8d6a6a3654bb77b941adabe3c4cb91393a7533c26b253708c837b1f8f675753"
+            "source": "Auto"
         },
         {
-            "name": "023_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
+            "name": "IZY_RMP_Tech",
             "folder_name": "023_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1300,11 +1270,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_RMP_Tech",
-            "source": "Auto",
-            "folder_hash": "cbf5ac2efda7ddfc0d692b22e905cf95014c406da016ceaf525c4fa43642c421"
+            "source": "Auto"
         },
         {
-            "name": "024_7D1.0_Izayo_WeaponpackSpecial_Melee",
+            "name": "IZY_melee",
             "folder_name": "024_7D1.0_Izayo_WeaponpackSpecial_Melee",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1314,11 +1283,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_melee",
-            "source": "Auto",
-            "folder_hash": "cdad8a55533b07d495ea4af60ae3fd9ad4aca389407ad6ba629de21e74d94e04"
+            "source": "Auto"
         },
         {
-            "name": "025_7D1.0_Izayo_WeaponpackVanillaReplacer",
+            "name": "IZY_VRP",
             "folder_name": "025_7D1.0_Izayo_WeaponpackVanillaReplacer",
             "version": "1.1.0.4",
             "download_urls": [
@@ -1328,11 +1296,10 @@
             "tier": 1,
             "author": "IZY",
             "description": "IZY_VRP",
-            "source": "Auto",
-            "folder_hash": "51e818d0dc720de1ad676e389f2f2bf99a01f19023381412c75dbe6d751af5f4"
+            "source": "Auto"
         },
         {
-            "name": "026_AGF-V2-Backpack84Plus-v3.2.0",
+            "name": "AGF-V2-Backpack84Plus",
             "folder_name": "026_AGF-V2-Backpack84Plus-v3.2.0",
             "version": "3.2.0",
             "download_urls": [
@@ -1342,11 +1309,10 @@
             "tier": 1,
             "author": "AuroraGiggleFairy (AGF)",
             "description": "84 slot backpack and extra large storage options.",
-            "source": "Auto",
-            "folder_hash": "983b12228a0f2c8e5721888bd2ef3cce16de426738a1f6b98a1595894bbabc77"
+            "source": "Auto"
         },
         {
-            "name": "027_AGF-V2-HUDPlus-1Main-v5.2.0",
+            "name": "AGF-V2-HUDPlus-1Main",
             "folder_name": "027_AGF-V2-HUDPlus-1Main-v5.2.0",
             "version": "5.2.0",
             "download_urls": [
@@ -1356,11 +1322,10 @@
             "tier": 1,
             "author": "AuroraGiggleFairy (AGF)",
             "description": "QOL HUD with lots of features.",
-            "source": "Auto",
-            "folder_hash": "e5ede8606f7b1271be5dff539aeb561295527937da0bddbdc07675254445c255"
+            "source": "Auto"
         },
         {
-            "name": "028_AGF-V2-VP-SmeltingPlus-v2.2.1",
+            "name": "AGF-V2-VP-SmeltingPlus",
             "folder_name": "028_AGF-V2-VP-SmeltingPlus-v2.2.1",
             "version": "2.2.1",
             "download_urls": [
@@ -1370,53 +1335,49 @@
             "tier": 1,
             "author": "AuroraGiggleFairy (AGF)",
             "description": "3 forge slots, sand smelts 1:5 ratio, smelt or craft clay/rock/stone in single units.",
-            "source": "Auto",
-            "folder_hash": "8be698f7caec33e6c36daa8d848b56bcfa91b9543dd6c5e1819a5892d5d8dec9"
+            "source": "Auto"
         },
         {
-            "name": "029_Allocs_CommandExtensions",
+            "name": "Allocs_Commands",
             "folder_name": "029_Allocs_CommandExtensions",
             "version": "29",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/029_Allocs_CommandExtensions.zip"
             ],
             "hash": "b5ba4e1392222123dd96d974da3967084eb3cbb9771814771c0e0c4b8f87ba2c",
-            "tier": 3,
+            "tier": 1,
             "author": "Christian 'Alloc' Illy",
             "description": "Additional commands for server operation",
-            "source": "Auto",
-            "folder_hash": "c0dfb2cc849bfc2f76b20ac210663586089705fe06ea67e59053010e98bbebd7"
+            "source": "Auto"
         },
         {
-            "name": "030_Allocs_CommonFunc",
+            "name": "Allocs_Core",
             "folder_name": "030_Allocs_CommonFunc",
             "version": "37",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/030_Allocs_CommonFunc.zip"
             ],
             "hash": "12f99fb3e4c845c7fe3206d1f233397966b42168da32c163caca14d83d7d4c4a",
-            "tier": 3,
+            "tier": 1,
             "author": "Christian 'Alloc' Illy",
             "description": "Common functions",
-            "source": "Auto",
-            "folder_hash": "1e98fc403100be47ff8599d20db4ace6f2ab95cb54d859a4e34cb6832ac9341b"
+            "source": "Auto"
         },
         {
-            "name": "031_Allocs_WebAndMapRendering",
+            "name": "Allocs_Webinterface",
             "folder_name": "031_Allocs_WebAndMapRendering",
             "version": "51",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/031_Allocs_WebAndMapRendering.zip"
             ],
             "hash": "bbf62476f038d6e75f62543a7ab12455e066ad3373816d4622c55bff4e9a1bbf",
-            "tier": 3,
+            "tier": 1,
             "author": "Christian 'Alloc' Illy",
             "description": "Render the game map to image map tiles as it is uncovered",
-            "source": "Auto",
-            "folder_hash": "3210fac0978be6740c57124f3ae0492b8445206ee930843ccf84b1d7e9c5aeef"
+            "source": "Auto"
         },
         {
-            "name": "032_ArrowsAndBoltsCauseBleed",
+            "name": "ArrowsAndBoltsCauseBleed",
             "folder_name": "032_ArrowsAndBoltsCauseBleed",
             "version": "2.2.1",
             "download_urls": [
@@ -1426,11 +1387,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Applies a perk-driven bleed effect to all vanilla arrows/bolts. Self-contained and bug-free. Requires the Deep Cuts perk.",
-            "source": "Auto",
-            "folder_hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f"
+            "source": "Auto"
         },
         {
-            "name": "033_BdubsVehicles",
+            "name": "Bdubs_Vehicles",
             "folder_name": "033_BdubsVehicles",
             "version": "2.5.1.1",
             "download_urls": [
@@ -1440,11 +1400,10 @@
             "tier": 1,
             "author": "bdubyah",
             "description": "This is a collection of all my individually released vehicles.",
-            "source": "Auto",
-            "folder_hash": "cb4376585c72f20492306ee5602598b2158ebb50cb25d024f026049d156c5dc3"
+            "source": "Auto"
         },
         {
-            "name": "034_Better perks",
+            "name": "BetterPerks",
             "folder_name": "034_Better perks",
             "version": "1.0",
             "download_urls": [
@@ -1454,11 +1413,10 @@
             "tier": 1,
             "author": "Black Wolf",
             "description": "Improves various underpowered perks",
-            "source": "Auto",
-            "folder_hash": "ddf56e28f892eabba38a61fe2df2f291fa80e3c15e64be17bb6f74b8bc2ecba1"
+            "source": "Auto"
         },
         {
-            "name": "035_Better_Biomes_v2",
+            "name": "MPLogue_Better_Biomes_7D2D_v2_0_1",
             "folder_name": "035_Better_Biomes_v2",
             "version": "2.0.1",
             "download_urls": [
@@ -1468,11 +1426,10 @@
             "tier": 1,
             "author": "MPLogue",
             "description": "Enhanced Biome immersion with fallen trees and underbrush",
-            "source": "Auto",
-            "folder_hash": "df1b5efe94a4d198f93c98de7b88211490617e0d86b755e98327993dc1b9dd9f"
+            "source": "Auto"
         },
         {
-            "name": "036_Dewtas Random Knockdown Timer 2.5",
+            "name": "DewtasRandomKnockdownTime",
             "folder_name": "036_Dewtas Random Knockdown Timer 2.5",
             "version": "1.0",
             "download_urls": [
@@ -1482,11 +1439,10 @@
             "tier": 1,
             "author": "Dewta",
             "description": "Randomizes time zombies take to get up after being knocked down from 1 - 7 seconds.",
-            "source": "Auto",
-            "folder_hash": "c4f65fcf900d44b952d9ea13b3135b79b73ac9992f6ef733f1e809e34b43b3f2"
+            "source": "Auto"
         },
         {
-            "name": "037_FNS Self-Planting Trees v2",
+            "name": "FNS_Self-Planting_Trees",
             "folder_name": "037_FNS Self-Planting Trees v2",
             "version": "1.0",
             "download_urls": [
@@ -1496,11 +1452,10 @@
             "tier": 1,
             "author": "FlufferNutterSandwich",
             "description": "The trees immediately replant themselves in the same spot after you cut them down.  It also drastically removes tree seeds, so there is less hassle with inventory management and replanting.",
-            "source": "Auto",
-            "folder_hash": "e98c8880b24b778cbf4b5b22bd6427b34c8b8a1816605ed40d85aa44574fc425"
+            "source": "Auto"
         },
         {
-            "name": "038_Just Cook It",
+            "name": "Just_Cook_It",
             "folder_name": "038_Just Cook It",
             "version": "1.2",
             "download_urls": [
@@ -1510,11 +1465,10 @@
             "tier": 1,
             "author": "ShadowOsmium",
             "description": "Grilling and boiling meat no longer require skills as it is just common sense. Also tweaks recipe costs for Charred, Boiled and Grilled meats.",
-            "source": "Auto",
-            "folder_hash": "ea986be4874ae3ece2b29a839dec136be9a77be865ff2b769e0b2304f57121ea"
+            "source": "Auto"
         },
         {
-            "name": "039_KHV1_Zombie_Reach_Adjustment",
+            "name": "KHV1_Zombie_Reach_Adjustment",
             "folder_name": "039_KHV1_Zombie_Reach_Adjustment",
             "version": "2.5.1.1",
             "download_urls": [
@@ -1524,11 +1478,10 @@
             "tier": 1,
             "author": "FlufferNutterSandwich",
             "description": "This mod reduces zombie reach so they aren't slapping you outside of spear range.  FNS was given permission by Khaine, the original author, to recreate this mod on Nexus.  Khaine did the work, all credit is rightly his.",
-            "source": "Auto",
-            "folder_hash": "db2e7a9812dc2e5a876003aa91483344aae674c0ec801c74420d751b1539f840"
+            "source": "Auto"
         },
         {
-            "name": "040_Locks",
+            "name": "Locks",
             "folder_name": "040_Locks",
             "version": "2.0.0",
             "download_urls": [
@@ -1538,11 +1491,10 @@
             "tier": 1,
             "author": "Xyth/SphereII/Mumpfy",
             "description": "Locks - Locks for the LockPicking minigame enabled in Sphereii's SCore",
-            "source": "Auto",
-            "folder_hash": "e39e9a60748b22b9f27905fa1dbdd2bd29afb2b5d3704478ec6d57e434f036fa"
+            "source": "Auto"
         },
         {
-            "name": "041_Longer Lasting Buffs 5x",
+            "name": "LongerLastingBuffs5x",
             "folder_name": "041_Longer Lasting Buffs 5x",
             "version": "1.0",
             "download_urls": [
@@ -1552,11 +1504,10 @@
             "tier": 1,
             "author": "napalm1",
             "description": "Buffs last 5x longer and stack for 5x as much.  Applies to Candies, Drugs and some Drinks",
-            "source": "Auto",
-            "folder_hash": "b1baeeb5e1c796ac880dedd77000a10e3f2b6436fd9c332751ec84031301da00"
+            "source": "Auto"
         },
         {
-            "name": "042_MPLogue_UrbanDecay_7D2D_v2_0_1",
+            "name": "MPLogue_UrbanDecay_7D2D_v1_0",
             "folder_name": "042_MPLogue_UrbanDecay_7D2D_v2_0_1",
             "version": "1.2.1",
             "download_urls": [
@@ -1566,11 +1517,10 @@
             "tier": 1,
             "author": "MPLogue",
             "description": "MPLogue_UrbanDecay_7D2D_v1_0",
-            "source": "Auto",
-            "folder_hash": "d8c3dd38dd1286d94739ed1602970450981098be39a6d2df4833df2c63952761"
+            "source": "Auto"
         },
         {
-            "name": "043_MXMRMXs POI PACK V1.14",
+            "name": "MXMRMXsPOIPACK",
             "folder_name": "043_MXMRMXs POI PACK V1.14",
             "version": "2.0",
             "download_urls": [
@@ -1580,11 +1530,10 @@
             "tier": 1,
             "author": "War0zzz",
             "description": "POI Pack that i created to help add just a little more variety to RWG worlds",
-            "source": "Auto",
-            "folder_hash": "72a6b9c378d787121456dbff9b90d8a6b5acd8b27e4706854e6c4d431ada4fde"
+            "source": "Auto"
         },
         {
-            "name": "044_New Spawn start zone",
+            "name": "NewSpawnStartZone",
             "folder_name": "044_New Spawn start zone",
             "version": "1.0.0",
             "download_urls": [
@@ -1594,11 +1543,10 @@
             "tier": 1,
             "author": "YourName",
             "description": "Forces all new player spawns into forest biomes during random world generation. For 7D2D 2.2 Stable.",
-            "source": "Auto",
-            "folder_hash": "d6c3cdd458d4a8b1952b4044909819115d50c9c0dc8badd5036d2aca38b3a387"
+            "source": "Auto"
         },
         {
-            "name": "045_Officecats5 POI pack",
+            "name": "Officecats5POIpack",
             "folder_name": "045_Officecats5 POI pack",
             "version": "0.0.0",
             "download_urls": [
@@ -1608,11 +1556,10 @@
             "tier": 1,
             "author": "Officecats5",
             "description": "POI pack",
-            "source": "Auto",
-            "folder_hash": "9367063d70c42f60ef5a16475f67af82ca2f9a3655d0a888afaf546c548d8cd9"
+            "source": "Auto"
         },
         {
-            "name": "046_Paradoxal_Gaming_tweaks",
+            "name": "Paradoxal_Gaming_tweaks",
             "folder_name": "046_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "download_urls": [
@@ -1622,11 +1569,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "A place to gather random edits for various things, like adding new recipes.",
-            "source": "Auto",
-            "folder_hash": "9f52e85814110c8f588ec8223811777c9d41f072bb10309c199859fe70fa9cfd"
+            "source": "Auto"
         },
         {
-            "name": "047_Primitive_Farming_Style",
+            "name": "Primitive_Farming_Style",
             "folder_name": "047_Primitive_Farming_Style",
             "version": "2.1.1",
             "download_urls": [
@@ -1636,11 +1582,10 @@
             "tier": 1,
             "author": "Wolverine",
             "description": "Simplifies agriculture by allowing direct planting on most natural ground, removing the need for craftable farm plots.",
-            "source": "Auto",
-            "folder_hash": "6428fa117c28aeea767b4aa91012c6827c016fc2a860f3b7159eda941c352649"
+            "source": "Auto"
         },
         {
-            "name": "048_PrismaCore",
+            "name": "PrismaCore",
             "folder_name": "048_PrismaCore",
             "version": "2.1",
             "download_urls": [
@@ -1650,11 +1595,10 @@
             "tier": 1,
             "author": "Prisma501",
             "description": "Additional management and player control functionality",
-            "source": "Auto",
-            "folder_hash": "e607222892e8f4981bd986fed60ba998c77fe8229b459912a1f7215c933ff34f"
+            "source": "Auto"
         },
         {
-            "name": "049_ProjectileBleedMod",
+            "name": "ProjectileBleedMod",
             "folder_name": "049_ProjectileBleedMod",
             "version": "2.2.1",
             "download_urls": [
@@ -1664,11 +1608,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Standalone mod that adds a perk-driven bleed effect to all standard bullet, shell, slug, and dart ammunition. Requires the Deep Cuts perk.",
-            "source": "Auto",
-            "folder_hash": "ce9dc18e11ab8a08d6ef75c6a40cd424f03759adbe4b82f042a162c0bc95cc92"
+            "source": "Auto"
         },
         {
-            "name": "050_RopeAndRealism_V21",
+            "name": "RopeAndRealism_V21",
             "folder_name": "050_RopeAndRealism_V21",
             "version": "5.1.10",
             "download_urls": [
@@ -1678,11 +1621,10 @@
             "tier": 1,
             "author": "AI Assistant and You",
             "description": "Replaces yucca fibers with a craftable rope in early-game recipes for a more immersive crafting progression.",
-            "source": "Auto",
-            "folder_hash": "5c8cc2f6d62b7b230c115ff14292aefc0da59bdbe498bbfc77e40ad78431762e"
+            "source": "Auto"
         },
         {
-            "name": "051_Teragon POIs",
+            "name": "Teragon_POIs",
             "folder_name": "051_Teragon POIs",
             "version": "22.0.0.0",
             "download_urls": [
@@ -1692,11 +1634,10 @@
             "tier": 1,
             "author": "Pille",
             "description": "This modlet adds POIs that are needed for worlds that were created with Teragon (mainly bridges and other road parts). Some of the POIs are modified vanilla POIs.",
-            "source": "Auto",
-            "folder_hash": "97a547a51690fd9671ac2374b5d3652a2413f8898d1867623b0b9ab665df2c47"
+            "source": "Auto"
         },
         {
-            "name": "052_The_Countryside_POI_pack",
+            "name": "The_Countryside_POI_pack",
             "folder_name": "052_The_Countryside_POI_pack",
             "version": "2.5.0",
             "download_urls": [
@@ -1706,11 +1647,10 @@
             "tier": 1,
             "author": "Exhin And Kellsan",
             "description": "High realism rural POIs for V2.5",
-            "source": "Auto",
-            "folder_hash": "992692ea674245bd63a02f420dd464c3d16f8c8a037c7af23482b5a7ed7e132b"
+            "source": "Auto"
         },
         {
-            "name": "053_TMO-Core_v2_v2.4Stable",
+            "name": "TMO-Core",
             "folder_name": "053_TMO-Core_v2_v2.4Stable",
             "version": "2.0",
             "download_urls": [
@@ -1720,11 +1660,10 @@
             "tier": 1,
             "author": "TheMeanOneMods",
             "description": "Hard dependency and library for TheMeanOne Mods, TheMeanOneDevelopments SP and additional added core features for gameplay.",
-            "source": "Auto",
-            "folder_hash": "79b0d4ad90fd6824db0014ed46e9de7c9258b06963897c70e226593be08ee28a"
+            "source": "Auto"
         },
         {
-            "name": "054_V2-OakravenAmmoPress",
+            "name": "V2_OakravenAmmoPress",
             "folder_name": "054_V2-OakravenAmmoPress",
             "version": "2.5.0.0",
             "download_urls": [
@@ -1734,11 +1673,10 @@
             "tier": 1,
             "author": "oakraven, with support from arramus",
             "description": "Adds an ammo press for efficient ammo production.",
-            "source": "Auto",
-            "folder_hash": "61624ba71b8a54addbffdcda643ae711a2f00a2afe33ca3f4d85c59323986195"
+            "source": "Auto"
         },
         {
-            "name": "055_V2-PartyStackSize",
+            "name": "V2_PartyStackSize",
             "folder_name": "055_V2-PartyStackSize",
             "version": "2.5.0.0",
             "download_urls": [
@@ -1748,11 +1686,10 @@
             "tier": 1,
             "author": "arramus",
             "description": "Increases stack size for group storage.",
-            "source": "Auto",
-            "folder_hash": "afef5b9c876b0485ededd188c4c3048667b1edc4555bfb97467fefba7735b4a7"
+            "source": "Auto"
         },
         {
-            "name": "056_Valmars Survivor Notes",
+            "name": "Valmars_Survivor_Notes",
             "folder_name": "056_Valmars Survivor Notes",
             "version": "2.0.2.0",
             "download_urls": [
@@ -1762,11 +1699,10 @@
             "tier": 1,
             "author": "Valmar",
             "description": "Exchange survivor notes for Books.",
-            "source": "Auto",
-            "folder_hash": "945114c2212b13f79b7faff79a683605ffa8b5829dfdd552511177a60db93372"
+            "source": "Auto"
         },
         {
-            "name": "057_Valmars_Starter_Class_System_SSO",
+            "name": "Valmars_Starter_Class_System_SSO",
             "folder_name": "057_Valmars_Starter_Class_System_SSO",
             "version": "2.2.2.2",
             "download_urls": [
@@ -1776,11 +1712,10 @@
             "tier": 1,
             "author": "Valmar",
             "description": "Adds Starter classes to the game. This Version is Serverside Only",
-            "source": "Auto",
-            "folder_hash": "9a8cb12376fe864e20002c6689036c7bb2b21befdc45dd067d4837fc2a126851"
+            "source": "Auto"
         },
         {
-            "name": "058_Voltraluxs POI Pack 2.5",
+            "name": "VoltraLuxPOIPack",
             "folder_name": "058_Voltraluxs POI Pack 2.5",
             "version": "21.1.0.1",
             "download_urls": [
@@ -1790,11 +1725,10 @@
             "tier": 1,
             "author": "Voltralux",
             "description": "A collection of POIs",
-            "source": "Auto",
-            "folder_hash": "b9b77f458860b8ffded355e0970d4c9bcf9dba13e4406ea4596af5e7d789a5df"
+            "source": "Auto"
         },
         {
-            "name": "059_WalkerSim2",
+            "name": "WalkerSim",
             "folder_name": "059_WalkerSim2",
             "version": "1.0.0.0",
             "download_urls": [
@@ -1804,11 +1738,10 @@
             "tier": 1,
             "author": "ZehMatt",
             "description": "Roaming zombies simulation mod.",
-            "source": "Auto",
-            "folder_hash": "509a23841e720fe5ec8c1e8a75834bca5ea69b0778abbc6629fd61451b564bd2"
+            "source": "Auto"
         },
         {
-            "name": "060_War3zuk FarmLife 2024",
+            "name": "War3zuk_FarmLife_2024",
             "folder_name": "060_War3zuk FarmLife 2024",
             "version": "5.2",
             "download_urls": [
@@ -1819,11 +1752,10 @@
             "tier": 1,
             "author": "War3zuk",
             "description": "Adds full and comprehensive farming",
-            "source": "Auto",
-            "folder_hash": "117b8ba200343bfa2ef5b77026af39d196fb30a7cb8703c6b5cf6d14c22da79a"
+            "source": "Auto"
         },
         {
-            "name": "061_WMMZAirdropSpawnZeds",
+            "name": "WMMZAirdropSpawnZeds",
             "folder_name": "061_WMMZAirdropSpawnZeds",
             "version": "2.5.23.1",
             "download_urls": [
@@ -1833,11 +1765,10 @@
             "tier": 1,
             "author": "w00kie n00kie",
             "description": "Unknown description",
-            "source": "Auto",
-            "folder_hash": "4de5299712b9a00356fd40cd5b9f90d1bff1897ea80eaebf0a7929035fc59354"
+            "source": "Auto"
         },
         {
-            "name": "062_xcp_DupesFix_AsylumMods",
+            "name": "xcp_DupesFix_AsylumMods",
             "folder_name": "062_xcp_DupesFix_AsylumMods",
             "version": "1.0.0",
             "download_urls": [
@@ -1847,11 +1778,10 @@
             "tier": 1,
             "author": "AsylumMods",
             "description": "Fixes the bug where POI density constraints override DuplicateRepeatDistance settings, causing the same POI to spawn multiple times in close proximity. Enforces minimum distance checks even when tile density is exhausted.",
-            "source": "Auto",
-            "folder_hash": "da7b1e4d20a2b83076cf44871b6b66e1fb9cbc21c6a2c4a1a2a18f5788e114a2"
+            "source": "Auto"
         },
         {
-            "name": "063_xcp_RWGFix_AsylumMods",
+            "name": "RoadShapeFix",
             "folder_name": "063_xcp_RWGFix_AsylumMods",
             "version": "1.0.0",
             "download_urls": [
@@ -1861,11 +1791,10 @@
             "tier": 1,
             "author": "Asylum Modding Team",
             "description": "Fixes the bug where only T-junctions and intersections spawn in world generation. Restores proper spawning of cap (dead-end), corner, and straight road tiles.",
-            "source": "Auto",
-            "folder_hash": "84f05ede3933f90c3706a35075c68ffa978ad21ba3a52dae5e67884742f57dcf"
+            "source": "Auto"
         },
         {
-            "name": "064_ZZTong-Prefabs",
+            "name": "ZZTong-Prefabs",
             "folder_name": "064_ZZTong-Prefabs",
             "version": "2.5.031",
             "download_urls": [
@@ -1875,11 +1804,10 @@
             "tier": 1,
             "author": "ZZTong",
             "description": "Adds prefabs and some RWG assets made by ZZTong.",
-            "source": "Auto",
-            "folder_hash": "ca635b313b880d308de8a3201c0bcb380e819145b813c79a2ccbdbb3ca8c075e"
+            "source": "Auto"
         },
         {
-            "name": "065_zzzScomar82_Hobacs",
+            "name": "Scomar82_Hobacs",
             "folder_name": "065_zzzScomar82_Hobacs",
             "version": "2.3",
             "download_urls": [
@@ -1889,11 +1817,10 @@
             "tier": 1,
             "author": "Scomar",
             "description": "Highlighting of buttons and container states",
-            "source": "Auto",
-            "folder_hash": "644e46e39ad4d4d03482915f23113c87c9856dd517827c4b14b0b4a38f65848b"
+            "source": "Auto"
         },
         {
-            "name": "066_zzzzNail_Realism",
+            "name": "zzzzNail_Realism",
             "folder_name": "066_zzzzNail_Realism",
             "version": "2.2.2",
             "download_urls": [
@@ -1903,11 +1830,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Adds nails to recipes and block drops for realism. Removes duct tape from tool recipes.",
-            "source": "Auto",
-            "folder_hash": "b23b42290ad7912dd02dab9401bb4a5f720b5ab0850915eb92acf63994db6475"
+            "source": "Auto"
         },
         {
-            "name": "067_Zzzzxcpv_Classic_All_In_One",
+            "name": "Zzzzxcp_CP_Classic_All_In_One",
             "folder_name": "067_Zzzzxcpv_Classic_All_In_One",
             "version": "2.0.51.2",
             "download_urls": [
@@ -1918,11 +1844,10 @@
             "tier": 1,
             "author": "Various, Stallionsden",
             "description": "Adds Vanilla Pois.",
-            "source": "Auto",
-            "folder_hash": "6877cebc78a47f4e77ce87082665703de7743aef113f0179c1f9fcbc95c60cc7"
+            "source": "Auto"
         },
         {
-            "name": "068_ZZZ_FNS_Loot_All_the_Things",
+            "name": "ZZZ_FNS_Loot_All_the_Things",
             "folder_name": "068_ZZZ_FNS_Loot_All_the_Things",
             "version": "2.5.2.1",
             "download_urls": [
@@ -1932,11 +1857,10 @@
             "tier": 1,
             "author": "FlufferNutterSandwich",
             "description": "Adds many containers as lootable to make the game more immersive.",
-            "source": "Auto",
-            "folder_hash": "b8461339cca0cdb1252191f657352485bd7477fa3396f9d39db092674e640445"
+            "source": "Auto"
         },
         {
-            "name": "069_Medical_conditions",
+            "name": "Medical_conditions",
             "folder_name": "069_Medical_conditions",
             "version": "1.3.0",
             "download_urls": [
@@ -1946,11 +1870,10 @@
             "tier": 1,
             "author": "excyborg",
             "description": "Adding around 50 medical conditions.",
-            "source": "Auto",
-            "folder_hash": "0ae53ab54a9c1b6905788f4dd686fd273f26eee3c671e32a1b8cd37165d63526"
+            "source": "Auto"
         },
         {
-            "name": "070_Zero_Hour_Core",
+            "name": "Zero_Hour_Core",
             "folder_name": "070_Zero_Hour_Core",
             "version": "2.5.1",
             "download_urls": [
@@ -1960,11 +1883,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
-            "source": "Auto",
-            "folder_hash": "db08640d63a6df6d27212851400ac253297d40efcd88b73efaaca6c53c2de0ae"
+            "source": "Auto"
         },
         {
-            "name": "071_DW1982s Extra Dye Colors",
+            "name": "DW1982s_Extra_Dye_Colors",
             "folder_name": "071_DW1982s Extra Dye Colors",
             "version": "4.0.4",
             "download_urls": [
@@ -1974,11 +1896,10 @@
             "tier": 1,
             "author": "DragonWolf1982",
             "description": "This modlet adds some more dye colors with recipes.",
-            "source": "Auto",
-            "folder_hash": "ef308878c071071cc27254c2371be13ddefcfe210e817ff03b731b11a12d5163"
+            "source": "Auto"
         },
         {
-            "name": "072_V2-SolarPowerCrafting",
+            "name": "V2_SolarPowerCrafting",
             "folder_name": "072_V2-SolarPowerCrafting",
             "version": "2.5.0.0",
             "download_urls": [
@@ -1988,11 +1909,10 @@
             "tier": 1,
             "author": "arramus",
             "description": "Adding Solar Power Cell and Bank to progression and recipes.",
-            "source": "Auto",
-            "folder_hash": "1375acad85e26b1b2aff5cd386498eb25fea449f81ea2379e6fa59350c599605"
+            "source": "Auto"
         },
         {
-            "name": "073_ZZZ_CraftableChili_FarmLife",
+            "name": "ZZZ_CraftableChili_FarmLife",
             "folder_name": "073_ZZZ_CraftableChili_FarmLife",
             "version": "2.5",
             "download_urls": [
@@ -2002,11 +1922,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Allows crafting Can of Chili using Farm Life ingredients and Soy Beans.",
-            "source": "Auto",
-            "folder_hash": "9148c31b8ae8f94311c0ca0755d57da8b903b58703ae5d314e4bc9a7dd952e61"
+            "source": "Auto"
         },
         {
-            "name": "074_ZZZ_HoneyFix_BetterBiomes",
+            "name": "ZZZ_HoneyFix_BetterBiomes",
             "folder_name": "074_ZZZ_HoneyFix_BetterBiomes",
             "version": "2.5",
             "download_urls": [
@@ -2016,11 +1935,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Adds Honey and Beeswax drops to MPLogue Better Biomes Stumps.",
-            "source": "Auto",
-            "folder_hash": "74b704c64d8c5bdd5616689d6a0f28f40c07afc998e0ff590baa77d734cf245d"
+            "source": "Auto"
         },
         {
-            "name": "075_ZZZ_More_Chuck_And_Charred",
+            "name": "ZZZ_More_Chuck_And_Charred",
             "folder_name": "075_ZZZ_More_Chuck_And_Charred",
             "version": "2.5",
             "download_urls": [
@@ -2030,11 +1948,10 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Increases spawns for Burnt Zombies and Chucks in Snow.",
-            "source": "Auto",
-            "folder_hash": "ee28a856ec3aa2d36cf85a7be92d300fd36bff7fc0d4575284ab79ce12fe28ba"
+            "source": "Auto"
         },
         {
-            "name": "076_zzz_Ammo_Press_Add-On_Compatibility_Patch",
+            "name": "zzz_Ammo_Press_Add-On_Compatibility_Patch",
             "folder_name": "076_zzz_Ammo_Press_Add-On_Compatibility_Patch",
             "version": "2.5.2",
             "download_urls": [
@@ -2044,11 +1961,10 @@
             "tier": 1,
             "author": "FlufferNutterSandwich",
             "description": "This is an add-on mod patch to Oakraven's Ammo Press mod.  It adds compatibility to Izy's ammo types.",
-            "source": "Auto",
-            "folder_hash": "ae92b2042a4e7671a85e9903455fae39d444945f04a43385856f0c0493e914c5"
+            "source": "Auto"
         },
         {
-            "name": "077_0-Quartz",
+            "name": "Quartz",
             "folder_name": "077_0-Quartz",
             "version": "7.1.1",
             "download_urls": [
@@ -2058,11 +1974,10 @@
             "tier": 1,
             "author": "Laydor",
             "description": "A UI framework mod that adds some new XUi Widgets and XUi Controllers that can be used by modders",
-            "source": "Auto",
-            "folder_hash": "73cefa60cb19f7452271fb95e6889a2ad15665667ffdb53aae26a50407c0ff49"
+            "source": "Auto"
         },
         {
-            "name": "078_00000-Gears",
+            "name": "Gears",
             "folder_name": "078_00000-Gears",
             "version": "6.0.1",
             "download_urls": [
@@ -2072,11 +1987,10 @@
             "tier": 1,
             "author": "Laydor",
             "description": "A Mod Settings framework that adds settings support for mods. It allows users to change the settings in game",
-            "source": "Auto",
-            "folder_hash": "80c5e6d5d07999ce108f178a88434736be0d08fc34381db6d3465d848d6c64a7"
+            "source": "Auto"
         },
         {
-            "name": "079_zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
+            "name": "QuestRevamp",
             "folder_name": "079_zzzzPaLoALo-V2-QuestRevamp-Gears Edition",
             "version": "2.5.0.9",
             "download_urls": [
@@ -2086,11 +2000,10 @@
             "tier": 1,
             "author": "original author TheGaijin - fork by PaLoALo",
             "description": "[DECEA3]Utilizes Gears to allow options for many quest functions. Adds more Tiers for the Trader Quest System and additional super, ultra, and nightmare infestation variants as new quests.[-]",
-            "source": "Auto",
-            "folder_hash": "87d8786ff17789ed7a895576ae8e7fa09d1a6380102e2200777f8d6f8f52e5cd"
+            "source": "Auto"
         },
         {
-            "name": "080_ZZZ_LogicalRepairKitOverhaul",
+            "name": "ZZZ_LogicalRepairKitOverhaul",
             "folder_name": "080_ZZZ_LogicalRepairKitOverhaul",
             "version": "2.4.2",
             "download_urls": [
@@ -2100,8 +2013,7 @@
             "tier": 1,
             "author": "Wolverine74",
             "description": "Overhauls the repair system. REQUIRES Izy's Weapon Packs to be installed.",
-            "source": "Auto",
-            "folder_hash": "a885ce979eb76dacffaca1c68d9224b20c70609c3188f1d473f61ff03e7b1ef3"
+            "source": "Auto"
         }
     ]
 }
