@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 10122845489,
+        "total_payload_size": 884898,
         "registry_overrides": {}
     },
     "server_info": {
@@ -19,7 +19,7 @@
             "version": "1.0",
             "hash": "3b12d8be7fcfcaedce389b8b4f6b0decb55c300ce99870bb075453fdde6f0202",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/041_Longer.Lasting.Buffs.5x.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/001_Longer.Lasting.Buffs.5x.zip"
             ],
             "tier": 1,
             "author": "napalm1",
@@ -33,7 +33,7 @@
             "version": "1.1.0.4",
             "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/001_TFP_Harmony.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/002_TFP_Harmony.zip"
             ],
             "tier": 1,
             "author": "The Fun Pimps LLC",
