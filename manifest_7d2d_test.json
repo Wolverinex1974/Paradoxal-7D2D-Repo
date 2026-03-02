@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 10119468190,
+        "total_payload_size": 1559,
         "registry_overrides": {}
     },
     "server_info": {
@@ -126,20 +126,6 @@
             "folder_hash": "511e95163c28fbe5df59e59446efde2aca7086e70f75c8ffdb193a125360b592"
         },
         {
-            "name": "LongerLastingBuffs5x",
-            "folder_name": "090_Longer_Lasting_Buffs_5x",
-            "version": "1.0",
-            "hash": "3b12d8be7fcfcaedce389b8b4f6b0decb55c300ce99870bb075453fdde6f0202",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/090_Longer_Lasting_Buffs_5x.zip"
-            ],
-            "tier": 1,
-            "author": "napalm1",
-            "description": "Buffs last 5x longer and stack for 5x as much.  Applies to Candies, Drugs and some Drinks",
-            "source": "Auto",
-            "folder_hash": "b1baeeb5e1c796ac880dedd77000a10e3f2b6436fd9c332751ec84031301da00"
-        },
-        {
             "name": "TheMeanOnesTraderNeverClosesNMore",
             "folder_name": "100_(TMO)_Trader_Never_Closes_N_More_v4.1",
             "version": "4.1.0",
@@ -166,6 +152,20 @@
             "description": "Collects some of the bullet casings when the modifier is attached to your weapon and allows you save on crafting ammo!",
             "source": "Auto",
             "folder_hash": "d13bc4292142ee46110d1bb44f1e66a644f9e7eee4b3d7fe7b11edef92e37e3e"
+        },
+        {
+            "name": "LongerLastingBuffs5x",
+            "folder_name": "115_Longer_Lasting_Buffs_5x",
+            "version": "1.0",
+            "hash": "3b12d8be7fcfcaedce389b8b4f6b0decb55c300ce99870bb075453fdde6f0202",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/115_Longer_Lasting_Buffs_5x.zip"
+            ],
+            "tier": 1,
+            "author": "napalm1",
+            "description": "Buffs last 5x longer and stack for 5x as much.  Applies to Candies, Drugs and some Drinks",
+            "source": "Auto",
+            "folder_hash": "b1baeeb5e1c796ac880dedd77000a10e3f2b6436fd9c332751ec84031301da00"
         },
         {
             "name": "Alter_Soundoverride",
