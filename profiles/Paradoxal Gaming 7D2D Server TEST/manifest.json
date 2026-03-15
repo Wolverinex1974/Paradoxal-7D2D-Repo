@@ -3,7 +3,7 @@
     "server_port": "32467",
     "mod_repository": "Wolverinex1974/Paradoxal-7D2D-Repo",
     "server_path": "C:/Servers/7D2D_TEST",
-    "timestamp": 1773594631.875233,
+    "timestamp": 1773596337.799887,
     "install_path": "C:/Servers/7D2D_TEST",
     "launcher_config": {
         "version": "1.0.0",
@@ -14,8 +14,8 @@
     },
     "server_info": {
         "ip": "35.142.67.196",
-        "port": "26900",
-        "name": "My Game Host"
+        "port": "32467",
+        "name": "Paradoxal Gaming 7D2D TEST Server"
     },
     "mods": [
         {
