@@ -8,13 +8,9 @@
         "profile_id": "22f81db3-0d17-41cd-9a77-bc9f4fea5287"
     },
     {
+        "profile_id": "aa721b96fde4ee8f66b4be862b6bd686",
         "display_name": "Paradoxal Gaming 7D2D Server TEST",
-        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/manifest_7d2d_test.json",
-        "description": "Paradoxal Gaming 7D2D Server TEST",
-        "status": "ONLINE",
-        "ip": "35.142.67.196",
-        "port": "36438",
-        "last_active": "2026-03-04 20:58",
-        "profile_id": "98431b0d-7972-4247-805b-65c801150306"
+        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/profiles/Paradoxal%20Gaming%207D2D%20Server%20TEST/manifest.json",
+        "status_flag": "ONLINE"
     }
 ]
