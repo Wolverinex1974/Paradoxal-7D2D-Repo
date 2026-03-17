@@ -9,7 +9,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 10233178403,
+        "total_payload_size": 7793,
         "registry_overrides": {}
     },
     "server_info": {
@@ -959,6 +959,20 @@
             "folder_hash": "1375acad85e26b1b2aff5cd386498eb25fea449f81ea2379e6fa59350c599605"
         },
         {
+            "name": "Zero_Hour_Core",
+            "folder_name": "675_zzzZero_Hour_Core",
+            "version": "2.5.1",
+            "hash": "6b75ccc506fbeb000acb05db59cd89365e88393ab2fd6606defc8b46d5f720ec",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/675_zzzZero_Hour_Core.zip"
+            ],
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
+            "source": "Auto",
+            "folder_hash": "55fbe0db6a4fe773d1be2280acb0296e9a29e3640841d35268eb0b00ccb18d8b"
+        },
+        {
             "name": "ZZZ_CraftableChili_FarmLife",
             "folder_name": "680_ZZZ_CraftableChili_FarmLife",
             "version": "2.5",
@@ -1041,20 +1055,6 @@
             "description": "This is an add-on mod patch to Oakraven's Ammo Press mod.  It adds compatibility to Izy's ammo types.",
             "source": "Auto",
             "folder_hash": "ae92b2042a4e7671a85e9903455fae39d444945f04a43385856f0c0493e914c5"
-        },
-        {
-            "name": "Zero_Hour_Core",
-            "folder_name": "740_zzzZero_Hour_Core",
-            "version": "2.5.1",
-            "hash": "d850d5c91c07a9dd828330901c192e8675fa9951ad724efab57fb70ba6610b7d",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/740_zzzZero_Hour_Core.zip"
-            ],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
-            "source": "Auto",
-            "folder_hash": "cd2eab27f9af592116f9dc3c990e6750d2d78957966d0ac1a649fcf37dd6260b"
         },
         {
             "name": "TheMeanOnesAdvCasingsCollector",
