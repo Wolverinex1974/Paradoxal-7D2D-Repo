@@ -3,13 +3,13 @@
     "server_port": "32467",
     "mod_repository": "Wolverinex1974/Paradoxal-7D2D-Repo",
     "server_path": "C:/Servers/7D2D_TEST",
-    "timestamp": 1773916249.1174998,
+    "timestamp": 1773923676.92199,
     "install_path": "C:/Servers/7D2D_TEST",
     "launcher_config": {
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 5866850,
+        "total_payload_size": 2557838945,
         "registry_overrides": {}
     },
     "server_info": {
@@ -789,21 +789,6 @@
             "folder_hash": "509a23841e720fe5ec8c1e8a75834bca5ea69b0778abbc6629fd61451b564bd2"
         },
         {
-            "name": "War3zuk_FarmLife_2024",
-            "folder_name": "560_War3zuk_FarmLife_2024",
-            "version": "5.2",
-            "hash": "1b227912c78cf982f95903a3a373e948261a9f77c19d9b3b63b71c2e6ba0ac08",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/560_War3zuk_FarmLife_2024.part1.zip",
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/560_War3zuk_FarmLife_2024.part2.zip"
-            ],
-            "tier": 1,
-            "author": "War3zuk",
-            "description": "Adds full and comprehensive farming",
-            "source": "Auto",
-            "folder_hash": "117b8ba200343bfa2ef5b77026af39d196fb30a7cb8703c6b5cf6d14c22da79a"
-        },
-        {
             "name": "The_Countryside_POI_pack",
             "folder_name": "570_The_Countryside_POI_pack",
             "version": "2.5.0",
@@ -928,20 +913,6 @@
             "description": "This modlet adds some more dye colors with recipes.",
             "source": "Auto",
             "folder_hash": "ef308878c071071cc27254c2371be13ddefcfe210e817ff03b731b11a12d5163"
-        },
-        {
-            "name": "Zero_Hour_Core",
-            "folder_name": "655_zzzZero_Hour_Core",
-            "version": "2.5.28.7",
-            "hash": "362b12ba947dcd20a171d0f5df6edce9c34fa6a2db3a2c81971e2743ecc88d4b",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/655_zzzZero_Hour_Core.zip"
-            ],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
-            "source": "Auto",
-            "folder_hash": "c6a0598a31e9794c3080a0104fc9a000cc4fa60df42d0baad46efdcdc61d28af"
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
@@ -1083,6 +1054,21 @@
             "description": "Adds new different zombies for your game, close to vanilla and balanced",
             "source": "Auto",
             "folder_hash": "c93e77282bb152ec845952c5146d972be16115148278cc74e3c5da377f649e0c"
+        },
+        {
+            "name": "War3zuk_FarmLife",
+            "folder_name": "820_War3zuk_FarmLife",
+            "version": "5.7",
+            "hash": "a00fd54fc421d5b5091d4e8d854d6f1cbb60f3ee6854b7423ba1050b8b6f50c9",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/820_War3zuk_FarmLife.part1.zip",
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/820_War3zuk_FarmLife.part2.zip"
+            ],
+            "tier": 1,
+            "author": "War3zuk",
+            "description": "Adds full and comprehensive farming to the game",
+            "folder_hash": "a855751ee381e7e09fe92f3fdfe31388ad248d0dec177726a838fa556ef70c63",
+            "source": "Auto"
         }
     ]
 }
