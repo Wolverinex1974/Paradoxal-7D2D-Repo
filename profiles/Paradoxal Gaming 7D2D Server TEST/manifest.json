@@ -9,7 +9,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 7793,
+        "total_payload_size": 5866850,
         "registry_overrides": {}
     },
     "server_info": {
@@ -31,6 +31,48 @@
             "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
             "source": "Auto",
             "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
+        },
+        {
+            "name": "TFP_CommandExtensions",
+            "folder_name": "015_TFP_CommandExtensions",
+            "version": "2.1.0.0",
+            "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/015_TFP_CommandExtensions.zip"
+            ],
+            "tier": 1,
+            "author": "The Fun Pimps LLC",
+            "description": "Additional commands for server operation",
+            "source": "Auto",
+            "folder_hash": "f2eb53fbbec9831cd4914df82b4470250b1021748f86047525feb6903788c46d"
+        },
+        {
+            "name": "TFP_MapRendering",
+            "folder_name": "017_TFP_MapRendering",
+            "version": "2.1.0.0",
+            "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/017_TFP_MapRendering.zip"
+            ],
+            "tier": 1,
+            "author": "The Fun Pimps LLC",
+            "description": "Render the game map to image map tiles as it is uncovered",
+            "source": "Auto",
+            "folder_hash": "cb55bc582ae29d57ab74d809798e1d78005c586acde01a1d85b698474e00b0cb"
+        },
+        {
+            "name": "TFP_WebServer",
+            "folder_name": "018_TFP_WebServer",
+            "version": "2.5.0.0",
+            "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/018_TFP_WebServer.zip"
+            ],
+            "tier": 1,
+            "author": "The Fun Pimps LLC",
+            "description": "Integrated Webserver for the Web Dashboard and server APIs",
+            "source": "Auto",
+            "folder_hash": "511e95163c28fbe5df59e59446efde2aca7086e70f75c8ffdb193a125360b592"
         },
         {
             "name": "0-SCore_sphereii",
@@ -87,48 +129,6 @@
             "description": "Hard dependency and library for TheMeanOne Mods, TheMeanOneDevelopments SP and additional added core features for gameplay.",
             "source": "Auto",
             "folder_hash": "79b0d4ad90fd6824db0014ed46e9de7c9258b06963897c70e226593be08ee28a"
-        },
-        {
-            "name": "TFP_CommandExtensions",
-            "folder_name": "060_TFP_CommandExtensions",
-            "version": "2.1.0.0",
-            "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/060_TFP_CommandExtensions.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Additional commands for server operation",
-            "source": "Auto",
-            "folder_hash": "f2eb53fbbec9831cd4914df82b4470250b1021748f86047525feb6903788c46d"
-        },
-        {
-            "name": "TFP_MapRendering",
-            "folder_name": "070_TFP_MapRendering",
-            "version": "2.1.0.0",
-            "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/070_TFP_MapRendering.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Render the game map to image map tiles as it is uncovered",
-            "source": "Auto",
-            "folder_hash": "cb55bc582ae29d57ab74d809798e1d78005c586acde01a1d85b698474e00b0cb"
-        },
-        {
-            "name": "TFP_WebServer",
-            "folder_name": "080_TFP_WebServer",
-            "version": "2.5.0.0",
-            "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/080_TFP_WebServer.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Integrated Webserver for the Web Dashboard and server APIs",
-            "source": "Auto",
-            "folder_hash": "511e95163c28fbe5df59e59446efde2aca7086e70f75c8ffdb193a125360b592"
         },
         {
             "name": "TheMeanOnesTraderNeverClosesNMore",
@@ -1069,76 +1069,6 @@
             "description": "Collects some of the bullet casings when the modifier is attached to your weapon and allows you save on crafting ammo!",
             "source": "Auto",
             "folder_hash": "d13bc4292142ee46110d1bb44f1e66a644f9e7eee4b3d7fe7b11edef92e37e3e"
-        },
-        {
-            "name": "TFP_Harmony",
-            "folder_name": "760_TFP_Harmony",
-            "version": "1.1.0.4",
-            "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/760_TFP_Harmony.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
-            "source": "Auto",
-            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
-        },
-        {
-            "name": "TFP_CommandExtensions",
-            "folder_name": "770_TFP_CommandExtensions",
-            "version": "2.1.0.0",
-            "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/770_TFP_CommandExtensions.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Additional commands for server operation",
-            "source": "Auto",
-            "folder_hash": "f2eb53fbbec9831cd4914df82b4470250b1021748f86047525feb6903788c46d"
-        },
-        {
-            "name": "TFP_MapRendering",
-            "folder_name": "780_TFP_MapRendering",
-            "version": "2.1.0.0",
-            "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/780_TFP_MapRendering.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Render the game map to image map tiles as it is uncovered",
-            "source": "Auto",
-            "folder_hash": "cb55bc582ae29d57ab74d809798e1d78005c586acde01a1d85b698474e00b0cb"
-        },
-        {
-            "name": "TFP_WebServer",
-            "folder_name": "790_TFP_WebServer",
-            "version": "2.5.0.0",
-            "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/790_TFP_WebServer.zip"
-            ],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Integrated Webserver for the Web Dashboard and server APIs",
-            "source": "Auto",
-            "folder_hash": "511e95163c28fbe5df59e59446efde2aca7086e70f75c8ffdb193a125360b592"
-        },
-        {
-            "name": "TFP_MarkersExample",
-            "folder_name": "800_Xample_MarkersMod",
-            "version": "1.1.1.0",
-            "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/800_Xample_MarkersMod.zip"
-            ],
-            "tier": 1,
-            "author": "Catalysm and Alloc",
-            "description": "Allows placing custom markers on the web map",
-            "source": "Auto",
-            "folder_hash": "14e5783b0d9a0c1913d088a9dda1736ff30a496ac00500cf5984b4a55d87919f"
         },
         {
             "name": "LittleRedSonja_ZombiePack",
