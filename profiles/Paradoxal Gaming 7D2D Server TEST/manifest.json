@@ -3,7 +3,7 @@
     "server_port": "32467",
     "mod_repository": "Wolverinex1974/Paradoxal-7D2D-Repo",
     "server_path": "C:/Servers/7D2D_TEST",
-    "timestamp": 1773682741.5857227,
+    "timestamp": 1773916249.1174998,
     "install_path": "C:/Servers/7D2D_TEST",
     "launcher_config": {
         "version": "1.0.0",
@@ -930,6 +930,20 @@
             "folder_hash": "ef308878c071071cc27254c2371be13ddefcfe210e817ff03b731b11a12d5163"
         },
         {
+            "name": "Zero_Hour_Core",
+            "folder_name": "655_zzzZero_Hour_Core",
+            "version": "2.5.28.7",
+            "hash": "362b12ba947dcd20a171d0f5df6edce9c34fa6a2db3a2c81971e2743ecc88d4b",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/655_zzzZero_Hour_Core.zip"
+            ],
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
+            "source": "Auto",
+            "folder_hash": "c6a0598a31e9794c3080a0104fc9a000cc4fa60df42d0baad46efdcdc61d28af"
+        },
+        {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
             "folder_name": "660_Zzzzxcpv_Classic_All_In_One",
             "version": "2.0.51.2",
@@ -957,20 +971,6 @@
             "description": "Adding Solar Power Cell and Bank to progression and recipes.",
             "source": "Auto",
             "folder_hash": "1375acad85e26b1b2aff5cd386498eb25fea449f81ea2379e6fa59350c599605"
-        },
-        {
-            "name": "Zero_Hour_Core",
-            "folder_name": "675_zzzZero_Hour_Core",
-            "version": "2.5.1",
-            "hash": "6b75ccc506fbeb000acb05db59cd89365e88393ab2fd6606defc8b46d5f720ec",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/675_zzzZero_Hour_Core.zip"
-            ],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
-            "source": "Auto",
-            "folder_hash": "55fbe0db6a4fe773d1be2280acb0296e9a29e3640841d35268eb0b00ccb18d8b"
         },
         {
             "name": "ZZZ_CraftableChili_FarmLife",
