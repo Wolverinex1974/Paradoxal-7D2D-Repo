@@ -9,7 +9,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 825788957,
+        "total_payload_size": 7676,
         "registry_overrides": {}
     },
     "mods": [
@@ -110,20 +110,6 @@
             "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
             "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
             "source": "Auto"
-        },
-        {
-            "name": "Zero_Hour_Core",
-            "folder_name": "080_zzzZero_Hour_Core",
-            "version": "2.5.28.7",
-            "hash": "362b12ba947dcd20a171d0f5df6edce9c34fa6a2db3a2c81971e2743ecc88d4b",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/080_zzzZero_Hour_Core.zip"
-            ],
-            "tier": 1,
-            "author": "Wolverine74",
-            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
-            "source": "Auto",
-            "folder_hash": "c6a0598a31e9794c3080a0104fc9a000cc4fa60df42d0baad46efdcdc61d28af"
         },
         {
             "name": "IZY_FPV_GLOVES",
@@ -784,7 +770,7 @@
             "source": "Auto"
         },
         {
-            "name": "V2_OakravenAmmoPress",
+            "name": "V2 Oakraven Ammo Press",
             "folder_name": "560_V2_OakravenAmmoPress",
             "version": "2.5.0.0",
             "hash": "5519176e08b67d28538b7a86b06d9d4a92864882d36e640f5c0ac611f4c44ef3",
@@ -1080,7 +1066,7 @@
             "folder_hash": "c93e77282bb152ec845952c5146d972be16115148278cc74e3c5da377f649e0c"
         },
         {
-            "name": "DoubleGZombies2",
+            "name": "DoubleG Zombies 2",
             "folder_name": "770_DoubleG_Zombies_2.6",
             "version": "2.6",
             "hash": "ebebe8fa87815b7138b44ff79312a6f499ea572ec47fcac9043e11b103ad7fce",
@@ -1092,6 +1078,20 @@
             "description": "Double G Zombies 2 plus Double G Zombies 1 remastered.",
             "folder_hash": "c0e76dee52bc3ce6c9285a107546e51d68212dd7131da040a4e4dfb6ac6cd814",
             "source": "Auto"
+        },
+        {
+            "name": "Zero_Hour_Core",
+            "folder_name": "780_zzzZero_Hour_Core",
+            "version": "2.5.28.7",
+            "hash": "b02aa6eeda1e1d430f5797d1ab2c7505455a4cf053f46e19667c0dee998fb12f",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/780_zzzZero_Hour_Core.zip"
+            ],
+            "tier": 1,
+            "author": "Wolverine74",
+            "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
+            "source": "Auto",
+            "folder_hash": "4d5368910571d2f0a6e607c600c2ad300711b83f793caf3fc211777371be2934"
         }
     ],
     "server_info": {
