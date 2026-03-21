@@ -9,7 +9,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 444654834,
+        "total_payload_size": 825788957,
         "registry_overrides": {}
     },
     "mods": [
@@ -562,15 +562,15 @@
         {
             "name": "Medical_conditions",
             "folder_name": "400_Medical_conditions",
-            "version": "1.3.4",
-            "hash": "4ef80fa2d84c7dcbc5e61d32c24ebf2666533eee7831b538297325ba0e5b3527",
+            "version": "1.3.5",
+            "hash": "6795b3b3ae907e311d085589cccc6eddce23f2c2bd313a3d42a9b0e44988b903",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/400_Medical_conditions.zip"
             ],
             "tier": 1,
             "author": "excyborg",
             "description": "Adding around 50 medical conditions.",
-            "folder_hash": "7d5d2f30cc4c0e275da969f960b5fba0f1f1c76cc27281abfb31f1420075eef0",
+            "folder_hash": "8dacbdb8ea2714375d982a59a4cfa6dc90cbaf0b5fa6a5c2fbbd613bcc6ec90d",
             "source": "Auto"
         },
         {
@@ -784,17 +784,17 @@
             "source": "Auto"
         },
         {
-            "name": "V2 Oakraven Ammo Press",
+            "name": "V2_OakravenAmmoPress",
             "folder_name": "560_V2_OakravenAmmoPress",
             "version": "2.5.0.0",
-            "hash": "ee7b2aa4e1b183608b18e8c774a1972c03e025653e06add364c4b737ad294697",
+            "hash": "5519176e08b67d28538b7a86b06d9d4a92864882d36e640f5c0ac611f4c44ef3",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/560_V2_OakravenAmmoPress.zip"
             ],
             "tier": 1,
             "author": "oakraven, with support from arramus",
             "description": "Adds an ammo press for efficient ammo production.",
-            "folder_hash": "61624ba71b8a54addbffdcda643ae711a2f00a2afe33ca3f4d85c59323986195",
+            "folder_hash": "2033a5ecbf42ccd824c95aa7f0d4aae6ee055ce4b782c0df6d9c73aa4b981ef7",
             "source": "Auto"
         },
         {
@@ -871,14 +871,14 @@
             "name": "WalkerSim",
             "folder_name": "620_WalkerSim2",
             "version": "1.0.0.0",
-            "hash": "6b5be5f82d82caef4b95278503fdb299dfe2bf73510b7c024197e240fa92f331",
+            "hash": "953bd658ea8385acb33027e11a6124e622276badcf30f4b0414ba2e67aa11f84",
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/620_WalkerSim2.zip"
             ],
             "tier": 1,
             "author": "ZehMatt",
             "description": "Roaming zombies simulation mod.",
-            "folder_hash": "509a23841e720fe5ec8c1e8a75834bca5ea69b0778abbc6629fd61451b564bd2",
+            "folder_hash": "caf4688bf94c55e8e61619cbd6ae606338e3bbb0f1a70af294ad16942193fcf7",
             "source": "Auto"
         },
         {
@@ -1078,6 +1078,20 @@
             "description": "Adds new different zombies for your game, close to vanilla and balanced",
             "source": "Auto",
             "folder_hash": "c93e77282bb152ec845952c5146d972be16115148278cc74e3c5da377f649e0c"
+        },
+        {
+            "name": "DoubleGZombies2",
+            "folder_name": "770_DoubleG_Zombies_2.6",
+            "version": "2.6",
+            "hash": "ebebe8fa87815b7138b44ff79312a6f499ea572ec47fcac9043e11b103ad7fce",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/770_DoubleG_Zombies_2.6.zip"
+            ],
+            "tier": 1,
+            "author": "DoubleG",
+            "description": "Double G Zombies 2 plus Double G Zombies 1 remastered.",
+            "folder_hash": "c0e76dee52bc3ce6c9285a107546e51d68212dd7131da040a4e4dfb6ac6cd814",
+            "source": "Auto"
         }
     ],
     "server_info": {
