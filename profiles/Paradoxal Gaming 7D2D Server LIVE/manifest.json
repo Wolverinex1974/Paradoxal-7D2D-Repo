@@ -91,7 +91,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/060_zMoreQuestsNoScrollbar2.5.0.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "jns0fficial",
             "description": "Increases the amount of available quests at traders and adds other QoL changes related to quests.",
             "folder_hash": "c89b8459a6f71d5a90cecd4d8efc247cb5b8c5cde701d5e381d3e36db53cf1b1",
@@ -105,7 +105,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/070_TFP_Harmony.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
             "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
@@ -119,7 +119,7 @@
             "download_urls": [
                 "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/080_zzzZero_Hour_Core.zip"
             ],
-            "tier": 3,
+            "tier": 1,
             "author": "Wolverine74",
             "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
             "source": "Auto",
@@ -925,7 +925,7 @@
             "source": "Auto"
         },
         {
-            "name": "xcp_DupesFix_AsylumMods",
+            "name": "POI Density Fix",
             "folder_name": "660_xcp_DupesFix_AsylumMods",
             "version": "1.0.0",
             "hash": "8a41af60de341900752ccebe1908b3607f490a49af949ebc9d553d4c5f62677b",
