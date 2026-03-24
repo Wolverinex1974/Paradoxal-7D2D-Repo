@@ -9,7 +9,7 @@
         "version": "1.0.0",
         "latest_version": "1.0.0",
         "news_text": "Welcome to the Paradoxal World Directory.",
-        "total_payload_size": 11289660009,
+        "total_payload_size": 11298941720,
         "registry_overrides": {}
     },
     "mods": [
@@ -84,26 +84,12 @@
             "source": "Auto"
         },
         {
-            "name": "MoreQuestsNoScrollbar",
-            "folder_name": "060_zMoreQuestsNoScrollbar2.5.0",
-            "version": "2.5.0.0",
-            "hash": "8454ced1d4e506f21483c8c7877a35b6c53b947955760ac61000cf8d5c64f9ea",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/060_zMoreQuestsNoScrollbar2.5.0.zip"
-            ],
-            "tier": 1,
-            "author": "jns0fficial",
-            "description": "Increases the amount of available quests at traders and adds other QoL changes related to quests.",
-            "folder_hash": "c89b8459a6f71d5a90cecd4d8efc247cb5b8c5cde701d5e381d3e36db53cf1b1",
-            "source": "Auto"
-        },
-        {
-            "name": "Harmony Wrapper",
-            "folder_name": "070_TFP_Harmony",
+            "name": "TFP_Harmony",
+            "folder_name": "060_TFP_Harmony",
             "version": "1.1.0.4",
             "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/070_TFP_Harmony.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/060_TFP_Harmony.zip"
             ],
             "tier": 1,
             "author": "The Fun Pimps LLC",
@@ -113,11 +99,11 @@
         },
         {
             "name": "IZY_FPV_GLOVES",
-            "folder_name": "080_7D1.0_Izayo_Visible_FPV_Gloves_mod",
+            "folder_name": "070_7D1.0_Izayo_Visible_FPV_Gloves_mod",
             "version": "1.1.0.4",
             "hash": "a8f98d29bc227dc351374d155cbf36e5af4b913084cc903ed1cd20f67afabd51",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/080_7D1.0_Izayo_Visible_FPV_Gloves_mod.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/070_7D1.0_Izayo_Visible_FPV_Gloves_mod.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -127,11 +113,11 @@
         },
         {
             "name": "IZY_MMVMV2",
-            "folder_name": "090_7D1.0_Izayo_Visible_Mods_mod",
+            "folder_name": "080_7D1.0_Izayo_Visible_Mods_mod",
             "version": "1.1.0.4",
             "hash": "774d28cc40fed1cc10fa114422e0b0b5f389fb81b170649c31fe844c05cf82c1",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/090_7D1.0_Izayo_Visible_Mods_mod.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/080_7D1.0_Izayo_Visible_Mods_mod.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -141,11 +127,11 @@
         },
         {
             "name": "IZY_RMP_Miscpack",
-            "folder_name": "100_7D1.0_Izayo_WeaponpackMisc_pack",
+            "folder_name": "090_7D1.0_Izayo_WeaponpackMisc_pack",
             "version": "1.1.0.4",
             "hash": "31ca1ef59552f886dbd554c22effc09411c5b82ddbb69359e5b8a24ab1dac951",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/100_7D1.0_Izayo_WeaponpackMisc_pack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/090_7D1.0_Izayo_WeaponpackMisc_pack.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -155,11 +141,11 @@
         },
         {
             "name": "IZY_RMP_44magnum",
-            "folder_name": "110_7D1.0_Izayo_WeaponpackRemastered_44mag",
+            "folder_name": "100_7D1.0_Izayo_WeaponpackRemastered_44mag",
             "version": "1.1.0.4",
             "hash": "01b8dd80f4e82cff803b6461e5cea19065639361ece23ba08ab033d9fe776110",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/110_7D1.0_Izayo_WeaponpackRemastered_44mag.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/100_7D1.0_Izayo_WeaponpackRemastered_44mag.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -169,11 +155,11 @@
         },
         {
             "name": "IZY_RMP_45ACP",
-            "folder_name": "120_7D1.0_Izayo_WeaponpackRemastered_45ACP",
+            "folder_name": "110_7D1.0_Izayo_WeaponpackRemastered_45ACP",
             "version": "1.1.0.4",
             "hash": "a9e1b13a8630fe2f3391f12d47006436ed35db2de3b2e821cbb38191525f75ea",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/120_7D1.0_Izayo_WeaponpackRemastered_45ACP.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/110_7D1.0_Izayo_WeaponpackRemastered_45ACP.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -182,12 +168,12 @@
             "source": "Auto"
         },
         {
-            "name": "IZY_RMP_556",
-            "folder_name": "130_7D1.0_Izayo_WeaponpackRemastered_556pack",
+            "name": "IZY_RMP_556pack",
+            "folder_name": "120_7D1.0_Izayo_WeaponpackRemastered_556pack",
             "version": "1.1.0.4",
             "hash": "fdad7a4d8a2753cc48c2bb5ca5e47b09ac10eec5f9775d55430a6bb5548b5e04",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/130_7D1.0_Izayo_WeaponpackRemastered_556pack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/120_7D1.0_Izayo_WeaponpackRemastered_556pack.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -197,11 +183,11 @@
         },
         {
             "name": "IZY_RMP_762pack",
-            "folder_name": "140_7D1.0_Izayo_WeaponpackRemastered_762pack",
+            "folder_name": "130_7D1.0_Izayo_WeaponpackRemastered_762pack",
             "version": "1.1.0.4",
             "hash": "7e79c91e013554981731a7c84798b2f69ec8b75b5a7d3a4869f38403ad8f8eb9",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/140_7D1.0_Izayo_WeaponpackRemastered_762pack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/130_7D1.0_Izayo_WeaponpackRemastered_762pack.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -211,11 +197,11 @@
         },
         {
             "name": "IZY_RMP_9mmVAL",
-            "folder_name": "150_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
+            "folder_name": "140_7D1.0_Izayo_WeaponpackRemastered_9mmVAL",
             "version": "1.1.0.4",
             "hash": "d0d341c96eeb3fbc2365d7e63bf71802a5de500487a1415317b46e56a5f25c3e",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/150_7D1.0_Izayo_WeaponpackRemastered_9mmVAL.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/140_7D1.0_Izayo_WeaponpackRemastered_9mmVAL.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -225,11 +211,11 @@
         },
         {
             "name": "IZY_RMP_Demopack",
-            "folder_name": "160_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
+            "folder_name": "150_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack",
             "version": "1.1.0.4",
             "hash": "a4b96c896332968b71ddb94d46c8a1fa38e771e0614b4e88271626915e6ba176",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/160_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/150_7D1.0_Izayo_WeaponpackRemastered_DemolitionPack.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -239,11 +225,11 @@
         },
         {
             "name": "IZY_RMP_HVW",
-            "folder_name": "170_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
+            "folder_name": "160_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack",
             "version": "1.1.0.4",
             "hash": "71bddaecfe5cc97d7a0a56a6d656058fe547c401be6b2d651740aaec2ad8cb39",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/170_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/160_7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -253,11 +239,11 @@
         },
         {
             "name": "IZY_RMP_SG",
-            "folder_name": "180_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
+            "folder_name": "170_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL",
             "version": "1.1.0.4",
             "hash": "fded8d456ecd41025af180bbb21132a793db08e4a40578fe068a4cca02c43b68",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/180_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/170_7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -267,11 +253,11 @@
         },
         {
             "name": "IZY_RMP_Tech",
-            "folder_name": "190_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
+            "folder_name": "180_7D1.0_Izayo_WeaponpackRemastered_Technicalpack",
             "version": "1.1.0.4",
             "hash": "4fa6c9c5879c84f3889b3047d1e15c81e35559f1d701c0c295b73d3262291b97",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/190_7D1.0_Izayo_WeaponpackRemastered_Technicalpack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/180_7D1.0_Izayo_WeaponpackRemastered_Technicalpack.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -281,11 +267,11 @@
         },
         {
             "name": "IZY_melee",
-            "folder_name": "200_7D1.0_Izayo_WeaponpackSpecial_Melee",
+            "folder_name": "190_7D1.0_Izayo_WeaponpackSpecial_Melee",
             "version": "1.1.0.4",
             "hash": "826bed9515b306f69fe723aa01da8764133cf76dcffbc4d0170b3c32ae4e4f77",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/200_7D1.0_Izayo_WeaponpackSpecial_Melee.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/190_7D1.0_Izayo_WeaponpackSpecial_Melee.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -295,11 +281,11 @@
         },
         {
             "name": "IZY_VRP",
-            "folder_name": "210_7D1.0_Izayo_WeaponpackVanillaReplacer",
+            "folder_name": "200_7D1.0_Izayo_WeaponpackVanillaReplacer",
             "version": "1.1.0.4",
             "hash": "a84b818403042ab0ccb209ef6b03c87d1b95e4e0f127d1e02d3c589730e0d396",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/210_7D1.0_Izayo_WeaponpackVanillaReplacer.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/200_7D1.0_Izayo_WeaponpackVanillaReplacer.zip"
             ],
             "tier": 1,
             "author": "IZY",
@@ -308,12 +294,12 @@
             "source": "Auto"
         },
         {
-            "name": "AGF 84 Slot Backpack",
-            "folder_name": "220_AGF_V2_Backpack84Plus_v3.2.0",
+            "name": "AGF-V2-Backpack84Plus",
+            "folder_name": "210_AGF_V2_Backpack84Plus_v3.2.0",
             "version": "3.2.0",
             "hash": "42afea3086e9a85a224f388343c8b3dd659a050205226c12c760251a45ee1a75",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/220_AGF_V2_Backpack84Plus_v3.2.0.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/210_AGF_V2_Backpack84Plus_v3.2.0.zip"
             ],
             "tier": 1,
             "author": "AuroraGiggleFairy (AGF)",
@@ -322,12 +308,12 @@
             "source": "Auto"
         },
         {
-            "name": "AGF HUD Plus - Main",
-            "folder_name": "230_AGF_V2_HUDPlus_1Main_v5.2.0",
+            "name": "AGF-V2-HUDPlus-1Main",
+            "folder_name": "220_AGF_V2_HUDPlus_1Main_v5.2.0",
             "version": "5.2.0",
             "hash": "2d0159d959cc3737304e1795839ea1c335844870656d520d154a684972296c18",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/230_AGF_V2_HUDPlus_1Main_v5.2.0.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/220_AGF_V2_HUDPlus_1Main_v5.2.0.zip"
             ],
             "tier": 1,
             "author": "AuroraGiggleFairy (AGF)",
@@ -336,12 +322,12 @@
             "source": "Auto"
         },
         {
-            "name": "AGF Smelting Plus",
-            "folder_name": "240_AGF_V2_VP_SmeltingPlus_v2.2.1",
+            "name": "AGF-V2-VP-SmeltingPlus",
+            "folder_name": "230_AGF_V2_VP_SmeltingPlus_v2.2.1",
             "version": "2.2.1",
             "hash": "5d2c59bf1861008b3377230a228ddaa3299a36602a844d3b5991bbfef511b3da",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/240_AGF_V2_VP_SmeltingPlus_v2.2.1.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/230_AGF_V2_VP_SmeltingPlus_v2.2.1.zip"
             ],
             "tier": 1,
             "author": "AuroraGiggleFairy (AGF)",
@@ -350,12 +336,12 @@
             "source": "Auto"
         },
         {
-            "name": "Allocs command extensions",
-            "folder_name": "250_Allocs_CommandExtensions",
+            "name": "Allocs_Commands",
+            "folder_name": "240_Allocs_CommandExtensions",
             "version": "29",
             "hash": "b5ba4e1392222123dd96d974da3967084eb3cbb9771814771c0e0c4b8f87ba2c",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/250_Allocs_CommandExtensions.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/240_Allocs_CommandExtensions.zip"
             ],
             "tier": 1,
             "author": "Christian 'Alloc' Illy",
@@ -364,12 +350,12 @@
             "source": "Auto"
         },
         {
-            "name": "Allocs server fixes",
-            "folder_name": "260_Allocs_CommonFunc",
+            "name": "Allocs_Core",
+            "folder_name": "250_Allocs_CommonFunc",
             "version": "37",
             "hash": "12f99fb3e4c845c7fe3206d1f233397966b42168da32c163caca14d83d7d4c4a",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/260_Allocs_CommonFunc.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/250_Allocs_CommonFunc.zip"
             ],
             "tier": 1,
             "author": "Christian 'Alloc' Illy",
@@ -378,12 +364,12 @@
             "source": "Auto"
         },
         {
-            "name": "Allocs MapRendering and Webinterface",
-            "folder_name": "270_Allocs_WebAndMapRendering",
+            "name": "Allocs_Webinterface",
+            "folder_name": "260_Allocs_WebAndMapRendering",
             "version": "51",
             "hash": "bbf62476f038d6e75f62543a7ab12455e066ad3373816d4622c55bff4e9a1bbf",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/270_Allocs_WebAndMapRendering.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/260_Allocs_WebAndMapRendering.zip"
             ],
             "tier": 1,
             "author": "Christian 'Alloc' Illy",
@@ -392,12 +378,12 @@
             "source": "Auto"
         },
         {
-            "name": "Arrows and Bolts Cause Bleed",
-            "folder_name": "280_ArrowsAndBoltsCauseBleed",
+            "name": "ArrowsAndBoltsCauseBleed",
+            "folder_name": "270_ArrowsAndBoltsCauseBleed",
             "version": "2.2.1",
             "hash": "c286939cb3f45ce4a51061fd049063a1de5ae4cfe337a723f542e3744ae2b90d",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/280_ArrowsAndBoltsCauseBleed.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/270_ArrowsAndBoltsCauseBleed.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
@@ -406,12 +392,12 @@
             "source": "Auto"
         },
         {
-            "name": "Bdubs Vehicles",
-            "folder_name": "290_BdubsVehicles",
+            "name": "Bdubs_Vehicles",
+            "folder_name": "280_BdubsVehicles",
             "version": "2.5.1.1",
             "hash": "e0f8d1a1d629e1bbee2f420db63cb0382ad4d9b8791d33c32a1a003b2da057ad",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/290_BdubsVehicles.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/280_BdubsVehicles.zip"
             ],
             "tier": 1,
             "author": "bdubyah",
@@ -420,12 +406,12 @@
             "source": "Auto"
         },
         {
-            "name": "Better Perks",
-            "folder_name": "300_Better_perks",
+            "name": "BetterPerks",
+            "folder_name": "290_Better_perks",
             "version": "1.0",
             "hash": "659cbca257a4df4cb6edaf7bc8e224cac48d99359cc2d00c2a895ad21a87705d",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/300_Better_perks.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/290_Better_perks.zip"
             ],
             "tier": 1,
             "author": "Black Wolf",
@@ -434,12 +420,12 @@
             "source": "Auto"
         },
         {
-            "name": "MPLogue's Better Biomes, Biome Enhancement MOD for 7D2D (V2.0)",
-            "folder_name": "310_Better_Biomes_v2",
+            "name": "MPLogue_Better_Biomes_7D2D_v2_0_1",
+            "folder_name": "300_Better_Biomes_v2",
             "version": "2.0.1",
             "hash": "d13de51d77a85aa2443827b9c0cee18ab437048620064ce07876906a48c9e2cd",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/310_Better_Biomes_v2.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/300_Better_Biomes_v2.zip"
             ],
             "tier": 1,
             "author": "MPLogue",
@@ -448,12 +434,12 @@
             "source": "Auto"
         },
         {
-            "name": "Dewtas Random Knockdown Time",
-            "folder_name": "320_Dewtas_Random_Knockdown_Timer_2.5",
+            "name": "DewtasRandomKnockdownTime",
+            "folder_name": "310_Dewtas_Random_Knockdown_Timer_2.5",
             "version": "1.0",
             "hash": "304a95a9dfcbd0e070783bd5a2faacc397dc11a12634bd23eefe8f6dc29151e6",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/320_Dewtas_Random_Knockdown_Timer_2.5.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/310_Dewtas_Random_Knockdown_Timer_2.5.zip"
             ],
             "tier": 1,
             "author": "Dewta",
@@ -462,12 +448,12 @@
             "source": "Auto"
         },
         {
-            "name": "Extra Dye Colors",
-            "folder_name": "330_DW1982s_Extra_Dye_Colors",
+            "name": "DW1982s_Extra_Dye_Colors",
+            "folder_name": "320_DW1982s_Extra_Dye_Colors",
             "version": "4.0.4",
             "hash": "de3c9019575d772bbbd4b197bb33cea47c3e7eb0c82ad51c5cf2e3e554cfb7d5",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/330_DW1982s_Extra_Dye_Colors.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/320_DW1982s_Extra_Dye_Colors.zip"
             ],
             "tier": 1,
             "author": "DragonWolf1982",
@@ -476,12 +462,12 @@
             "source": "Auto"
         },
         {
-            "name": "FNS Self-Planting Trees",
-            "folder_name": "340_FNS_Self_Planting_Trees_v2",
+            "name": "FNS_Self-Planting_Trees",
+            "folder_name": "330_FNS_Self_Planting_Trees_v2",
             "version": "1.0",
             "hash": "6664437270aec6bb72d690f951c7506e641ef0db7f6c18ad92e94c6812af7beb",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/340_FNS_Self_Planting_Trees_v2.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/330_FNS_Self_Planting_Trees_v2.zip"
             ],
             "tier": 1,
             "author": "FlufferNutterSandwich",
@@ -490,12 +476,12 @@
             "source": "Auto"
         },
         {
-            "name": "Just Cook It",
-            "folder_name": "350_Just_Cook_It",
+            "name": "Just_Cook_It",
+            "folder_name": "340_Just_Cook_It",
             "version": "1.2",
             "hash": "c68f82af50781559bb7466dd4734bbbc2575916c89c65ef0de48a4f9187de7cd",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/350_Just_Cook_It.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/340_Just_Cook_It.zip"
             ],
             "tier": 1,
             "author": "ShadowOsmium",
@@ -504,12 +490,12 @@
             "source": "Auto"
         },
         {
-            "name": "KHV1 Zombie Reach Adjustment",
-            "folder_name": "360_KHV1_Zombie_Reach_Adjustment",
+            "name": "KHV1_Zombie_Reach_Adjustment",
+            "folder_name": "350_KHV1_Zombie_Reach_Adjustment",
             "version": "2.5.1.1",
             "hash": "550555af6aa60a7f0c6f3e3ad10517d9acf187c3d5019e33e3e10958404f0496",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/360_KHV1_Zombie_Reach_Adjustment.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/350_KHV1_Zombie_Reach_Adjustment.zip"
             ],
             "tier": 1,
             "author": "FlufferNutterSandwich",
@@ -519,11 +505,11 @@
         },
         {
             "name": "Locks",
-            "folder_name": "370_Locks",
+            "folder_name": "360_Locks",
             "version": "2.0.0",
             "hash": "b358829b4190047829c5d8e20b9f565d63e9291c96a85569a1a07d22dcbd7dc1",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/370_Locks.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/360_Locks.zip"
             ],
             "tier": 1,
             "author": "Xyth/SphereII/Mumpfy",
@@ -532,12 +518,12 @@
             "source": "Auto"
         },
         {
-            "name": "Longer Lasting Buffs 5x",
-            "folder_name": "380_Longer_Lasting_Buffs_5x",
+            "name": "LongerLastingBuffs5x",
+            "folder_name": "370_Longer_Lasting_Buffs_5x",
             "version": "1.0",
             "hash": "3b12d8be7fcfcaedce389b8b4f6b0decb55c300ce99870bb075453fdde6f0202",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/380_Longer_Lasting_Buffs_5x.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/370_Longer_Lasting_Buffs_5x.zip"
             ],
             "tier": 1,
             "author": "napalm1",
@@ -547,11 +533,11 @@
         },
         {
             "name": "Medical_conditions",
-            "folder_name": "390_Medical_conditions",
+            "folder_name": "380_Medical_conditions",
             "version": "1.3.5",
             "hash": "6795b3b3ae907e311d085589cccc6eddce23f2c2bd313a3d42a9b0e44988b903",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/390_Medical_conditions.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/380_Medical_conditions.zip"
             ],
             "tier": 1,
             "author": "excyborg",
@@ -561,11 +547,11 @@
         },
         {
             "name": "MPLogue_UrbanDecay_7D2D_v1_0",
-            "folder_name": "400_MPLogue_UrbanDecay_7D2D_v2_0_1",
+            "folder_name": "390_MPLogue_UrbanDecay_7D2D_v2_0_1",
             "version": "1.2.1",
             "hash": "76b57d6f3779fe0aac6fdfdde79f791cdf7871065db46978b9f00b4d5e670a79",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/400_MPLogue_UrbanDecay_7D2D_v2_0_1.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/390_MPLogue_UrbanDecay_7D2D_v2_0_1.zip"
             ],
             "tier": 1,
             "author": "MPLogue",
@@ -574,12 +560,12 @@
             "source": "Auto"
         },
         {
-            "name": "MXMRMXs POI PACK",
-            "folder_name": "410_MXMRMXs_POI_PACK_V1.14",
+            "name": "MXMRMXsPOIPACK",
+            "folder_name": "400_MXMRMXs_POI_PACK_V1.14",
             "version": "2.0",
             "hash": "2134c7cdfdb9f9add56fe50e512662abe38a49d3889910ed68f9526f4d8e89dc",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/410_MXMRMXs_POI_PACK_V1.14.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/400_MXMRMXs_POI_PACK_V1.14.zip"
             ],
             "tier": 1,
             "author": "War0zzz",
@@ -588,12 +574,12 @@
             "source": "Auto"
         },
         {
-            "name": "New Spawn start zone",
-            "folder_name": "420_New_Spawn_start_zone",
+            "name": "NewSpawnStartZone",
+            "folder_name": "410_New_Spawn_start_zone",
             "version": "1.0.0",
             "hash": "fd6327bb9648b89aadd56742b20f3dc86a84812a787bb16cc46d1459a172c3fa",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/420_New_Spawn_start_zone.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/410_New_Spawn_start_zone.zip"
             ],
             "tier": 1,
             "author": "YourName",
@@ -602,12 +588,12 @@
             "source": "Auto"
         },
         {
-            "name": "Officecats5 POI Pack",
-            "folder_name": "430_Officecats5_POI_pack",
+            "name": "Officecats5POIpack",
+            "folder_name": "420_Officecats5_POI_pack",
             "version": "0.0.0",
             "hash": "3497363e97b43e1e9e69ee1b64e172dc80c348d38ce27d8d1ec9791a5224b55f",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/430_Officecats5_POI_pack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/420_Officecats5_POI_pack.zip"
             ],
             "tier": 1,
             "author": "Officecats5",
@@ -616,26 +602,26 @@
             "source": "Auto"
         },
         {
-            "name": "Paradoxal Gaming tweaks",
-            "folder_name": "440_Paradoxal_Gaming_tweaks",
+            "name": "Paradoxal_Gaming_tweaks",
+            "folder_name": "430_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
-            "hash": "6ffbe5faf9cdfbebbe48a1dd5321425fb04e985b382c9a873fb30213921c8d01",
+            "hash": "17ddfee73d882e9d84bd76cee061bb775449101ccde3364597e22a9b1a7255f1",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/440_Paradoxal_Gaming_tweaks.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/430_Paradoxal_Gaming_tweaks.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
             "description": "A place to gather random edits for various things, like adding new recipes.",
-            "folder_hash": "9f52e85814110c8f588ec8223811777c9d41f072bb10309c199859fe70fa9cfd",
+            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
             "source": "Auto"
         },
         {
-            "name": "Primitive Farming Style",
-            "folder_name": "450_Primitive_Farming_Style",
+            "name": "Primitive_Farming_Style",
+            "folder_name": "440_Primitive_Farming_Style",
             "version": "2.1.1",
             "hash": "189ff9f9f75f3fae51fe60c8e7267f411a2b099b69e2b6fafd8c1eb868449f09",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/450_Primitive_Farming_Style.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/440_Primitive_Farming_Style.zip"
             ],
             "tier": 1,
             "author": "Wolverine",
@@ -645,11 +631,11 @@
         },
         {
             "name": "PrismaCore",
-            "folder_name": "460_PrismaCore",
+            "folder_name": "450_PrismaCore",
             "version": "2.1",
             "hash": "02182e2288accd42c3e35aa974207b1d4fc9fd0e605f5766fc75fc9133115ac9",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/460_PrismaCore.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/450_PrismaCore.zip"
             ],
             "tier": 1,
             "author": "Prisma501",
@@ -658,12 +644,12 @@
             "source": "Auto"
         },
         {
-            "name": "Projectile Bleed Mod",
-            "folder_name": "470_ProjectileBleedMod",
+            "name": "ProjectileBleedMod",
+            "folder_name": "460_ProjectileBleedMod",
             "version": "2.2.1",
             "hash": "4234506eaf12dd825b68439594bf749cfcabeb683b29354e2eb085b9fe89a8f8",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/470_ProjectileBleedMod.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/460_ProjectileBleedMod.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
@@ -672,12 +658,12 @@
             "source": "Auto"
         },
         {
-            "name": "Rope and Realism (for V21)",
-            "folder_name": "480_RopeAndRealism_V21",
+            "name": "RopeAndRealism_V21",
+            "folder_name": "470_RopeAndRealism_V21",
             "version": "5.1.10",
             "hash": "5475178fb1c2b33d2e68b3cc650ad1819fbe3fb49b7e1c7788c3e6222a2f2b23",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/480_RopeAndRealism_V21.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/470_RopeAndRealism_V21.zip"
             ],
             "tier": 1,
             "author": "AI Assistant and You",
@@ -686,12 +672,12 @@
             "source": "Auto"
         },
         {
-            "name": "Teragon POIs",
-            "folder_name": "490_Teragon_POIs",
+            "name": "Teragon_POIs",
+            "folder_name": "480_Teragon_POIs",
             "version": "22.0.0.0",
             "hash": "a0ae4b6e95838a456fee8786723ee2691424924b490b34002c121abcd1c0864f",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/490_Teragon_POIs.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/480_Teragon_POIs.zip"
             ],
             "tier": 1,
             "author": "Pille",
@@ -700,12 +686,12 @@
             "source": "Auto"
         },
         {
-            "name": "Server Command Extensions",
-            "folder_name": "500_TFP_CommandExtensions",
+            "name": "TFP_CommandExtensions",
+            "folder_name": "490_TFP_CommandExtensions",
             "version": "2.1.0.0",
             "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/500_TFP_CommandExtensions.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/490_TFP_CommandExtensions.zip"
             ],
             "tier": 1,
             "author": "The Fun Pimps LLC",
@@ -714,12 +700,12 @@
             "source": "Auto"
         },
         {
-            "name": "Map Renderer",
-            "folder_name": "510_TFP_MapRendering",
+            "name": "TFP_MapRendering",
+            "folder_name": "500_TFP_MapRendering",
             "version": "2.1.0.0",
             "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/510_TFP_MapRendering.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/500_TFP_MapRendering.zip"
             ],
             "tier": 1,
             "author": "The Fun Pimps LLC",
@@ -728,12 +714,12 @@
             "source": "Auto"
         },
         {
-            "name": "Web Dashboard",
-            "folder_name": "520_TFP_WebServer",
+            "name": "TFP_WebServer",
+            "folder_name": "510_TFP_WebServer",
             "version": "2.5.0.0",
             "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/520_TFP_WebServer.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/510_TFP_WebServer.zip"
             ],
             "tier": 1,
             "author": "The Fun Pimps LLC",
@@ -743,11 +729,11 @@
         },
         {
             "name": "The_Countryside_POI_pack",
-            "folder_name": "530_The_Countryside_POI_pack",
+            "folder_name": "520_The_Countryside_POI_pack",
             "version": "2.5.0",
             "hash": "4d6e3bbb0f5cfae2d25c8271f6f55ceca3e1b72a36cf89e09e836d520e395aa5",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/530_The_Countryside_POI_pack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/520_The_Countryside_POI_pack.zip"
             ],
             "tier": 1,
             "author": "Exhin And Kellsan",
@@ -757,11 +743,11 @@
         },
         {
             "name": "TMO-Core",
-            "folder_name": "540_TMO_Core_v2_v2.4Stable",
+            "folder_name": "530_TMO_Core_v2_v2.4Stable",
             "version": "2.0",
             "hash": "2c28baccc5b618b939e7ad33d4aa40c5e3738938e1d07023cfe61b7e83728494",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/540_TMO_Core_v2_v2.4Stable.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/530_TMO_Core_v2_v2.4Stable.zip"
             ],
             "tier": 1,
             "author": "TheMeanOneMods",
@@ -770,12 +756,12 @@
             "source": "Auto"
         },
         {
-            "name": "V2 Oakraven Ammo Press",
-            "folder_name": "550_V2_OakravenAmmoPress",
+            "name": "V2_OakravenAmmoPress",
+            "folder_name": "540_V2_OakravenAmmoPress",
             "version": "2.5.0.0",
             "hash": "5519176e08b67d28538b7a86b06d9d4a92864882d36e640f5c0ac611f4c44ef3",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/550_V2_OakravenAmmoPress.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/540_V2_OakravenAmmoPress.zip"
             ],
             "tier": 1,
             "author": "oakraven, with support from arramus",
@@ -784,12 +770,12 @@
             "source": "Auto"
         },
         {
-            "name": "V2 Party Stack Size",
-            "folder_name": "560_V2_PartyStackSize",
+            "name": "V2_PartyStackSize",
+            "folder_name": "550_V2_PartyStackSize",
             "version": "2.5.0.0",
             "hash": "c37d66525ac8e18eddd031456f52fdfe709db4486c05bb3e41226b5686765f64",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/560_V2_PartyStackSize.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/550_V2_PartyStackSize.zip"
             ],
             "tier": 1,
             "author": "arramus",
@@ -798,12 +784,12 @@
             "source": "Auto"
         },
         {
-            "name": "V2 Solar Power Crafting",
-            "folder_name": "570_V2_SolarPowerCrafting",
+            "name": "V2_SolarPowerCrafting",
+            "folder_name": "560_V2_SolarPowerCrafting",
             "version": "2.5.0.0",
             "hash": "4140d1bb0de7df14345c3271a6705e9815ec279438a6782c27b11a1da95cbb1e",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/570_V2_SolarPowerCrafting.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/560_V2_SolarPowerCrafting.zip"
             ],
             "tier": 1,
             "author": "arramus",
@@ -812,12 +798,12 @@
             "source": "Auto"
         },
         {
-            "name": "Valmars Survivor Notes Experience and Recipe Books",
-            "folder_name": "580_Valmars_Survivor_Notes",
+            "name": "Valmars_Survivor_Notes",
+            "folder_name": "570_Valmars_Survivor_Notes",
             "version": "2.0.2.0",
             "hash": "418ce6e8423b45c72326cbc61972a9fa0816c61e8ef8725a39061969e462d54c",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/580_Valmars_Survivor_Notes.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/570_Valmars_Survivor_Notes.zip"
             ],
             "tier": 1,
             "author": "Valmar",
@@ -826,12 +812,12 @@
             "source": "Auto"
         },
         {
-            "name": "Valmars Starter Class System V2",
-            "folder_name": "590_Valmars_Starter_Class_System_SSO",
+            "name": "Valmars_Starter_Class_System_SSO",
+            "folder_name": "580_Valmars_Starter_Class_System_SSO",
             "version": "2.2.2.2",
             "hash": "bca0d73e65dce8cb3dd7e74f3360a0304f7cb76d6c6c2c307b416285b9dfc012",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/590_Valmars_Starter_Class_System_SSO.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/580_Valmars_Starter_Class_System_SSO.zip"
             ],
             "tier": 1,
             "author": "Valmar",
@@ -840,12 +826,12 @@
             "source": "Auto"
         },
         {
-            "name": "Voltralux POI Pack",
-            "folder_name": "600_Voltraluxs_POI_Pack_2.5",
+            "name": "VoltraLuxPOIPack",
+            "folder_name": "590_Voltraluxs_POI_Pack_2.5",
             "version": "21.1.0.1",
             "hash": "173c3d6f08510a12c1b91ed2efbd20e33000401e5f39a48817064a8f2b61107c",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/600_Voltraluxs_POI_Pack_2.5.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/590_Voltraluxs_POI_Pack_2.5.zip"
             ],
             "tier": 1,
             "author": "Voltralux",
@@ -855,11 +841,11 @@
         },
         {
             "name": "WalkerSim",
-            "folder_name": "610_WalkerSim2",
+            "folder_name": "600_WalkerSim2",
             "version": "1.0.0.0",
             "hash": "953bd658ea8385acb33027e11a6124e622276badcf30f4b0414ba2e67aa11f84",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/610_WalkerSim2.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/600_WalkerSim2.zip"
             ],
             "tier": 1,
             "author": "ZehMatt",
@@ -868,13 +854,13 @@
             "source": "Auto"
         },
         {
-            "name": "War3zuk FarmLife Overhaul",
-            "folder_name": "620_War3zuk_FarmLife",
+            "name": "War3zuk_FarmLife",
+            "folder_name": "610_War3zuk_FarmLife",
             "version": "5.7",
             "hash": "a00fd54fc421d5b5091d4e8d854d6f1cbb60f3ee6854b7423ba1050b8b6f50c9",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/620_War3zuk_FarmLife.part1.zip",
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/620_War3zuk_FarmLife.part2.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/610_War3zuk_FarmLife.part1.zip",
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/610_War3zuk_FarmLife.part2.zip"
             ],
             "tier": 1,
             "author": "War3zuk",
@@ -883,12 +869,12 @@
             "source": "Auto"
         },
         {
-            "name": "Airdrop Spawn Zeds",
-            "folder_name": "630_WMMZAirdropSpawnZeds",
+            "name": "WMMZAirdropSpawnZeds",
+            "folder_name": "620_WMMZAirdropSpawnZeds",
             "version": "2.5.23.1",
             "hash": "3bb1498ffdf256a974d0951110e05b2532779ac9f2aae636a7bb8b05574622d7",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/630_WMMZAirdropSpawnZeds.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/620_WMMZAirdropSpawnZeds.zip"
             ],
             "tier": 1,
             "author": "w00kie n00kie",
@@ -897,12 +883,12 @@
             "source": "Auto"
         },
         {
-            "name": "Markers (Example Web Mod)",
-            "folder_name": "640_Xample_MarkersMod",
+            "name": "TFP_MarkersExample",
+            "folder_name": "630_Xample_MarkersMod",
             "version": "1.1.1.0",
             "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/640_Xample_MarkersMod.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/630_Xample_MarkersMod.zip"
             ],
             "tier": 1,
             "author": "Catalysm and Alloc",
@@ -911,12 +897,12 @@
             "source": "Auto"
         },
         {
-            "name": "POI Density Fix",
-            "folder_name": "650_xcp_DupesFix_AsylumMods",
+            "name": "xcp_DupesFix_AsylumMods",
+            "folder_name": "640_xcp_DupesFix_AsylumMods",
             "version": "1.0.0",
             "hash": "8a41af60de341900752ccebe1908b3607f490a49af949ebc9d553d4c5f62677b",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/650_xcp_DupesFix_AsylumMods.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/640_xcp_DupesFix_AsylumMods.zip"
             ],
             "tier": 1,
             "author": "AsylumMods",
@@ -925,12 +911,12 @@
             "source": "Auto"
         },
         {
-            "name": "Road Shape Fix - Restores Cap, Corner, and Straight Road Tiles",
-            "folder_name": "660_xcp_RWGFix_AsylumMods",
+            "name": "RoadShapeFix",
+            "folder_name": "650_xcp_RWGFix_AsylumMods",
             "version": "1.0.0",
             "hash": "fb124b3202b23b9f5eabd892521e60b9d8aacdd1820ab3f68d68040437fdfcc3",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/660_xcp_RWGFix_AsylumMods.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/650_xcp_RWGFix_AsylumMods.zip"
             ],
             "tier": 1,
             "author": "Asylum Modding Team",
@@ -939,12 +925,12 @@
             "source": "Auto"
         },
         {
-            "name": "ZZTong Prefabs",
-            "folder_name": "670_ZZTong_Prefabs",
+            "name": "ZZTong-Prefabs",
+            "folder_name": "660_ZZTong_Prefabs",
             "version": "2.5.031",
             "hash": "55afd743f81b4705474f12e15f8de5a8f746af5baf586c060205d5baa26d822e",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/670_ZZTong_Prefabs.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/660_ZZTong_Prefabs.zip"
             ],
             "tier": 1,
             "author": "ZZTong",
@@ -953,12 +939,12 @@
             "source": "Auto"
         },
         {
-            "name": "Scomar82 Highlighting",
-            "folder_name": "680_zzzScomar82_Hobacs",
+            "name": "Scomar82_Hobacs",
+            "folder_name": "670_zzzScomar82_Hobacs",
             "version": "2.3",
             "hash": "5510750cdf7f0043ca29609c105daeb4322d96d6d04145a7b80e2ce0b520162d",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/680_zzzScomar82_Hobacs.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/670_zzzScomar82_Hobacs.zip"
             ],
             "tier": 1,
             "author": "Scomar",
@@ -967,12 +953,12 @@
             "source": "Auto"
         },
         {
-            "name": "zzzz Nail Realism",
-            "folder_name": "690_zzzzNail_Realism",
+            "name": "zzzzNail_Realism",
+            "folder_name": "680_zzzzNail_Realism",
             "version": "2.2.2",
             "hash": "8aff9de5a31503f2694268f4a0603d7d4bec4a95044468db95c49f22e3d7683b",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/690_zzzzNail_Realism.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/680_zzzzNail_Realism.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
@@ -981,13 +967,13 @@
             "source": "Auto"
         },
         {
-            "name": "Vanilla",
-            "folder_name": "700_Zzzzxcpv_Classic_All_In_One",
+            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "690_Zzzzxcpv_Classic_All_In_One",
             "version": "2.0.51.2",
             "hash": "609e592b75f013be28f95f357168827a5a5d1630ed13335306a1149c01746e69",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/700_Zzzzxcpv_Classic_All_In_One.part1.zip",
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/700_Zzzzxcpv_Classic_All_In_One.part2.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/690_Zzzzxcpv_Classic_All_In_One.part1.zip",
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/690_Zzzzxcpv_Classic_All_In_One.part2.zip"
             ],
             "tier": 1,
             "author": "Various, Stallionsden",
@@ -997,11 +983,11 @@
         },
         {
             "name": "ZZZ_CraftableChili_FarmLife",
-            "folder_name": "710_ZZZ_CraftableChili_FarmLife",
+            "folder_name": "700_ZZZ_CraftableChili_FarmLife",
             "version": "2.5",
             "hash": "92d4a3846b5d120ba00bfa165020f2b80b191a965d671c76d65ba072f464ba65",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/710_ZZZ_CraftableChili_FarmLife.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/700_ZZZ_CraftableChili_FarmLife.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
@@ -1010,12 +996,12 @@
             "source": "Auto"
         },
         {
-            "name": "FNS Loot All the Things",
-            "folder_name": "720_ZZZ_FNS_Loot_All_the_Things",
+            "name": "ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "710_ZZZ_FNS_Loot_All_the_Things",
             "version": "2.5.2.1",
             "hash": "823981e7d4d0648edaaf0e641b1c6089d0e0bbb365449c056458761409789bce",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/720_ZZZ_FNS_Loot_All_the_Things.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/710_ZZZ_FNS_Loot_All_the_Things.zip"
             ],
             "tier": 1,
             "author": "FlufferNutterSandwich",
@@ -1025,11 +1011,11 @@
         },
         {
             "name": "ZZZ_HoneyFix_BetterBiomes",
-            "folder_name": "730_ZZZ_HoneyFix_BetterBiomes",
+            "folder_name": "720_ZZZ_HoneyFix_BetterBiomes",
             "version": "2.5",
             "hash": "e9fcdc0d32881d14a5b6facc29372f211322c32cb60595cef692580ddc0e6bb6",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/730_ZZZ_HoneyFix_BetterBiomes.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/720_ZZZ_HoneyFix_BetterBiomes.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
@@ -1039,11 +1025,11 @@
         },
         {
             "name": "ZZZ_More_Chuck_And_Charred",
-            "folder_name": "740_ZZZ_More_Chuck_And_Charred",
+            "folder_name": "730_ZZZ_More_Chuck_And_Charred",
             "version": "2.5",
             "hash": "317426c96ce377f37ba68c4638bee0c2279b5dc10c00ee8c53455aa0f3765c21",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/740_ZZZ_More_Chuck_And_Charred.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/730_ZZZ_More_Chuck_And_Charred.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
@@ -1052,12 +1038,12 @@
             "source": "Auto"
         },
         {
-            "name": "LittleRedSonja ZombiePack",
-            "folder_name": "750_LittleRedSonja_ZombiePack",
+            "name": "LittleRedSonja_ZombiePack",
+            "folder_name": "740_LittleRedSonja_ZombiePack",
             "version": "2.2.3",
             "hash": "f1cf458e1cd575c52aa081685bba6c336318e1526436f77669099722ceed66e5",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/750_LittleRedSonja_ZombiePack.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/740_LittleRedSonja_ZombiePack.zip"
             ],
             "tier": 1,
             "author": "LittleRedSonja",
@@ -1066,12 +1052,12 @@
             "folder_hash": "c93e77282bb152ec845952c5146d972be16115148278cc74e3c5da377f649e0c"
         },
         {
-            "name": "DoubleG Zombies 2",
-            "folder_name": "760_DoubleG_Zombies_2.6",
+            "name": "DoubleGZombies2",
+            "folder_name": "750_DoubleG_Zombies_2.6",
             "version": "2.6",
             "hash": "ebebe8fa87815b7138b44ff79312a6f499ea572ec47fcac9043e11b103ad7fce",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/760_DoubleG_Zombies_2.6.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/750_DoubleG_Zombies_2.6.zip"
             ],
             "tier": 1,
             "author": "DoubleG",
@@ -1081,17 +1067,73 @@
         },
         {
             "name": "Zero_Hour_Core",
-            "folder_name": "770_zzzZero_Hour_Core",
+            "folder_name": "760_zzzZero_Hour_Core",
             "version": "2.5.28.7",
             "hash": "b02aa6eeda1e1d430f5797d1ab2c7505455a4cf053f46e19667c0dee998fb12f",
             "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/770_zzzZero_Hour_Core.zip"
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/760_zzzZero_Hour_Core.zip"
             ],
             "tier": 1,
             "author": "Wolverine74",
             "description": "Industrial Economy and Teleport Bridge for Zero Hour Manager.",
             "source": "Auto",
             "folder_hash": "4d5368910571d2f0a6e607c600c2ad300711b83f793caf3fc211777371be2934"
+        },
+        {
+            "name": "Quartz",
+            "folder_name": "770_Quartz",
+            "version": "7.0.0",
+            "hash": "12c2c5d1182b1fa1e32ca767c532880f15e129d3e0dc8efefdb95ebdc0c20b9f",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/770_Quartz.zip"
+            ],
+            "tier": 1,
+            "author": "Laydor",
+            "description": "A UI framework mod that adds some new XUi Widgets and XUi Controllers that can be used by modders",
+            "folder_hash": "510f0c57c4cfd0ef6e6864b4e2f68daf1e3c8f5417f90ffede073b6363ac42fe",
+            "source": "Auto"
+        },
+        {
+            "name": "MoreQuests",
+            "folder_name": "780_zMoreQuests2.5.0",
+            "version": "2.5.0.0",
+            "hash": "8e4feaa1a5f03631c93d819e62b79fbc21e62d3081b8bd41441c46193969ae54",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/780_zMoreQuests2.5.0.zip"
+            ],
+            "tier": 1,
+            "author": "jns0fficial",
+            "description": "Increases the amount of available quests at traders and adds other QoL changes related to quests.",
+            "folder_hash": "9442d4b78f51824da170ae38aee45753291cc3acfc8a7142f9d6ac9d4cb4e400",
+            "source": "Auto"
+        },
+        {
+            "name": "Gears",
+            "folder_name": "790_Gears",
+            "version": "6.0.1",
+            "hash": "f6b2b1de15d686e0aa841db6a0162a68fff9a680d407368b455b54c9f62ac4a1",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/790_Gears.zip"
+            ],
+            "tier": 1,
+            "author": "Laydor",
+            "description": "A Mod Settings framework that adds settings support for mods. It allows users to change the settings in game",
+            "folder_hash": "80c5e6d5d07999ce108f178a88434736be0d08fc34381db6d3465d848d6c64a7",
+            "source": "Auto"
+        },
+        {
+            "name": "QuestRevamp",
+            "folder_name": "800_PaLoALo_V2_QuestRevamp_Gears_Edition",
+            "version": "2.5.0.91",
+            "hash": "55665cbb867c9e43c9b883c7701a25100b657622c47c4b386ca98abbe648073d",
+            "download_urls": [
+                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/800_PaLoALo_V2_QuestRevamp_Gears_Edition.zip"
+            ],
+            "tier": 1,
+            "author": "original author TheGaijin - fork by PaLoALo",
+            "description": "[DECEA3]Utilizes Gears to allow options for many quest functions. Adds more Tiers for the Trader Quest System and additional super, ultra, and nightmare infestation variants as new quests.[-]",
+            "folder_hash": "a131309d870139463ebd46008c0296f5db1ade4615cdf8395083991456c69cd1",
+            "source": "Auto"
         }
     ],
     "server_info": {
