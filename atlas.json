@@ -1,14 +1,14 @@
 [
     {
-        "profile_id": "765c7c14f2715adfb5259a1b9d67aea8",
-        "display_name": "Paradoxal Gaming 7D2D Server LIVE",
-        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/profiles/Paradoxal%20Gaming%207D2D%20Server%20LIVE/manifest.json",
-        "status_flag": "ONLINE"
-    },
-    {
         "profile_id": "aa721b96fde4ee8f66b4be862b6bd686",
         "display_name": "Paradoxal Gaming 7D2D Server TEST",
         "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/profiles/Paradoxal%20Gaming%207D2D%20Server%20TEST/manifest.json",
+        "status_flag": "ONLINE"
+    },
+    {
+        "profile_id": "765c7c14f2715adfb5259a1b9d67aea8",
+        "display_name": "Paradoxal Gaming 7D2D Server LIVE",
+        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/profiles/Paradoxal%20Gaming%207D2D%20Server%20LIVE/manifest.json",
         "status_flag": "ONLINE"
     }
 ]
