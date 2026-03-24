@@ -84,7 +84,7 @@
             "source": "Auto"
         },
         {
-            "name": "TFP_Harmony",
+            "name": "Harmony Wrapper",
             "folder_name": "060_TFP_Harmony",
             "version": "1.1.0.4",
             "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
@@ -168,7 +168,7 @@
             "source": "Auto"
         },
         {
-            "name": "IZY_RMP_556pack",
+            "name": "IZY_RMP_556",
             "folder_name": "120_7D1.0_Izayo_WeaponpackRemastered_556pack",
             "version": "1.1.0.4",
             "hash": "fdad7a4d8a2753cc48c2bb5ca5e47b09ac10eec5f9775d55430a6bb5548b5e04",
@@ -294,7 +294,7 @@
             "source": "Auto"
         },
         {
-            "name": "AGF-V2-Backpack84Plus",
+            "name": "AGF 84 Slot Backpack",
             "folder_name": "210_AGF_V2_Backpack84Plus_v3.2.0",
             "version": "3.2.0",
             "hash": "42afea3086e9a85a224f388343c8b3dd659a050205226c12c760251a45ee1a75",
@@ -308,7 +308,7 @@
             "source": "Auto"
         },
         {
-            "name": "AGF-V2-HUDPlus-1Main",
+            "name": "AGF HUD Plus - Main",
             "folder_name": "220_AGF_V2_HUDPlus_1Main_v5.2.0",
             "version": "5.2.0",
             "hash": "2d0159d959cc3737304e1795839ea1c335844870656d520d154a684972296c18",
@@ -322,7 +322,7 @@
             "source": "Auto"
         },
         {
-            "name": "AGF-V2-VP-SmeltingPlus",
+            "name": "AGF Smelting Plus",
             "folder_name": "230_AGF_V2_VP_SmeltingPlus_v2.2.1",
             "version": "2.2.1",
             "hash": "5d2c59bf1861008b3377230a228ddaa3299a36602a844d3b5991bbfef511b3da",
@@ -336,7 +336,7 @@
             "source": "Auto"
         },
         {
-            "name": "Allocs_Commands",
+            "name": "Allocs command extensions",
             "folder_name": "240_Allocs_CommandExtensions",
             "version": "29",
             "hash": "b5ba4e1392222123dd96d974da3967084eb3cbb9771814771c0e0c4b8f87ba2c",
@@ -350,7 +350,7 @@
             "source": "Auto"
         },
         {
-            "name": "Allocs_Core",
+            "name": "Allocs server fixes",
             "folder_name": "250_Allocs_CommonFunc",
             "version": "37",
             "hash": "12f99fb3e4c845c7fe3206d1f233397966b42168da32c163caca14d83d7d4c4a",
@@ -364,7 +364,7 @@
             "source": "Auto"
         },
         {
-            "name": "Allocs_Webinterface",
+            "name": "Allocs MapRendering and Webinterface",
             "folder_name": "260_Allocs_WebAndMapRendering",
             "version": "51",
             "hash": "bbf62476f038d6e75f62543a7ab12455e066ad3373816d4622c55bff4e9a1bbf",
@@ -378,7 +378,7 @@
             "source": "Auto"
         },
         {
-            "name": "ArrowsAndBoltsCauseBleed",
+            "name": "Arrows and Bolts Cause Bleed",
             "folder_name": "270_ArrowsAndBoltsCauseBleed",
             "version": "2.2.1",
             "hash": "c286939cb3f45ce4a51061fd049063a1de5ae4cfe337a723f542e3744ae2b90d",
@@ -392,7 +392,7 @@
             "source": "Auto"
         },
         {
-            "name": "Bdubs_Vehicles",
+            "name": "Bdubs Vehicles",
             "folder_name": "280_BdubsVehicles",
             "version": "2.5.1.1",
             "hash": "e0f8d1a1d629e1bbee2f420db63cb0382ad4d9b8791d33c32a1a003b2da057ad",
@@ -406,7 +406,7 @@
             "source": "Auto"
         },
         {
-            "name": "BetterPerks",
+            "name": "Better Perks",
             "folder_name": "290_Better_perks",
             "version": "1.0",
             "hash": "659cbca257a4df4cb6edaf7bc8e224cac48d99359cc2d00c2a895ad21a87705d",
@@ -420,7 +420,7 @@
             "source": "Auto"
         },
         {
-            "name": "MPLogue_Better_Biomes_7D2D_v2_0_1",
+            "name": "MPLogue's Better Biomes, Biome Enhancement MOD for 7D2D (V2.0)",
             "folder_name": "300_Better_Biomes_v2",
             "version": "2.0.1",
             "hash": "d13de51d77a85aa2443827b9c0cee18ab437048620064ce07876906a48c9e2cd",
@@ -434,7 +434,7 @@
             "source": "Auto"
         },
         {
-            "name": "DewtasRandomKnockdownTime",
+            "name": "Dewtas Random Knockdown Time",
             "folder_name": "310_Dewtas_Random_Knockdown_Timer_2.5",
             "version": "1.0",
             "hash": "304a95a9dfcbd0e070783bd5a2faacc397dc11a12634bd23eefe8f6dc29151e6",
@@ -448,7 +448,7 @@
             "source": "Auto"
         },
         {
-            "name": "DW1982s_Extra_Dye_Colors",
+            "name": "Extra Dye Colors",
             "folder_name": "320_DW1982s_Extra_Dye_Colors",
             "version": "4.0.4",
             "hash": "de3c9019575d772bbbd4b197bb33cea47c3e7eb0c82ad51c5cf2e3e554cfb7d5",
@@ -462,7 +462,7 @@
             "source": "Auto"
         },
         {
-            "name": "FNS_Self-Planting_Trees",
+            "name": "FNS Self-Planting Trees",
             "folder_name": "330_FNS_Self_Planting_Trees_v2",
             "version": "1.0",
             "hash": "6664437270aec6bb72d690f951c7506e641ef0db7f6c18ad92e94c6812af7beb",
@@ -476,7 +476,7 @@
             "source": "Auto"
         },
         {
-            "name": "Just_Cook_It",
+            "name": "Just Cook It",
             "folder_name": "340_Just_Cook_It",
             "version": "1.2",
             "hash": "c68f82af50781559bb7466dd4734bbbc2575916c89c65ef0de48a4f9187de7cd",
@@ -490,7 +490,7 @@
             "source": "Auto"
         },
         {
-            "name": "KHV1_Zombie_Reach_Adjustment",
+            "name": "KHV1 Zombie Reach Adjustment",
             "folder_name": "350_KHV1_Zombie_Reach_Adjustment",
             "version": "2.5.1.1",
             "hash": "550555af6aa60a7f0c6f3e3ad10517d9acf187c3d5019e33e3e10958404f0496",
@@ -518,7 +518,7 @@
             "source": "Auto"
         },
         {
-            "name": "LongerLastingBuffs5x",
+            "name": "Longer Lasting Buffs 5x",
             "folder_name": "370_Longer_Lasting_Buffs_5x",
             "version": "1.0",
             "hash": "3b12d8be7fcfcaedce389b8b4f6b0decb55c300ce99870bb075453fdde6f0202",
@@ -560,7 +560,7 @@
             "source": "Auto"
         },
         {
-            "name": "MXMRMXsPOIPACK",
+            "name": "MXMRMXs POI PACK",
             "folder_name": "400_MXMRMXs_POI_PACK_V1.14",
             "version": "2.0",
             "hash": "2134c7cdfdb9f9add56fe50e512662abe38a49d3889910ed68f9526f4d8e89dc",
@@ -574,7 +574,7 @@
             "source": "Auto"
         },
         {
-            "name": "NewSpawnStartZone",
+            "name": "New Spawn start zone",
             "folder_name": "410_New_Spawn_start_zone",
             "version": "1.0.0",
             "hash": "fd6327bb9648b89aadd56742b20f3dc86a84812a787bb16cc46d1459a172c3fa",
@@ -588,7 +588,7 @@
             "source": "Auto"
         },
         {
-            "name": "Officecats5POIpack",
+            "name": "Officecats5 POI Pack",
             "folder_name": "420_Officecats5_POI_pack",
             "version": "0.0.0",
             "hash": "3497363e97b43e1e9e69ee1b64e172dc80c348d38ce27d8d1ec9791a5224b55f",
@@ -602,7 +602,7 @@
             "source": "Auto"
         },
         {
-            "name": "Paradoxal_Gaming_tweaks",
+            "name": "Paradoxal Gaming tweaks",
             "folder_name": "430_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "hash": "17ddfee73d882e9d84bd76cee061bb775449101ccde3364597e22a9b1a7255f1",
@@ -616,7 +616,7 @@
             "source": "Auto"
         },
         {
-            "name": "Primitive_Farming_Style",
+            "name": "Primitive Farming Style",
             "folder_name": "440_Primitive_Farming_Style",
             "version": "2.1.1",
             "hash": "189ff9f9f75f3fae51fe60c8e7267f411a2b099b69e2b6fafd8c1eb868449f09",
@@ -644,7 +644,7 @@
             "source": "Auto"
         },
         {
-            "name": "ProjectileBleedMod",
+            "name": "Projectile Bleed Mod",
             "folder_name": "460_ProjectileBleedMod",
             "version": "2.2.1",
             "hash": "4234506eaf12dd825b68439594bf749cfcabeb683b29354e2eb085b9fe89a8f8",
@@ -658,7 +658,7 @@
             "source": "Auto"
         },
         {
-            "name": "RopeAndRealism_V21",
+            "name": "Rope and Realism (for V21)",
             "folder_name": "470_RopeAndRealism_V21",
             "version": "5.1.10",
             "hash": "5475178fb1c2b33d2e68b3cc650ad1819fbe3fb49b7e1c7788c3e6222a2f2b23",
@@ -672,7 +672,7 @@
             "source": "Auto"
         },
         {
-            "name": "Teragon_POIs",
+            "name": "Teragon POIs",
             "folder_name": "480_Teragon_POIs",
             "version": "22.0.0.0",
             "hash": "a0ae4b6e95838a456fee8786723ee2691424924b490b34002c121abcd1c0864f",
@@ -686,7 +686,7 @@
             "source": "Auto"
         },
         {
-            "name": "TFP_CommandExtensions",
+            "name": "Server Command Extensions",
             "folder_name": "490_TFP_CommandExtensions",
             "version": "2.1.0.0",
             "hash": "7ef3b94e38ad619821ce1f88826372393d330030138b58418ee53e3d197edb00",
@@ -700,7 +700,7 @@
             "source": "Auto"
         },
         {
-            "name": "TFP_MapRendering",
+            "name": "Map Renderer",
             "folder_name": "500_TFP_MapRendering",
             "version": "2.1.0.0",
             "hash": "28d46307ed38417f28f66ce5da9461c71c1ca9a4074835538f1db95e47f0cd6f",
@@ -714,7 +714,7 @@
             "source": "Auto"
         },
         {
-            "name": "TFP_WebServer",
+            "name": "Web Dashboard",
             "folder_name": "510_TFP_WebServer",
             "version": "2.5.0.0",
             "hash": "ebe418e2dc9e3d9ceaaaf49ca3c1d39d649ff22e7b74106a3b01571767463323",
@@ -756,7 +756,7 @@
             "source": "Auto"
         },
         {
-            "name": "V2_OakravenAmmoPress",
+            "name": "V2 Oakraven Ammo Press",
             "folder_name": "540_V2_OakravenAmmoPress",
             "version": "2.5.0.0",
             "hash": "5519176e08b67d28538b7a86b06d9d4a92864882d36e640f5c0ac611f4c44ef3",
@@ -770,7 +770,7 @@
             "source": "Auto"
         },
         {
-            "name": "V2_PartyStackSize",
+            "name": "V2 Party Stack Size",
             "folder_name": "550_V2_PartyStackSize",
             "version": "2.5.0.0",
             "hash": "c37d66525ac8e18eddd031456f52fdfe709db4486c05bb3e41226b5686765f64",
@@ -784,7 +784,7 @@
             "source": "Auto"
         },
         {
-            "name": "V2_SolarPowerCrafting",
+            "name": "V2 Solar Power Crafting",
             "folder_name": "560_V2_SolarPowerCrafting",
             "version": "2.5.0.0",
             "hash": "4140d1bb0de7df14345c3271a6705e9815ec279438a6782c27b11a1da95cbb1e",
@@ -798,7 +798,7 @@
             "source": "Auto"
         },
         {
-            "name": "Valmars_Survivor_Notes",
+            "name": "Valmars Survivor Notes Experience and Recipe Books",
             "folder_name": "570_Valmars_Survivor_Notes",
             "version": "2.0.2.0",
             "hash": "418ce6e8423b45c72326cbc61972a9fa0816c61e8ef8725a39061969e462d54c",
@@ -812,7 +812,7 @@
             "source": "Auto"
         },
         {
-            "name": "Valmars_Starter_Class_System_SSO",
+            "name": "Valmars Starter Class System V2",
             "folder_name": "580_Valmars_Starter_Class_System_SSO",
             "version": "2.2.2.2",
             "hash": "bca0d73e65dce8cb3dd7e74f3360a0304f7cb76d6c6c2c307b416285b9dfc012",
@@ -826,7 +826,7 @@
             "source": "Auto"
         },
         {
-            "name": "VoltraLuxPOIPack",
+            "name": "Voltralux POI Pack",
             "folder_name": "590_Voltraluxs_POI_Pack_2.5",
             "version": "21.1.0.1",
             "hash": "173c3d6f08510a12c1b91ed2efbd20e33000401e5f39a48817064a8f2b61107c",
@@ -854,7 +854,7 @@
             "source": "Auto"
         },
         {
-            "name": "War3zuk_FarmLife",
+            "name": "War3zuk FarmLife Overhaul",
             "folder_name": "610_War3zuk_FarmLife",
             "version": "5.7",
             "hash": "a00fd54fc421d5b5091d4e8d854d6f1cbb60f3ee6854b7423ba1050b8b6f50c9",
@@ -869,7 +869,7 @@
             "source": "Auto"
         },
         {
-            "name": "WMMZAirdropSpawnZeds",
+            "name": "Airdrop Spawn Zeds",
             "folder_name": "620_WMMZAirdropSpawnZeds",
             "version": "2.5.23.1",
             "hash": "3bb1498ffdf256a974d0951110e05b2532779ac9f2aae636a7bb8b05574622d7",
@@ -883,7 +883,7 @@
             "source": "Auto"
         },
         {
-            "name": "TFP_MarkersExample",
+            "name": "Markers (Example Web Mod)",
             "folder_name": "630_Xample_MarkersMod",
             "version": "1.1.1.0",
             "hash": "f03c2621c3b6c688224b0a20a478261268d6c6e2ef7ee7d4ac11c693b495fa3f",
@@ -897,7 +897,7 @@
             "source": "Auto"
         },
         {
-            "name": "xcp_DupesFix_AsylumMods",
+            "name": "POI Density Fix",
             "folder_name": "640_xcp_DupesFix_AsylumMods",
             "version": "1.0.0",
             "hash": "8a41af60de341900752ccebe1908b3607f490a49af949ebc9d553d4c5f62677b",
@@ -911,7 +911,7 @@
             "source": "Auto"
         },
         {
-            "name": "RoadShapeFix",
+            "name": "Road Shape Fix - Restores Cap, Corner, and Straight Road Tiles",
             "folder_name": "650_xcp_RWGFix_AsylumMods",
             "version": "1.0.0",
             "hash": "fb124b3202b23b9f5eabd892521e60b9d8aacdd1820ab3f68d68040437fdfcc3",
@@ -925,7 +925,7 @@
             "source": "Auto"
         },
         {
-            "name": "ZZTong-Prefabs",
+            "name": "ZZTong Prefabs",
             "folder_name": "660_ZZTong_Prefabs",
             "version": "2.5.031",
             "hash": "55afd743f81b4705474f12e15f8de5a8f746af5baf586c060205d5baa26d822e",
@@ -939,7 +939,7 @@
             "source": "Auto"
         },
         {
-            "name": "Scomar82_Hobacs",
+            "name": "Scomar82 Highlighting",
             "folder_name": "670_zzzScomar82_Hobacs",
             "version": "2.3",
             "hash": "5510750cdf7f0043ca29609c105daeb4322d96d6d04145a7b80e2ce0b520162d",
@@ -953,7 +953,7 @@
             "source": "Auto"
         },
         {
-            "name": "zzzzNail_Realism",
+            "name": "zzzz Nail Realism",
             "folder_name": "680_zzzzNail_Realism",
             "version": "2.2.2",
             "hash": "8aff9de5a31503f2694268f4a0603d7d4bec4a95044468db95c49f22e3d7683b",
@@ -967,7 +967,7 @@
             "source": "Auto"
         },
         {
-            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "name": "Vanilla",
             "folder_name": "690_Zzzzxcpv_Classic_All_In_One",
             "version": "2.0.51.2",
             "hash": "609e592b75f013be28f95f357168827a5a5d1630ed13335306a1149c01746e69",
@@ -996,7 +996,7 @@
             "source": "Auto"
         },
         {
-            "name": "ZZZ_FNS_Loot_All_the_Things",
+            "name": "FNS Loot All the Things",
             "folder_name": "710_ZZZ_FNS_Loot_All_the_Things",
             "version": "2.5.2.1",
             "hash": "823981e7d4d0648edaaf0e641b1c6089d0e0bbb365449c056458761409789bce",
@@ -1038,7 +1038,7 @@
             "source": "Auto"
         },
         {
-            "name": "LittleRedSonja_ZombiePack",
+            "name": "LittleRedSonja ZombiePack",
             "folder_name": "740_LittleRedSonja_ZombiePack",
             "version": "2.2.3",
             "hash": "f1cf458e1cd575c52aa081685bba6c336318e1526436f77669099722ceed66e5",
@@ -1052,7 +1052,7 @@
             "folder_hash": "c93e77282bb152ec845952c5146d972be16115148278cc74e3c5da377f649e0c"
         },
         {
-            "name": "DoubleGZombies2",
+            "name": "DoubleG Zombies 2",
             "folder_name": "750_DoubleG_Zombies_2.6",
             "version": "2.6",
             "hash": "ebebe8fa87815b7138b44ff79312a6f499ea572ec47fcac9043e11b103ad7fce",
@@ -1122,7 +1122,7 @@
             "source": "Auto"
         },
         {
-            "name": "QuestRevamp",
+            "name": "Quests Revamped - Gears Edition",
             "folder_name": "800_PaLoALo_V2_QuestRevamp_Gears_Edition",
             "version": "2.5.0.91",
             "hash": "55665cbb867c9e43c9b883c7701a25100b657622c47c4b386ca98abbe648073d",
