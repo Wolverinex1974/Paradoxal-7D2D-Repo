@@ -20,12 +20,10 @@
     "mods": [
         {
             "name": "Harmony Wrapper",
-            "folder_name": "080_TFP_Harmony",
+            "folder_name": "010_TFP_Harmony",
             "version": "1.1.0.4",
-            "hash": "6f40e7accf7f7447300b79e91e28b3e2e658f1b3bfb71f11c535b86a100271ca",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/080_TFP_Harmony.zip"
-            ],
+            "hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
+            "download_urls": [],
             "tier": 1,
             "author": "The Fun Pimps LLC",
             "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
@@ -37,22 +35,52 @@
             "last_checked_date": "Never"
         },
         {
-            "name": "Bdubs_Vehicles",
-            "folder_name": "090_BdubsVehicles",
+            "name": "Bdubs Vehicles",
+            "folder_name": "020_BdubsVehicles",
             "version": "3.0.0.1",
             "last_updated": "2026-06-30",
             "nexus_id": "",
             "nexus_file_id": "",
             "last_checked_date": "Never",
-            "hash": "fdef58663828d3c2c9734d0f55da735f636dba531527b7671572494913d6acdf",
-            "download_urls": [
-                "https://github.com/Wolverinex1974/Paradoxal-7D2D-Repo/releases/download/v1/090_BdubsVehicles.zip"
-            ],
+            "hash": "bd8333e1b4d8f3cf0334e2cc2089f81f25402c6bc416703deff0ea5271a0b8c8",
+            "download_urls": [],
             "tier": 1,
             "author": "bdubyah",
             "description": "This is a collection of all my individually released vehicles.",
             "source": "Auto",
             "folder_hash": "bd8333e1b4d8f3cf0334e2cc2089f81f25402c6bc416703deff0ea5271a0b8c8"
+        },
+        {
+            "name": "AGF Purple Book",
+            "folder_name": "030_AGFHUDPlusPurpleBookv3.0.0",
+            "version": "3.0.0",
+            "last_updated": "2026-06-30",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865"
+        },
+        {
+            "name": "AGF Enhanced Patch",
+            "folder_name": "040_AGFNoEACEnhancedAGFv4.1.1",
+            "version": "4.1.1",
+            "last_updated": "2026-06-30",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
         }
     ]
 }
