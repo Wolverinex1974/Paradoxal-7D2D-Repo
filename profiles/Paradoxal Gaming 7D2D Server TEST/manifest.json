@@ -19,22 +19,6 @@
     },
     "mods": [
         {
-            "name": "Harmony Wrapper",
-            "folder_name": "010_TFP_Harmony",
-            "version": "1.1.0.4",
-            "hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
-            "download_urls": [],
-            "tier": 1,
-            "author": "The Fun Pimps LLC",
-            "description": "Sets up basic HarmonyX configuration to be used with 7 Days to Die",
-            "source": "Auto",
-            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
-            "last_updated": "2026-03-20",
-            "nexus_id": "",
-            "nexus_file_id": "",
-            "last_checked_date": "Never"
-        },
-        {
             "name": "Arrows Bolts, Bullets Cause Bleed damage",
             "folder_name": "040_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
@@ -113,6 +97,54 @@
             "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
+        },
+        {
+            "name": "Harmony Wrapper",
+            "folder_name": "090_TFP_Harmony",
+            "version": "1.1.0.4",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
+            "source": "Auto"
+        },
+        {
+            "name": "Server Command Extensions",
+            "folder_name": "100_TFP_CommandExtensions",
+            "version": "1.3.0.0",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
+            "source": "Auto"
+        },
+        {
+            "name": "Markers (Example Web Mod)",
+            "folder_name": "110_Xample_MarkersMod",
+            "version": "1.3.0.0",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
+            "source": "Auto"
         }
     ]
 }
