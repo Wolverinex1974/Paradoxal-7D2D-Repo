@@ -19,8 +19,40 @@
     },
     "mods": [
         {
+            "name": "Harmony Wrapper",
+            "folder_name": "010_TFP_Harmony",
+            "version": "1.1.0.4",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
+            "source": "Auto"
+        },
+        {
+            "name": "Server Command Extensions",
+            "folder_name": "020_TFP_CommandExtensions",
+            "version": "1.3.0.0",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
+            "source": "Auto"
+        },
+        {
             "name": "Arrows Bolts, Bullets Cause Bleed damage",
-            "folder_name": "010_ArrowsAndBoltsCauseBleed",
+            "folder_name": "030_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
             "last_updated": "2026-07-02",
             "nexus_id": "8416",
@@ -36,7 +68,7 @@
         },
         {
             "name": "Paradoxal Gaming tweaks",
-            "folder_name": "020_Paradoxal_Gaming_tweaks",
+            "folder_name": "040_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -52,7 +84,7 @@
         },
         {
             "name": "Bdubs Vehicles",
-            "folder_name": "030_BdubsVehicles",
+            "folder_name": "050_BdubsVehicles",
             "version": "3.0.2.1",
             "last_updated": "2026-07-02",
             "nexus_id": "342",
@@ -68,7 +100,7 @@
         },
         {
             "name": "AGF Purple Book",
-            "folder_name": "040_AGFHUDPlusPurpleBookv3.0.0",
+            "folder_name": "060_AGFHUDPlusPurpleBookv3.0.0",
             "version": "3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "10948",
@@ -84,7 +116,7 @@
         },
         {
             "name": "AGF Enhanced Patch",
-            "folder_name": "050_AGFNoEACEnhancedAGFv4.1.1",
+            "folder_name": "070_AGFNoEACEnhancedAGFv4.1.1",
             "version": "4.1.1",
             "last_updated": "2026-07-02",
             "nexus_id": "10747",
@@ -112,38 +144,6 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
-            "source": "Auto"
-        },
-        {
-            "name": "Harmony Wrapper",
-            "folder_name": "090_TFP_Harmony",
-            "version": "1.1.0.4",
-            "last_updated": "2026-07-02",
-            "nexus_id": "",
-            "nexus_file_id": "",
-            "last_checked_date": "Never",
-            "hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
-            "source": "Auto"
-        },
-        {
-            "name": "Server Command Extensions",
-            "folder_name": "100_TFP_CommandExtensions",
-            "version": "1.3.0.0",
-            "last_updated": "2026-07-02",
-            "nexus_id": "",
-            "nexus_file_id": "",
-            "last_checked_date": "Never",
-            "hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
             "source": "Auto"
         }
     ]
