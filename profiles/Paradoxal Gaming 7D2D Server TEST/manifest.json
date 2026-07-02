@@ -35,22 +35,6 @@
             "last_checked_date": "Never"
         },
         {
-            "name": "AGF Purple Book",
-            "folder_name": "020_AGFHUDPlusPurpleBookv3.0.0",
-            "version": "3.0.0",
-            "last_updated": "2026-06-30",
-            "nexus_id": "10948",
-            "nexus_file_id": "41627",
-            "last_checked_date": "Never",
-            "hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "source": "Auto",
-            "folder_hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865"
-        },
-        {
             "name": "AGF Enhanced Patch",
             "folder_name": "030_AGFNoEACEnhancedAGFv4.1.1",
             "version": "4.1.1",
@@ -67,20 +51,20 @@
             "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
         },
         {
-            "name": "Arrows and Bolts Cause Bleed",
+            "name": "Arrows Bolts, Bullets Cause Bleed damage",
             "folder_name": "040_ArrowsAndBoltsCauseBleed",
-            "version": "2.2.1",
+            "version": "3.0.1",
             "last_updated": "2026-07-02",
             "nexus_id": "8416",
             "nexus_file_id": "41215",
             "last_checked_date": "Never",
-            "hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f",
+            "hash": "4f0cf273f3fc2d6171ffce34243155a2c05916c4c7d775e4d1ad4e31064ffa9e",
             "download_urls": [],
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f"
+            "folder_hash": "4f0cf273f3fc2d6171ffce34243155a2c05916c4c7d775e4d1ad4e31064ffa9e"
         },
         {
             "name": "Paradoxal Gaming tweaks",
@@ -113,6 +97,22 @@
             "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "6b855a818839b5787c9179c6f252df5b0fb610c12dcefc3b4b11dae90e06278f"
+        },
+        {
+            "name": "AGF Purple Book",
+            "folder_name": "070_AGFHUDPlusPurpleBookv3.0.0",
+            "version": "3.0.0",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865"
         }
     ]
 }
