@@ -20,7 +20,7 @@
     "mods": [
         {
             "name": "Arrows Bolts, Bullets Cause Bleed damage",
-            "folder_name": "040_ArrowsAndBoltsCauseBleed",
+            "folder_name": "010_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
             "last_updated": "2026-07-02",
             "nexus_id": "8416",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Paradoxal Gaming tweaks",
-            "folder_name": "050_Paradoxal_Gaming_tweaks",
+            "folder_name": "020_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Bdubs Vehicles",
-            "folder_name": "060_BdubsVehicles",
+            "folder_name": "030_BdubsVehicles",
             "version": "3.0.2.1",
             "last_updated": "2026-07-02",
             "nexus_id": "342",
@@ -68,7 +68,7 @@
         },
         {
             "name": "AGF Purple Book",
-            "folder_name": "070_AGFHUDPlusPurpleBookv3.0.0",
+            "folder_name": "040_AGFHUDPlusPurpleBookv3.0.0",
             "version": "3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "10948",
@@ -84,7 +84,7 @@
         },
         {
             "name": "AGF Enhanced Patch",
-            "folder_name": "080_AGFNoEACEnhancedAGFv4.1.1",
+            "folder_name": "050_AGFNoEACEnhancedAGFv4.1.1",
             "version": "4.1.1",
             "last_updated": "2026-07-02",
             "nexus_id": "10747",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Harmony Wrapper",
-            "folder_name": "090_TFP_Harmony",
+            "folder_name": "060_TFP_Harmony",
             "version": "1.1.0.4",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Server Command Extensions",
-            "folder_name": "100_TFP_CommandExtensions",
+            "folder_name": "070_TFP_CommandExtensions",
             "version": "1.3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Markers (Example Web Mod)",
-            "folder_name": "110_Xample_MarkersMod",
+            "folder_name": "080_Xample_MarkersMod",
             "version": "1.3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "",
