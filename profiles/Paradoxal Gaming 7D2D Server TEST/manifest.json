@@ -35,24 +35,8 @@
             "last_checked_date": "Never"
         },
         {
-            "name": "Bdubs Vehicles",
-            "folder_name": "020_BdubsVehicles",
-            "version": "3.0.0.1",
-            "last_updated": "2026-07-02",
-            "nexus_id": "342",
-            "nexus_file_id": "41642",
-            "last_checked_date": "Never",
-            "hash": "bd8333e1b4d8f3cf0334e2cc2089f81f25402c6bc416703deff0ea5271a0b8c8",
-            "download_urls": [],
-            "tier": 1,
-            "author": "bdubyah",
-            "description": "This is a collection of all my individually released vehicles.",
-            "source": "Auto",
-            "folder_hash": "bd8333e1b4d8f3cf0334e2cc2089f81f25402c6bc416703deff0ea5271a0b8c8"
-        },
-        {
             "name": "AGF Purple Book",
-            "folder_name": "030_AGFHUDPlusPurpleBookv3.0.0",
+            "folder_name": "020_AGFHUDPlusPurpleBookv3.0.0",
             "version": "3.0.0",
             "last_updated": "2026-06-30",
             "nexus_id": "10948",
@@ -68,7 +52,7 @@
         },
         {
             "name": "AGF Enhanced Patch",
-            "folder_name": "040_AGFNoEACEnhancedAGFv4.1.1",
+            "folder_name": "030_AGFNoEACEnhancedAGFv4.1.1",
             "version": "4.1.1",
             "last_updated": "2026-06-30",
             "nexus_id": "10747",
@@ -81,6 +65,54 @@
             "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
+        },
+        {
+            "name": "Arrows and Bolts Cause Bleed",
+            "folder_name": "040_ArrowsAndBoltsCauseBleed",
+            "version": "2.2.1",
+            "last_updated": "2026-07-02",
+            "nexus_id": "8416",
+            "nexus_file_id": "41215",
+            "last_checked_date": "Never",
+            "hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "44f70b8264e9e959342271363dbf3693b9d59cdde78817c062e53dd74a30ad8f"
+        },
+        {
+            "name": "Paradoxal Gaming tweaks",
+            "folder_name": "050_Paradoxal_Gaming_tweaks",
+            "version": "2.2.9",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
+        },
+        {
+            "name": "Bdubs Vehicles",
+            "folder_name": "060_BdubsVehicles",
+            "version": "3.0.2.1",
+            "last_updated": "2026-07-02",
+            "nexus_id": "342",
+            "nexus_file_id": "41967",
+            "last_checked_date": "Never",
+            "hash": "6b855a818839b5787c9179c6f252df5b0fb610c12dcefc3b4b11dae90e06278f",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "6b855a818839b5787c9179c6f252df5b0fb610c12dcefc3b4b11dae90e06278f"
         }
     ]
 }
