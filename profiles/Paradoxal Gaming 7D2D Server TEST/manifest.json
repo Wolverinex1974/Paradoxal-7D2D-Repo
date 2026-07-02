@@ -35,22 +35,6 @@
             "last_checked_date": "Never"
         },
         {
-            "name": "AGF Enhanced Patch",
-            "folder_name": "030_AGFNoEACEnhancedAGFv4.1.1",
-            "version": "4.1.1",
-            "last_updated": "2026-06-30",
-            "nexus_id": "10747",
-            "nexus_file_id": "41626",
-            "last_checked_date": "Never",
-            "hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "source": "Auto",
-            "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
-        },
-        {
             "name": "Arrows Bolts, Bullets Cause Bleed damage",
             "folder_name": "040_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
@@ -113,6 +97,22 @@
             "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865"
+        },
+        {
+            "name": "AGF Enhanced Patch",
+            "folder_name": "080_AGFNoEACEnhancedAGFv4.1.1",
+            "version": "4.1.1",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
         }
     ]
 }
