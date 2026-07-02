@@ -99,8 +99,24 @@
             "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
         },
         {
+            "name": "Markers (Example Web Mod)",
+            "folder_name": "080_Xample_MarkersMod",
+            "version": "1.3.0.0",
+            "last_updated": "2026-07-02",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
+            "download_urls": [],
+            "tier": 3,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
+            "source": "Auto"
+        },
+        {
             "name": "Harmony Wrapper",
-            "folder_name": "060_TFP_Harmony",
+            "folder_name": "090_TFP_Harmony",
             "version": "1.1.0.4",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -116,7 +132,7 @@
         },
         {
             "name": "Server Command Extensions",
-            "folder_name": "070_TFP_CommandExtensions",
+            "folder_name": "100_TFP_CommandExtensions",
             "version": "1.3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -124,26 +140,10 @@
             "last_checked_date": "Never",
             "hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
-            "source": "Auto"
-        },
-        {
-            "name": "Markers (Example Web Mod)",
-            "folder_name": "080_Xample_MarkersMod",
-            "version": "1.3.0.0",
-            "last_updated": "2026-07-02",
-            "nexus_id": "",
-            "nexus_file_id": "",
-            "last_checked_date": "Never",
-            "hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
-            "download_urls": [],
-            "tier": 3,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "folder_hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
             "source": "Auto"
         }
     ]
