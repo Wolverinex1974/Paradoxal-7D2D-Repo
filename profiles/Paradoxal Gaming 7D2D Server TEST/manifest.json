@@ -148,9 +148,9 @@
         },
         {
             "name": "Zero_Hour_Core",
-            "folder_name": "760_zzzZero_Hour_Core",
+            "folder_name": "090_Zero_Hour_Core",
             "version": "2.5.28.7",
-            "last_updated": "2026-07-02",
+            "last_updated": "2026-07-04",
             "nexus_id": "",
             "nexus_file_id": "",
             "last_checked_date": "Never",
@@ -159,8 +159,8 @@
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
-            "source": "Auto",
-            "folder_hash": "4d5368910571d2f0a6e607c600c2ad300711b83f793caf3fc211777371be2934"
+            "folder_hash": "4d5368910571d2f0a6e607c600c2ad300711b83f793caf3fc211777371be2934",
+            "source": "Auto"
         }
     ]
 }
