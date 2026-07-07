@@ -36,7 +36,7 @@
         },
         {
             "name": "Paradoxal Gaming tweaks",
-            "folder_name": "020_Paradoxal_Gaming_tweaks",
+            "folder_name": "030_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "last_updated": "2026-07-02",
             "nexus_id": "",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Bdubs Vehicles",
-            "folder_name": "030_BdubsVehicles",
+            "folder_name": "040_BdubsVehicles",
             "version": "3.0.2.2",
             "last_updated": "2024-12-13",
             "nexus_id": "342",
@@ -68,7 +68,7 @@
         },
         {
             "name": "AGF Purple Book",
-            "folder_name": "040_AGFHUDPlusPurpleBookv3.0.0",
+            "folder_name": "050_AGFHUDPlusPurpleBookv3.0.0",
             "version": "3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "10948",
@@ -84,7 +84,7 @@
         },
         {
             "name": "AGF Enhanced Patch",
-            "folder_name": "050_AGFNoEACEnhancedAGFv4.1.1",
+            "folder_name": "060_AGFNoEACEnhancedAGFv4.1.1",
             "version": "4.1.1",
             "last_updated": "2026-07-02",
             "nexus_id": "10747",
@@ -100,7 +100,7 @@
         },
         {
             "name": "AGF BackpackPlus 119 Slots",
-            "folder_name": "060_AGF_BackpackPlus_084Slots_v4.0.2",
+            "folder_name": "070_AGF_BackpackPlus_084Slots_v4.0.2",
             "version": "2.0.0",
             "last_updated": "2026-07-07",
             "nexus_id": "1684",
@@ -116,7 +116,7 @@
         },
         {
             "name": "AGF HUDPlus",
-            "folder_name": "070_AGF_HUDPlus_1Main_v6.0.4",
+            "folder_name": "080_AGF_HUDPlus_1Main_v6.0.4",
             "version": "6.3.0",
             "last_updated": "2026-07-07",
             "nexus_id": "870",
@@ -132,7 +132,7 @@
         },
         {
             "name": "AGF VP Larger Storage Option",
-            "folder_name": "080_AGF_VP_LargerStorageOption_v1.0.0",
+            "folder_name": "090_AGF_VP_LargerStorageOption_v1.0.0",
             "version": "1.0.1",
             "last_updated": "2026-07-07",
             "nexus_id": "10904",
@@ -144,22 +144,6 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "eeaf5ab627fe8ac1127d7d4d08bbc3ef50082c5b0a3574aca7fe938edaa924f3",
-            "source": "Auto"
-        },
-        {
-            "name": "Khaines Zombie Reach Adjustment",
-            "folder_name": "090_Khaines_Zombie_Reach_Adjustment",
-            "version": "3.0.1.2",
-            "last_updated": "2026-07-06",
-            "nexus_id": "5109",
-            "nexus_file_id": "40963",
-            "last_checked_date": "Never",
-            "hash": "35b53baf57bdc509b42c350ce860691cdefe98fd27ef4e23b42357675c82c77d",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "folder_hash": "35b53baf57bdc509b42c350ce860691cdefe98fd27ef4e23b42357675c82c77d",
             "source": "Auto"
         },
         {
@@ -195,24 +179,40 @@
             "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
         },
         {
-            "name": "Khaine's 3-slot Forge Input",
-            "folder_name": "100_KHV1_3SlotForge",
-            "version": "3.0.1.1",
-            "last_updated": "2026-06-12",
-            "nexus_id": "5542",
-            "nexus_file_id": "40468",
+            "name": "Khaines Zombie Reach Adjustment",
+            "folder_name": "100_Khaines_Zombie_Reach_Adjustment",
+            "version": "3.0.1.2",
+            "last_updated": "2026-07-06",
+            "nexus_id": "5109",
+            "nexus_file_id": "40963",
             "last_checked_date": "Never",
-            "hash": "4940c168896035b05dfe309c71e589ce6c6e6b0c25222232932e0094caa9a7d4",
+            "hash": "35b53baf57bdc509b42c350ce860691cdefe98fd27ef4e23b42357675c82c77d",
             "download_urls": [],
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
-            "folder_hash": "4940c168896035b05dfe309c71e589ce6c6e6b0c25222232932e0094caa9a7d4",
+            "folder_hash": "35b53baf57bdc509b42c350ce860691cdefe98fd27ef4e23b42357675c82c77d",
+            "source": "Auto"
+        },
+        {
+            "name": "Khaine's 3-slot Forge Input",
+            "folder_name": "100_KHV1_3SlotForge",
+            "version": "3.0.1.2",
+            "last_updated": "2026-06-12",
+            "nexus_id": "5542",
+            "nexus_file_id": "40468",
+            "last_checked_date": "Never",
+            "hash": "f59e7240abfd948e8924ba54f95b81b1cccefd1fb453e845b1f475d965078099",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "folder_hash": "f59e7240abfd948e8924ba54f95b81b1cccefd1fb453e845b1f475d965078099",
             "source": "Auto"
         },
         {
             "name": "Medical_conditions",
-            "folder_name": "110_Medical_conditions",
+            "folder_name": "120_Medical_conditions",
             "version": "1.4.0",
             "last_updated": "2026-07-06",
             "nexus_id": "7322",
@@ -228,7 +228,7 @@
         },
         {
             "name": "MPLogue's Better Biomes, Biome Enhancement MOD for 7D2D (V2.0 - 2.6)",
-            "folder_name": "120_MPLogue_Better_Biomes_7D2D_v3_1",
+            "folder_name": "130_MPLogue_Better_Biomes_7D2D_v3_1",
             "version": "2.6.1",
             "last_updated": "2026-07-07",
             "nexus_id": "5366",
@@ -240,22 +240,6 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "c3223b32d4a362bc78ef27878ee01aee81017ef7533359eed826895631e8dc2d",
-            "source": "Auto"
-        },
-        {
-            "name": "MPLogue's Custom Prefabs for 7D2D V2.0",
-            "folder_name": "130_MPLogue_Prefabs_7D2D_V3_1",
-            "version": "2.0.1",
-            "last_updated": "2026-07-07",
-            "nexus_id": "3436",
-            "nexus_file_id": "40489",
-            "last_checked_date": "Never",
-            "hash": "655e9db7e5f2ed3f33eab3cf0241329d3c5c7be65f7832e2bfdbb38dcc7242af",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "folder_hash": "655e9db7e5f2ed3f33eab3cf0241329d3c5c7be65f7832e2bfdbb38dcc7242af",
             "source": "Auto"
         },
         {
@@ -380,7 +364,7 @@
             "last_checked_date": "Never",
             "hash": "3fee62b32530e29a6a9ca552b36723380c97991414113ad8593d03f120628503",
             "download_urls": [],
-            "tier": 1,
+            "tier": 3,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "3fee62b32530e29a6a9ca552b36723380c97991414113ad8593d03f120628503",
@@ -396,11 +380,13 @@
             "last_checked_date": "Never",
             "hash": "5254c2657b13f4a385eb248ae1ebd318a5c93fd84a573c05d6bdbd54b87eab44",
             "download_urls": [],
-            "tier": 1,
+            "tier": 3,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "5254c2657b13f4a385eb248ae1ebd318a5c93fd84a573c05d6bdbd54b87eab44",
-            "source": "Auto"
+            "source": "Auto",
+            "update_available": "3.0.1.2",
+            "update_file_id": "40241"
         },
         {
             "name": "Zero_Hour_Core",
