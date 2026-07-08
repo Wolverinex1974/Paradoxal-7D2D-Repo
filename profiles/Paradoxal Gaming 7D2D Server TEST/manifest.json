@@ -51,8 +51,24 @@
             "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
         },
         {
+            "name": "MPLogue's Custom Prefabs for 7D2D V2.0",
+            "folder_name": "1000_MPLogue_Prefabs_7D2D_V3_1",
+            "version": "2.0.1",
+            "last_updated": "2026-07-08",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "655e9db7e5f2ed3f33eab3cf0241329d3c5c7be65f7832e2bfdbb38dcc7242af",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "655e9db7e5f2ed3f33eab3cf0241329d3c5c7be65f7832e2bfdbb38dcc7242af"
+        },
+        {
             "name": "AGF BackpackPlus 119 Slots",
-            "folder_name": "1000_AGF_BackpackPlus_084Slots_v4.0.2",
+            "folder_name": "1010_AGF_BackpackPlus_084Slots_v4.0.2",
             "version": "2.0.0",
             "last_updated": "2026-07-07",
             "nexus_id": "1684",
@@ -68,7 +84,7 @@
         },
         {
             "name": "AGF HUDPlus",
-            "folder_name": "1010_AGF_HUDPlus_1Main_v6.0.4",
+            "folder_name": "1020_AGF_HUDPlus_1Main_v6.0.4",
             "version": "6.3.0",
             "last_updated": "2026-07-07",
             "nexus_id": "870",
@@ -84,7 +100,7 @@
         },
         {
             "name": "AGF VP Larger Storage Option",
-            "folder_name": "1020_AGF_VP_LargerStorageOption_v1.0.0",
+            "folder_name": "1030_AGF_VP_LargerStorageOption_v1.0.0",
             "version": "1.0.1",
             "last_updated": "2026-07-07",
             "nexus_id": "10904",
@@ -100,7 +116,7 @@
         },
         {
             "name": "AGF Purple Book",
-            "folder_name": "1030_AGFHUDPlusPurpleBookv3.0.0",
+            "folder_name": "1040_AGFHUDPlusPurpleBookv3.0.0",
             "version": "3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "10948",
@@ -113,22 +129,6 @@
             "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865"
-        },
-        {
-            "name": "AGF Enhanced Patch",
-            "folder_name": "1040_AGFNoEACEnhancedAGFv4.1.1",
-            "version": "4.1.1",
-            "last_updated": "2026-07-02",
-            "nexus_id": "10747",
-            "nexus_file_id": "41626",
-            "last_checked_date": "Never",
-            "hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "source": "Auto",
-            "folder_hash": "9b6df521b90362105f928ae699b79297b35b305854e23da515ed5cf8834a991f"
         },
         {
             "name": "Arrows Bolts, Bullets Cause Bleed damage",
@@ -884,7 +884,7 @@
         },
         {
             "name": "RuntimeOCD",
-            "folder_name": "520____RuntimeOCD",
+            "folder_name": "1520_RuntimeOCD",
             "version": "0.15.1",
             "last_updated": "2026-07-07",
             "nexus_id": "6920",
@@ -892,11 +892,27 @@
             "last_checked_date": "Never",
             "hash": "9654fbaab464cb0786499971ce2e5379aad83e89b341fc5ab2a1ecf4bfc2c9fc",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
             "folder_hash": "9654fbaab464cb0786499971ce2e5379aad83e89b341fc5ab2a1ecf4bfc2c9fc"
+        },
+        {
+            "name": "Better full armor set bonuses Tier 6 only",
+            "folder_name": "1530_Better_full_armorset_bonuses_1_6_3.0",
+            "version": "1.0",
+            "last_updated": "2026-06-17",
+            "nexus_id": "",
+            "nexus_file_id": "",
+            "last_checked_date": "Never",
+            "hash": "b946b183d98b04aa648d08f94b1dcbdcd7377847e98cf705e7944cb47e2c8887",
+            "download_urls": [],
+            "tier": 1,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "b946b183d98b04aa648d08f94b1dcbdcd7377847e98cf705e7944cb47e2c8887"
         },
         {
             "name": "Zero_Hour_Core",
