@@ -867,20 +867,20 @@
             "folder_hash": "195bcbd85b93bd6022dc0295626107c468b0cae2287103a9d5802cf254daba37"
         },
         {
-            "name": "Vanilla",
+            "name": "Vanilla Classic_All_In_One",
             "folder_name": "1510_Zzzzxcpv_Classic_All_In_One",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
             "nexus_id": "10710",
             "nexus_file_id": "40283",
             "last_checked_date": "Never",
-            "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
+            "hash": "b7a785a1cf19201c46df10ffc3393173e3f19f5f65041f06630ff6d51536ba0b",
             "download_urls": [],
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94"
+            "folder_hash": "b7a785a1cf19201c46df10ffc3393173e3f19f5f65041f06630ff6d51536ba0b"
         },
         {
             "name": "Zero_Hour_Core",
