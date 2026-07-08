@@ -883,6 +883,22 @@
             "folder_hash": "bb71a9a1de6b8ea1205aadd3d743b7a848654cd4f15ae2c3629e79c4f3b91691"
         },
         {
+            "name": "RuntimeOCD",
+            "folder_name": "520____RuntimeOCD",
+            "version": "0.15.1",
+            "last_updated": "2026-07-07",
+            "nexus_id": "6920",
+            "nexus_file_id": "42634",
+            "last_checked_date": "Never",
+            "hash": "9654fbaab464cb0786499971ce2e5379aad83e89b341fc5ab2a1ecf4bfc2c9fc",
+            "download_urls": [],
+            "tier": 3,
+            "author": "Unknown",
+            "description": "Auto-detected",
+            "source": "Auto",
+            "folder_hash": "9654fbaab464cb0786499971ce2e5379aad83e89b341fc5ab2a1ecf4bfc2c9fc"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "2.5.28.7",
