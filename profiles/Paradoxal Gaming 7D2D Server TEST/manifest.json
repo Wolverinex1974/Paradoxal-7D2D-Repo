@@ -903,23 +903,6 @@
             "is_disabled": false
         },
         {
-            "name": "Zzzzxcpv_Classic_All_In_One",
-            "folder_name": "1500_Zzzzxcpv_Classic_All_In_One",
-            "version": "3.0.3.0",
-            "last_updated": "2026-07-07",
-            "nexus_id": "10710",
-            "nexus_file_id": "40283",
-            "last_checked_date": "Never",
-            "hash": "c4b735b220e59f442780279a66b7330bdbb6c29a8723df8d891a6e99cc77557f",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "source": "Auto",
-            "folder_hash": "c4b735b220e59f442780279a66b7330bdbb6c29a8723df8d891a6e99cc77557f",
-            "is_disabled": false
-        },
-        {
             "name": "RuntimeOCD",
             "folder_name": "1510_RuntimeOCD",
             "version": "0.15.1",
@@ -959,13 +942,39 @@
             "version": "3.0.259.1",
             "tier": 1,
             "nexus_id": "5520",
-            "nexus_file_id": "42218",
+            "nexus_file_id": "None",
             "is_disabled": false,
             "update_locked": false,
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "1d8ace7e164d5a72720338a52a7d4d8c965f243af768cef1756b817916f6495c",
             "hash": "1d8ace7e164d5a72720338a52a7d4d8c965f243af768cef1756b817916f6495c"
+        },
+        {
+            "name": "RoadShapeFix",
+            "folder_name": "1530_xcp_RWGFix_AsylumMods",
+            "version": "1.0.0",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "fe0043a33b09ff14c00c889c733cf32de2abe3fe0e7950753be6ccbb4a0909ee",
+            "hash": "fe0043a33b09ff14c00c889c733cf32de2abe3fe0e7950753be6ccbb4a0909ee"
+        },
+        {
+            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1540_Zzzzxcpv_Classic_All_In_One",
+            "version": "3.0.3.0",
+            "tier": 1,
+            "nexus_id": "10710",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
+            "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94"
         }
     ]
 }
