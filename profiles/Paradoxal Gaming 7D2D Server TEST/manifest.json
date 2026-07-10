@@ -19,7 +19,7 @@
     },
     "mods": [
         {
-            "name": "Server Command Extensions",
+            "name": "TFP_CommandExtensions",
             "folder_name": "0_TFP_CommandExtensions",
             "version": "1.3.0.0",
             "last_updated": "2026-07-02",
@@ -32,10 +32,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c"
+            "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
+            "is_disabled": false
         },
         {
-            "name": "Harmony Wrapper",
+            "name": "TFP_Harmony",
             "folder_name": "0_TFP_Harmony",
             "version": "1.1.0.4",
             "last_updated": "2026-07-02",
@@ -48,26 +49,28 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890"
+            "folder_hash": "3e4db7200763cd47b2f79f18688b60cc1cc16e8a3406e2f3415e2110a4453890",
+            "is_disabled": false
         },
         {
-            "name": "Arrows Bolts, Bullets Cause Bleed damage",
+            "name": "Arrows_Bolts_Bullets_Cause_Bleed",
             "folder_name": "1000_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
             "last_updated": "2026-07-02",
             "nexus_id": "8416",
             "nexus_file_id": "41215",
             "last_checked_date": "Never",
-            "hash": "493ac67673da9a6d95db093819646b9977180603b1cd6f2c30fef02f07316773",
+            "hash": "f2222a90d2c6ba349908eab8144c04d87bea778d9f85700c39ee4e87494c12e6",
             "download_urls": [],
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "493ac67673da9a6d95db093819646b9977180603b1cd6f2c30fef02f07316773"
+            "folder_hash": "f2222a90d2c6ba349908eab8144c04d87bea778d9f85700c39ee4e87494c12e6",
+            "is_disabled": false
         },
         {
-            "name": "MPLogue's Better Biomes, Biome Enhancement MOD for 7D2D (V3.0 - 3.x)",
+            "name": "MPLogue_Better_Biomes_7D2D_v3_1",
             "folder_name": "1010_MPLogue_Better_Biomes_7D2D_v3_1",
             "version": "3.1",
             "last_updated": "2026-06-17",
@@ -80,10 +83,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "f26f21019338a09611c29c7d3f9d5943c3ef975c54f811715b615f0732040e2b"
+            "folder_hash": "f26f21019338a09611c29c7d3f9d5943c3ef975c54f811715b615f0732040e2b",
+            "is_disabled": false
         },
         {
-            "name": "MPLogue's Custom Prefabs for 7D2D V1.3",
+            "name": "MPLogue_Prefabs_7D2D_V3_1",
             "folder_name": "1020_MPLogue_Prefabs_7D2D_V3_1",
             "version": "3.1",
             "last_updated": "2026-07-07",
@@ -96,10 +100,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "875905c749ea6710b63639005505ef320a3eb4884c583d76e8151ee7c134cd7f"
+            "folder_hash": "875905c749ea6710b63639005505ef320a3eb4884c583d76e8151ee7c134cd7f",
+            "is_disabled": false
         },
         {
-            "name": "MPLogue's Urban Decay",
+            "name": "MPLogue_UrbanDecay_7D2D_v3_1",
             "folder_name": "1030_MPLogue_UrbanDecay_7D2D_v3_1",
             "version": "3.1",
             "last_updated": "2026-07-06",
@@ -108,14 +113,15 @@
             "last_checked_date": "Never",
             "hash": "da8c646ec4a67d6881efb3e1b5752886f170473e7378d9e50bcecaf4ee700b5f",
             "download_urls": [],
-            "tier": 2,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "da8c646ec4a67d6881efb3e1b5752886f170473e7378d9e50bcecaf4ee700b5f",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Bdubs Vehicles",
+            "name": "BdubsVehicles",
             "folder_name": "1040_BdubsVehicles",
             "version": "3.0.2.2",
             "last_updated": "2024-12-13",
@@ -128,10 +134,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "07318a2e5075e1c7c94d26c4160df5f5c52344a66f78bdb0b28848f1d806e531"
+            "folder_hash": "07318a2e5075e1c7c94d26c4160df5f5c52344a66f78bdb0b28848f1d806e531",
+            "is_disabled": false
         },
         {
-            "name": "Khaines Zombie Reach Adjustment",
+            "name": "Khaines_Zombie_Reach_Adjustment",
             "folder_name": "1050_Khaines_Zombie_Reach_Adjustment",
             "version": "3.0.1.2",
             "last_updated": "2026-07-06",
@@ -144,10 +151,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "35b53baf57bdc509b42c350ce860691cdefe98fd27ef4e23b42357675c82c77d",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Khaine's 3-slot Forge Input",
+            "name": "KHV1_3SlotForge",
             "folder_name": "1060_KHV1_3SlotForge",
             "version": "3.0.1.2",
             "last_updated": "2026-06-12",
@@ -160,7 +168,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "5d87747937b0ce41f692fa58fe7b3543e17c9cc88d892cea0fb528858c30b792",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
             "name": "Medical_conditions",
@@ -176,10 +185,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "e5a6251d489da57750d09edc02d4bf8fe1615c77d33363e9c3b1a18933232de6",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Paradoxal Gaming tweaks",
+            "name": "Paradoxal_Gaming_tweaks",
             "folder_name": "1080_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "last_updated": "2026-07-02",
@@ -192,10 +202,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
+            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
+            "is_disabled": false
         },
         {
-            "name": "Paniermehls's Vehicle Respawner",
+            "name": "Paniermehl_Vehicle_Respawner",
             "folder_name": "1090_Paniermehl_Vehicle_Respawner",
             "version": "3.0.0",
             "last_updated": "2026-07-06",
@@ -208,10 +219,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "ad469b2b0a3f501e16692dbcae93fc88c299dca07e6ea1f4ac36ea6e968f39f5",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "V3 Oakraven Ammo Press",
+            "name": "V3_OakravenAmmoPress",
             "folder_name": "1100_V3_OakravenAmmoPress",
             "version": "3.0.0.0",
             "last_updated": "2026-07-06",
@@ -224,10 +236,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "2bf08e1cfba5dd663bc99168a679c75d7ad44755b4255b7e8d42ee551b33bf2e",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "V3 Oakraven Power Things",
+            "name": "V3_OakravenPowerThings",
             "folder_name": "1110_V3_OakravenPowerThings",
             "version": "3.0.0.0",
             "last_updated": "2026-07-06",
@@ -240,10 +253,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "30057cdcb1bd739d823c5025ed209cfc1c425ad7d91b3e3ca68b1fb42f2eac71",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "V3 Party Stack Size",
+            "name": "V3_PartyStackSize",
             "folder_name": "1120_V3_PartyStackSize",
             "version": "3.0.0.0",
             "last_updated": "2026-07-06",
@@ -256,7 +270,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "e4e57cb929d29818f5043bda33cb793acb559c2a1fd3e61ee231d7f7564b6596",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
             "name": "WalkerSim2",
@@ -272,10 +287,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Scomar82 Highlighting",
+            "name": "zzzScomar82_Hobacs",
             "folder_name": "1140_zzzScomar82_Hobacs",
             "version": "3.0",
             "last_updated": "2026-07-06",
@@ -288,10 +304,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "8192ff703ce2a83aff298d1ff45148bced43aad55de9f4ce21356343e08b365c",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "FNS Loot All the Things",
+            "name": "ZZZ_FNS_Loot_All_the_Things",
             "folder_name": "1150_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "last_updated": "2026-06-12",
@@ -304,11 +321,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "2f16ebdaadf9c2904ea7b7f6e7cab3428d06390ff09c093150e556543839d76a",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Better full armor set bonuses Tier 1-6",
-            "folder_name": "1160_Better_full_armorset_bonuses_1_6_3.0",
+            "name": "Better_full_armorset_bonuses_1_6_3_0",
+            "folder_name": "1160_Better_full_armorset_bonuses_1_6_3_0",
             "version": "3.8",
             "last_updated": "2026-06-17",
             "nexus_id": "5181",
@@ -320,11 +338,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "519171ae7b79c02d2e711a2ea621816ddaf5c9f3ce5cc5d3f39b23d48ca82c00",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Better Perks",
-            "folder_name": "1170_Better_perks_3.0",
+            "name": "Better_perks_3_0",
+            "folder_name": "1170_Better_perks_3_0",
             "version": "9.7",
             "last_updated": "2026-06-17",
             "nexus_id": "4067",
@@ -332,15 +351,16 @@
             "last_checked_date": "Never",
             "hash": "50919b4886e49d2755ee0a67c1e8613c9488e0ed76056edfe0a353cbcd0e9fcc",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "50919b4886e49d2755ee0a67c1e8613c9488e0ed76056edfe0a353cbcd0e9fcc",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "DoubleG Zombies: Classics Reanimated",
-            "folder_name": "1180_DoubleG_Zombies_Classics_Reanimated_1.5",
+            "name": "DoubleG_Zombies_Classics_Reanimated_1_5",
+            "folder_name": "1180_DoubleG_Zombies_Classics_Reanimated_1_5",
             "version": "1.5",
             "last_updated": "2026-07-07",
             "nexus_id": "8861",
@@ -348,15 +368,16 @@
             "last_checked_date": "Never",
             "hash": "76260e329dc102e4a50330a73192445f0c3472d35156dd90e5b76d2228fafe0b",
             "download_urls": [],
-            "tier": 2,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "76260e329dc102e4a50330a73192445f0c3472d35156dd90e5b76d2228fafe0b",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Dewtas Random Knockdown Time",
-            "folder_name": "1190_Dewtas_Random_Knockdown_Timer_2.5",
+            "name": "Dewtas_Random_Knockdown_Timer_2_5",
+            "folder_name": "1190_Dewtas_Random_Knockdown_Timer_2_5",
             "version": "V1.0",
             "last_updated": "2026-07-07",
             "nexus_id": "5594",
@@ -364,15 +385,16 @@
             "last_checked_date": "Never",
             "hash": "e8499c77e76d86491b5079acb637a7c350e51916e7eabd3ae458efd9fdfb0661",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "e8499c77e76d86491b5079acb637a7c350e51916e7eabd3ae458efd9fdfb0661",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "DoubleG Zombies 3",
-            "folder_name": "1200_DoubleG_Zombies_3.3",
+            "name": "DoubleG_Zombies_3_3",
+            "folder_name": "1200_DoubleG_Zombies_3_3",
             "version": "1.3.3",
             "last_updated": "2026-07-07",
             "nexus_id": "8212",
@@ -384,11 +406,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "34be5b31ad0be51c7958a009eb368af05afcadf85a332a08d5d5d6e2ef0c9676",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "DoubleG Zombies: Classics ReImagined",
-            "folder_name": "1210_DoubleG_Zombies_Classics_ReImagined_1.0.2",
+            "name": "DoubleG_Zombies_Classics_ReImagined_1_0_2",
+            "folder_name": "1210_DoubleG_Zombies_Classics_ReImagined_1_0_2",
             "version": "1.0.2",
             "last_updated": "2026-07-07",
             "nexus_id": "10542",
@@ -396,14 +419,15 @@
             "last_checked_date": "Never",
             "hash": "a71bdb8ca7c0093951a69a5515692298159e26dca13be6c097ec06c64164fff0",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "a71bdb8ca7c0093951a69a5515692298159e26dca13be6c097ec06c64164fff0",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Elemental Attachments",
+            "name": "Elemental_Attachments",
             "folder_name": "1220_Elemental_Attachments",
             "version": "3.0",
             "last_updated": "2026-07-07",
@@ -416,10 +440,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "e6ce84efb11baa32f2acc97ce163d04d869552576325a8eb410bba4ab77b9760",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "FNS Self-Planting Trees",
+            "name": "FNS_Self_Planting_Trees",
             "folder_name": "1230_FNS_Self_Planting_Trees",
             "version": "3.0.1.1",
             "last_updated": "2026-07-07",
@@ -432,10 +457,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "f0708003c35e340839f584fc01c6babcd8eebc283c29364c18d909d8602ec0da",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "FNS Vitamin and Painkiller Recipe",
+            "name": "FNS_Vitamin_and_Painkiller_Recipes",
             "folder_name": "1240_FNS_Vitamin_and_Painkiller_Recipes",
             "version": "3.0.1.1",
             "last_updated": "2026-07-07",
@@ -448,10 +474,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "fe8847e9b6d3aee6f04a1d0657e1b9d065b017be20d719ce95323b3f58fa648d",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "FNS Snow-2-H2O Rope and Using Murky Water in Glue, Paint, and Paper",
+            "name": "FNS_Dirty_Glue_and_Snow_2_H2O",
             "folder_name": "1250_FNS_Dirty_Glue_and_Snow_2_H2O",
             "version": "3.0.1.1",
             "last_updated": "2026-07-07",
@@ -460,14 +487,15 @@
             "last_checked_date": "Never",
             "hash": "150beec4997dec65d47506b4a60d8955e503e488ce535ca9f5a2c28ec2155dc0",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "150beec4997dec65d47506b4a60d8955e503e488ce535ca9f5a2c28ec2155dc0",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "LittleRedSonja and Mumpfy Fancy Wall Art - Better Posters",
+            "name": "LittleRedSonja_FancyWallArt_Mumpfy",
             "folder_name": "1260_LittleRedSonja_FancyWallArt_Mumpfy",
             "version": "1.1.0",
             "last_updated": "2026-07-07",
@@ -476,14 +504,15 @@
             "last_checked_date": "Never",
             "hash": "004a8a18f480c60a02175d3c39db650ff48e466d95daae18acf66c1ba3d83c9e",
             "download_urls": [],
-            "tier": 3,
+            "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "004a8a18f480c60a02175d3c39db650ff48e466d95daae18acf66c1ba3d83c9e",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "LittleRedSonja Fancy Wall Art - Nuka Cola",
+            "name": "LittleRedSonja_FancyWallArt_NukaCola",
             "folder_name": "1270_LittleRedSonja_FancyWallArt_NukaCola",
             "version": "1.2.0",
             "last_updated": "2026-07-07",
@@ -496,10 +525,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "207fb52487e1b13aa40a87dc22923975438bbda8f262b9a0d422ca8c3d3ea21b",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "LittleRedSonja Fancy WallArt - Vault-Tec",
+            "name": "LittleRedSonja_FancyWallArt_VaultTec",
             "folder_name": "1280_LittleRedSonja_FancyWallArt_VaultTec",
             "version": "1.1.0",
             "last_updated": "2026-07-07",
@@ -512,10 +542,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "53956f1141040d87cac1c1bf798094a6ea324237ad5f54be50040fdc71e5b7d4",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "LittleRedSonja Flying Fancy Magic Broom",
+            "name": "LittleRedSonja_FlyingFancyBroom",
             "folder_name": "1290_LittleRedSonja_FlyingFancyBroom",
             "version": "2.2.0",
             "last_updated": "2026-07-07",
@@ -528,7 +559,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "d955e1c568c44b07085a0c2e68e8babe9f08d04a3fb44db8ae671fa52bef1fe8",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
             "name": "QuestPlus",
@@ -544,7 +576,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "92a56532294545fe6963c190fe886cbc52c2ab4c441b656711b14089b2e032b2",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
             "name": "Realistic_Lighting",
@@ -560,10 +593,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "da52d5a63744fb06844ff9429d1e896f78f0963ddb01b5d300719fbcde609c62",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Stallionsdens Dont you dare disappear",
+            "name": "Stallionsdens_Dont_you_dare_disappear",
             "folder_name": "1320_Stallionsdens_Dont_you_dare_disappear",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -576,10 +610,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "52d2e5960903231bb840fab4c25712929e6f147bce0ded8acb96b57bd765efd4",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Stallionsdens Everything is sellable",
+            "name": "Stallionsdens_Everything_is_Sellable",
             "folder_name": "1330_Stallionsdens_Everything_is_Sellable",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -592,10 +627,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "abaa98cb3a42ece68b6b1d2771ef4c33920266fc18dff248458b556115f38d83",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Extra Recipes.",
+            "name": "Stallionsdens_Extra_Recipes",
             "folder_name": "1340_Stallionsdens_Extra_Recipes",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -608,10 +644,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "0bfab143d9dd5185c7e44834925732142a4f9cefca3997482db09ec46a2c5835",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "V3 Solar Power Crafting",
+            "name": "V3_SolarPowerCrafting",
             "folder_name": "1350_V3_SolarPowerCrafting",
             "version": "3.0.0.0",
             "last_updated": "2026-07-07",
@@ -624,10 +661,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "c79246b73709ab564d7c5acecf5b5630bd641a49af8ff97b2aa48720087cd32e",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "V3 Vehicle Mods Crafting Skill",
+            "name": "V3_VehicleModsCraftingSkill",
             "folder_name": "1360_V3_VehicleModsCraftingSkill",
             "version": "3.0.0.0",
             "last_updated": "2026-07-07",
@@ -640,11 +678,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "30fc008f9dded0d0fe9b399d8e5f9978e7d4550c26bb04ea0a8eb251f93a1398",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "AGF BackpackPlus 60 Slots",
-            "folder_name": "1370_AGF_BackpackPlus_084Slots_v4.0.2",
+            "name": "AGF_BackpackPlus_084Slots_v4_0_2",
+            "folder_name": "1370_AGF_BackpackPlus_084Slots_v4_0_2",
             "version": "4.0.4",
             "last_updated": "2026-07-08",
             "nexus_id": "1684",
@@ -656,11 +695,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "75c481a61413684148fffbc3111561491a6c6ef6e3de1af88e6af3029fd89a9c",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "AGF HUDPlus",
-            "folder_name": "1380_AGF_HUDPlus_1Main_v6.0.4",
+            "name": "AGF_HUDPlus_1Main_v6_0_4",
+            "folder_name": "1380_AGF_HUDPlus_1Main_v6_0_4",
             "version": "6.3.0",
             "last_updated": "2026-07-07",
             "nexus_id": "870",
@@ -672,11 +712,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "ce014fea36ddd67d09b77ec2bf6707ef3e9d5b700cdb200097d9e680dd294033",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "AGF Purple Book",
-            "folder_name": "1390_AGFHUDPlusPurpleBookv3.0.0",
+            "name": "AGFHUDPlusPurpleBookv3_0_0",
+            "folder_name": "1390_AGFHUDPlusPurpleBookv3_0_0",
             "version": "3.0.0",
             "last_updated": "2026-07-02",
             "nexus_id": "10948",
@@ -688,11 +729,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "4f67db056ffd3939ee6df9780a5aa46fb19333e0a5efad2dd54bee5f84449ff3"
+            "folder_hash": "4f67db056ffd3939ee6df9780a5aa46fb19333e0a5efad2dd54bee5f84449ff3",
+            "is_disabled": false
         },
         {
-            "name": "AGF VP Larger Storage Option",
-            "folder_name": "1400_AGF_VP_LargerStorageOption_v1.0.0",
+            "name": "AGF_VP_LargerStorageOption_v1_0_0",
+            "folder_name": "1400_AGF_VP_LargerStorageOption_v1_0_0",
             "version": "1.0.1",
             "last_updated": "2026-07-07",
             "nexus_id": "10904",
@@ -704,10 +746,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "24257b259fdc6d349ba91b35361f5e31e7b12a0b9a6a69e485177b9594b4d468",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Valmars Buffed Supply Crate Drops",
+            "name": "Valmars_Buffed_Supply_Crate_Drops",
             "folder_name": "1410_Valmars_Buffed_Supply_Crate_Drops",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -720,10 +763,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "1c86cbf98f7102684305345bfacece781dd25d165b3a4245a7498f17859a57a0",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Valmars Starter Class System V2",
+            "name": "Valmars_Starter_Class_System",
             "folder_name": "1420_Valmars_Starter_Class_System",
             "version": "3.0.3.0",
             "last_updated": "2026-07-06",
@@ -736,10 +780,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "6b4092d7a624ab07c41c2860038680631413cd0db117f380da6e536f410218e9",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Valmars Survivor Notes Experience and Recipe Books",
+            "name": "Valmars_Survivor_Notes",
             "folder_name": "1430_Valmars_Survivor_Notes",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -752,10 +797,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "52dc12319c41d3b4a3e7d22724c340f2ea75485779cb15cba1222842238f4931",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "Valmars Working Ovens and Sinks",
+            "name": "Valmars_Working_Ovens_and_Sinks",
             "folder_name": "1440_Valmars_Working_Ovens_and_Sinks",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -768,7 +814,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "4d83ed047f7360e3c7a57d9db39eeb9e0b394a201774ccb6ca061c6d1dd9644a"
+            "folder_hash": "4d83ed047f7360e3c7a57d9db39eeb9e0b394a201774ccb6ca061c6d1dd9644a",
+            "is_disabled": false
         },
         {
             "name": "zzzNail_Realism",
@@ -784,11 +831,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "folder_hash": "96bb56969e82eb7060cc148c1dddae7a0e34e60cad3b247d01f30164e312056f",
-            "source": "Auto"
+            "source": "Auto",
+            "is_disabled": false
         },
         {
-            "name": "LazyMod",
-            "folder_name": "1460_Lazy_poi_pack_3.0",
+            "name": "Lazy_poi_pack_3_0",
+            "folder_name": "1460_Lazy_poi_pack_3_0",
             "version": "1.0.0.9.9",
             "last_updated": "2026-06-21",
             "nexus_id": "5531",
@@ -800,10 +848,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "0d5b008434b2ba1ff0920a0cc05bfdae0be0df0153973f5bab2da06f97ee7d27"
+            "folder_hash": "0d5b008434b2ba1ff0920a0cc05bfdae0be0df0153973f5bab2da06f97ee7d27",
+            "is_disabled": false
         },
         {
-            "name": "LittleRedSonja ZombiePack",
+            "name": "LittleRedSonja_ZombiePack",
             "folder_name": "1470_LittleRedSonja_ZombiePack",
             "version": "2.3.0",
             "last_updated": "2026-07-07",
@@ -816,11 +865,12 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "df616cf12ac2beb276130611862579d392fb39cc4b7740ad154379da3cee8e18"
+            "folder_hash": "df616cf12ac2beb276130611862579d392fb39cc4b7740ad154379da3cee8e18",
+            "is_disabled": false
         },
         {
-            "name": "MXMRMXs POI PACK",
-            "folder_name": "1480_MXMRMXsPOIPACKV1.16.1",
+            "name": "MXMRMXsPOIPACKV1_16_1",
+            "folder_name": "1480_MXMRMXsPOIPACKV1_16_1",
             "version": "2.0",
             "last_updated": "2026-07-07",
             "nexus_id": "8409",
@@ -832,10 +882,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "76a7559fd7be3850df6afd33d5cdb3c66e5ec1aa9569ad730e9d25dc0c04b0cc"
+            "folder_hash": "76a7559fd7be3850df6afd33d5cdb3c66e5ec1aa9569ad730e9d25dc0c04b0cc",
+            "is_disabled": false
         },
         {
-            "name": "ZZTong Prefabs",
+            "name": "ZZTongPrefabs",
             "folder_name": "1490_ZZTongPrefabs",
             "version": "V3.0-ZZ032",
             "last_updated": "2026-06-15",
@@ -848,10 +899,11 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "139fc4a82e8968d4e811260de4b2521f077b7e3265e504988fac2f67439a5001"
+            "folder_hash": "139fc4a82e8968d4e811260de4b2521f077b7e3265e504988fac2f67439a5001",
+            "is_disabled": false
         },
         {
-            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "name": "Zzzzxcpv_Classic_All_In_One",
             "folder_name": "1500_Zzzzxcpv_Classic_All_In_One",
             "version": "3.0.3.0",
             "last_updated": "2026-07-07",
@@ -864,7 +916,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "c4b735b220e59f442780279a66b7330bdbb6c29a8723df8d891a6e99cc77557f"
+            "folder_hash": "c4b735b220e59f442780279a66b7330bdbb6c29a8723df8d891a6e99cc77557f",
+            "is_disabled": false
         },
         {
             "name": "RuntimeOCD",
@@ -880,23 +933,8 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "9654fbaab464cb0786499971ce2e5379aad83e89b341fc5ab2a1ecf4bfc2c9fc"
-        },
-        {
-            "name": "Skip News Screen",
-            "folder_name": "1520_WMMSkipNewsScreen",
-            "version": "3.0.259.1",
-            "last_updated": "2026-07-03",
-            "nexus_id": "5520",
-            "nexus_file_id": "42218",
-            "last_checked_date": "Never",
-            "hash": "1d8ace7e164d5a72720338a52a7d4d8c965f243af768cef1756b817916f6495c",
-            "download_urls": [],
-            "tier": 1,
-            "author": "Unknown",
-            "description": "Auto-detected",
-            "source": "Auto",
-            "folder_hash": "1d8ace7e164d5a72720338a52a7d4d8c965f243af768cef1756b817916f6495c"
+            "folder_hash": "9654fbaab464cb0786499971ce2e5379aad83e89b341fc5ab2a1ecf4bfc2c9fc",
+            "is_disabled": false
         },
         {
             "name": "Zero_Hour_Core",
@@ -912,7 +950,22 @@
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "4d5368910571d2f0a6e607c600c2ad300711b83f793caf3fc211777371be2934"
+            "folder_hash": "4d5368910571d2f0a6e607c600c2ad300711b83f793caf3fc211777371be2934",
+            "is_disabled": false
+        },
+        {
+            "name": "WMMSkipNewsScreen",
+            "folder_name": "1520_WMMSkipNewsScreen",
+            "version": "3.0.259.1",
+            "tier": 1,
+            "nexus_id": "5520",
+            "nexus_file_id": "42218",
+            "is_disabled": false,
+            "update_locked": false,
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "1d8ace7e164d5a72720338a52a7d4d8c965f243af768cef1756b817916f6495c",
+            "hash": "1d8ace7e164d5a72720338a52a7d4d8c965f243af768cef1756b817916f6495c"
         }
     ]
 }
