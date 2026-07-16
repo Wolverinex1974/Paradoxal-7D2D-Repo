@@ -55,6 +55,20 @@
             "dependencies": []
         },
         {
+            "name": "0-SCore_sphereii",
+            "folder_name": "1000_0SCore",
+            "version": "3.0.28.1654",
+            "tier": 1,
+            "nexus_id": "6176",
+            "nexus_file_id": "43268",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "5c104fa91090a1c3f0501437201df89c5229598dc0206138e463c213417219e5",
+            "hash": "5c104fa91090a1c3f0501437201df89c5229598dc0206138e463c213417219e5"
+        },
+        {
             "name": "3SlotForgeInput",
             "folder_name": "1000_KHV1_3SlotForge",
             "version": "3.0.1.2",
@@ -80,12 +94,14 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "25d562776381d7033b404b895e171982d668599ddd623ef19bf4968360814424",
-            "hash": "25d562776381d7033b404b895e171982d668599ddd623ef19bf4968360814424"
+            "hash": "25d562776381d7033b404b895e171982d668599ddd623ef19bf4968360814424",
+            "update_available": "4.1.1",
+            "update_file_id": "43292"
         },
         {
             "name": "AGF-HUDPlus-1Main",
             "folder_name": "1020_AGF_HUDPlus_1Main_v6_0_4",
-            "version": "6.3.0",
+            "version": "6.5.2",
             "tier": 1,
             "nexus_id": "870",
             "nexus_file_id": "43235",
@@ -93,13 +109,15 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "b74b9d1bf90747c63362aec4973dc9956a0d17cee0f440112c30f548bbc221fd",
-            "hash": "b74b9d1bf90747c63362aec4973dc9956a0d17cee0f440112c30f548bbc221fd"
+            "folder_hash": "1997db867216918f263c11e1e159984e382fb4ece00746a50633a05799e2f36a",
+            "hash": "1997db867216918f263c11e1e159984e382fb4ece00746a50633a05799e2f36a",
+            "update_available": "6.5.2",
+            "update_file_id": "43235"
         },
         {
             "name": "AGF-HUDPlus-PurpleBook",
             "folder_name": "1030_AGFHUDPlusPurpleBookv3_0_0",
-            "version": "3.0.0",
+            "version": "3.1.0",
             "tier": 1,
             "nexus_id": "10948",
             "nexus_file_id": "43095",
@@ -107,8 +125,10 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865",
-            "hash": "e87d25d221e58275ee41c7187fe70a4b157add6632f0e880baddb1b1141e5865"
+            "folder_hash": "9b24a2c047b0a2f9c7aba31703fbef884c3b325b191aa52b6378e731e32784ef",
+            "hash": "9b24a2c047b0a2f9c7aba31703fbef884c3b325b191aa52b6378e731e32784ef",
+            "update_available": "3.1.0",
+            "update_file_id": "43095"
         },
         {
             "name": "AGF-VP-LargerStorageOption",
@@ -141,7 +161,7 @@
         {
             "name": "Bdubs_Vehicles",
             "folder_name": "1060_BdubsVehicles",
-            "version": "3.0.2.1",
+            "version": "3.0.2.2",
             "tier": 1,
             "nexus_id": "342",
             "nexus_file_id": "42410",
@@ -149,8 +169,10 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "acee60ca1a0252661dca59d4e4dc4a99e2265dc3a8c8d29e7eb4ba7b0e8386f7",
-            "hash": "acee60ca1a0252661dca59d4e4dc4a99e2265dc3a8c8d29e7eb4ba7b0e8386f7"
+            "folder_hash": "704c7eef01e6143dfc3aab5ea52592b58cc1317f6616bf17dfb35c3d19c2ae4d",
+            "hash": "704c7eef01e6143dfc3aab5ea52592b58cc1317f6616bf17dfb35c3d19c2ae4d",
+            "update_available": "3.0.2.2",
+            "update_file_id": "42410"
         },
         {
             "name": "BetterfullsetbonusesT1to6",
@@ -503,32 +525,20 @@
             "hash": "92a56532294545fe6963c190fe886cbc52c2ab4c441b656711b14089b2e032b2"
         },
         {
-            "name": "RoadShapeFix",
-            "folder_name": "1320_Zzzzxcp_CP_Classic_All_In_One",
-            "version": "3.0.3.0",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc",
-            "hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc"
-        },
-        {
             "name": "RuntimeOCD",
             "folder_name": "1330_RuntimeOCD",
-            "version": "0.15.1",
+            "version": "0.15.2",
             "tier": 3,
             "nexus_id": "6920",
-            "nexus_file_id": "42634",
+            "nexus_file_id": "43361",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "e4e627ec6eb633572fb893c784ea02deccd00334097acf5ba236542dadcee160",
-            "hash": "e4e627ec6eb633572fb893c784ea02deccd00334097acf5ba236542dadcee160"
+            "folder_hash": "396ece00f5dfe3a3076fdf96571eaf602feb08d365c489757f4b9452a153d3c9",
+            "hash": "396ece00f5dfe3a3076fdf96571eaf602feb08d365c489757f4b9452a153d3c9",
+            "update_available": "0.15.2",
+            "update_file_id": "43361"
         },
         {
             "name": "Scomar82_Hobacs",
@@ -589,7 +599,7 @@
         {
             "name": "UndeadBounties",
             "folder_name": "1380_UndeadBounties",
-            "version": "1.0.0",
+            "version": "1",
             "tier": 1,
             "nexus_id": "11232",
             "nexus_file_id": "43126",
@@ -597,8 +607,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "0528ff4610b262389ea33212c4c7ca2c14b299af421907553ca5b76907bde672",
-            "hash": "0528ff4610b262389ea33212c4c7ca2c14b299af421907553ca5b76907bde672"
+            "folder_hash": "cb26b49873ea44b5f035f288e3c396b55f851e6491aa8eb73ad2bfa36f52614d",
+            "hash": "cb26b49873ea44b5f035f288e3c396b55f851e6491aa8eb73ad2bfa36f52614d"
         },
         {
             "name": "V3_OakravenAmmoPress",
@@ -699,7 +709,7 @@
             "hash": "29775ee597f66af5d991a9e9887315987cda9ccad13c7c71b3bf1825e25085c7"
         },
         {
-            "name": "Valmars_Survivor_Notes_ServerSide_Only",
+            "name": "Valmars_Survivor_Notes",
             "folder_name": "1460_Valmars_Survivor_Notes",
             "version": "3.0.3.0",
             "tier": 1,
@@ -709,8 +719,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "bf3ea9a437296efcb3a39f1b0946d690b6959934ae665da07732d76e72f57d0f",
-            "hash": "bf3ea9a437296efcb3a39f1b0946d690b6959934ae665da07732d76e72f57d0f"
+            "folder_hash": "52dc12319c41d3b4a3e7d22724c340f2ea75485779cb15cba1222842238f4931",
+            "hash": "52dc12319c41d3b4a3e7d22724c340f2ea75485779cb15cba1222842238f4931"
         },
         {
             "name": "Valmars_Working_Ovens_and_Sinks",
@@ -737,8 +747,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90",
-            "hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90"
+            "folder_hash": "d09d15daf985daa5dc3858900fd8f9dc8d6138b7dd9c93fce64d5fc90aae9c54",
+            "hash": "d09d15daf985daa5dc3858900fd8f9dc8d6138b7dd9c93fce64d5fc90aae9c54"
         },
         {
             "name": "ZZTong-Prefabs",
@@ -769,9 +779,9 @@
             "hash": "2f16ebdaadf9c2904ea7b7f6e7cab3428d06390ff09c093150e556543839d76a"
         },
         {
-            "name": "zzzzNail_Realism",
+            "name": "zzzNail_Realism",
             "folder_name": "1510_zzzNail_Realism",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
             "nexus_file_id": "42708",
@@ -779,11 +789,13 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "6f4c2d3a1df5bf388d3b5427221a075b0d797eecbede9b9dda52a223724f7b35",
-            "hash": "6f4c2d3a1df5bf388d3b5427221a075b0d797eecbede9b9dda52a223724f7b35"
+            "folder_hash": "96bb56969e82eb7060cc148c1dddae7a0e34e60cad3b247d01f30164e312056f",
+            "hash": "96bb56969e82eb7060cc148c1dddae7a0e34e60cad3b247d01f30164e312056f",
+            "update_available": "3.0.1",
+            "update_file_id": "42708"
         },
         {
-            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "name": "RoadShapeFix",
             "folder_name": "1520_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.0.3.0",
             "tier": 1,
@@ -793,8 +805,36 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
+            "folder_hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc",
+            "hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc"
+        },
+        {
+            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1530_Zzzzxcp_CP_Classic_All_In_One",
+            "version": "3.0.3.0",
+            "tier": 1,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
             "folder_hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
             "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94"
+        },
+        {
+            "name": "Locks",
+            "folder_name": "540_Locks",
+            "version": "3.0.0",
+            "tier": 1,
+            "nexus_id": "8101",
+            "nexus_file_id": "41864",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "c26e82b4e5fc41088d9607a52a3058bad6886a7113b8f78ba9f00842a73f8145",
+            "hash": "c26e82b4e5fc41088d9607a52a3058bad6886a7113b8f78ba9f00842a73f8145"
         },
         {
             "name": "Zero_Hour_Core",
@@ -804,13 +844,13 @@
             "nexus_id": "",
             "nexus_file_id": "",
             "last_checked_date": "Never",
-            "hash": "c00a4975ed863f7cf8001711665f41179ac8da4e3b16019f0d0f5c128a0a5548",
+            "hash": "2f55225294d0cbf4ee2a1b688d1ddfe44cae617f2bb7d6530ff153af0f5762e5",
             "download_urls": [],
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "c00a4975ed863f7cf8001711665f41179ac8da4e3b16019f0d0f5c128a0a5548",
+            "folder_hash": "2f55225294d0cbf4ee2a1b688d1ddfe44cae617f2bb7d6530ff153af0f5762e5",
             "is_disabled": false,
             "dependencies": []
         }
