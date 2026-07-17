@@ -927,6 +927,20 @@
             "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94"
         },
         {
+            "name": "Primitive_Farming_Style",
+            "folder_name": "620_Primitive_Farming_Style",
+            "version": "2.2.2",
+            "tier": 1,
+            "nexus_id": "8154",
+            "nexus_file_id": "31222",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "d4f98d5a9ff85950a8c1642460dc011c6c4b223f11fee15d6896950febd56bca",
+            "hash": "d4f98d5a9ff85950a8c1642460dc011c6c4b223f11fee15d6896950febd56bca"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
