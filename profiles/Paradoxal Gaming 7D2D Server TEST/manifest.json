@@ -182,7 +182,14 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
-            "hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4"
+            "hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
+            "mutations": [
+                {
+                    "file": "TiaoZaoMiniMap.xml",
+                    "search": "<Property name=\"ShowEnemyIcons\" value=\"false\" />",
+                    "replace": "<Property name=\"ShowEnemyIcons\" value=\"false\" />"
+                }
+            ]
         },
         {
             "name": "WalkerSim2",
