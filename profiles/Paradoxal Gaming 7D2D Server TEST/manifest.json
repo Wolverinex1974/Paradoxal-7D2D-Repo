@@ -181,12 +181,12 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
-            "hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
+            "folder_hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1",
+            "hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1",
             "mutations": [
                 {
                     "file": "TiaoZaoMiniMap.xml",
-                    "search": "<Property name=\"ShowEnemyIcons\" value=\"false\" />",
+                    "search": "<Property name=\"ShowEnemyIcons\" value=\"true\" />",
                     "replace": "<Property name=\"ShowEnemyIcons\" value=\"false\" />"
                 }
             ]
