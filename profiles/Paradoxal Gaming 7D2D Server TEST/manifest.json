@@ -236,7 +236,7 @@
         {
             "name": "LittleRedSonja_ZombiePack",
             "folder_name": "1120_LittleRedSonja_ZombiePack",
-            "version": "2.3.0",
+            "version": "2.3.1",
             "tier": 1,
             "nexus_id": "7573",
             "nexus_file_id": "43622",
@@ -244,10 +244,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "c586baca0432562844261acca3f837b94d335be8f16a5bea94b10471cfb5003a",
-            "hash": "c586baca0432562844261acca3f837b94d335be8f16a5bea94b10471cfb5003a",
-            "update_available": "2.3.1",
-            "update_file_id": "43622"
+            "folder_hash": "a3afba8c6f2908f6d531d128a694a91f40d48730800e1ba4992bcb1ec47de930",
+            "hash": "a3afba8c6f2908f6d531d128a694a91f40d48730800e1ba4992bcb1ec47de930"
         },
         {
             "name": "Khaines_Zombie_Reach_Adjustment",
