@@ -948,6 +948,34 @@
             "hash": "d4f98d5a9ff85950a8c1642460dc011c6c4b223f11fee15d6896950febd56bca"
         },
         {
+            "name": "CharcoalRevolution",
+            "folder_name": "1630_CharcoalRevolution",
+            "version": "3.0.0",
+            "tier": 1,
+            "nexus_id": "6691",
+            "nexus_file_id": "43418",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "bc8b57d3816b08eb19cec083ef0cf100d97b13391c0e12b4dac17a5e489fbea0",
+            "hash": "bc8b57d3816b08eb19cec083ef0cf100d97b13391c0e12b4dac17a5e489fbea0"
+        },
+        {
+            "name": "ISI-Mods-Unbound",
+            "folder_name": "1640_ISI_ModsUnbound3_0_1_6",
+            "version": "3.0.1.6",
+            "tier": 1,
+            "nexus_id": "6466",
+            "nexus_file_id": "43617",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "77687467b946a68cd43cd7ccdd4e627203aa26bfe5711dc9c0a3b421e6ad4c8b",
+            "hash": "77687467b946a68cd43cd7ccdd4e627203aa26bfe5711dc9c0a3b421e6ad4c8b"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
