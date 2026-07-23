@@ -976,6 +976,20 @@
             "hash": "77687467b946a68cd43cd7ccdd4e627203aa26bfe5711dc9c0a3b421e6ad4c8b"
         },
         {
+            "name": "Colored_Custom_Descriptions",
+            "folder_name": "1650_Colored_Custom_Descriptions",
+            "version": "3.0.0",
+            "tier": 1,
+            "nexus_id": "11580",
+            "nexus_file_id": "44099",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "a6895742da0bef60efd164f3b0163fc7dadbd64687e50915544846273280f0c4",
+            "hash": "a6895742da0bef60efd164f3b0163fc7dadbd64687e50915544846273280f0c4"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
