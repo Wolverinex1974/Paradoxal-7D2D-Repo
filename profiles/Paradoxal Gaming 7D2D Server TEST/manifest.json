@@ -992,20 +992,6 @@
             "hash": "a6895742da0bef60efd164f3b0163fc7dadbd64687e50915544846273280f0c4"
         },
         {
-            "name": "TFP_MarkersExample",
-            "folder_name": "Xample_MarkersMod",
-            "version": "1.3.0.0",
-            "tier": 1,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
-            "hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5"
-        },
-        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
