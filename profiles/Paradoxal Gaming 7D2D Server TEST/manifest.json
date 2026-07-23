@@ -14,8 +14,10 @@
     },
     "server_info": {
         "ip": "35.142.67.196",
-        "port": "32467",
-        "name": "Paradoxal Gaming 7D2D TEST Server"
+        "port": "26900",
+        "name": "My Game Host",
+        "engine_branch": "latest_experimental",
+        "engine_build_id": "24338806"
     },
     "mods": [
         {
