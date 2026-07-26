@@ -84,7 +84,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2",
-            "hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2"
+            "hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2",
+            "update_available": "3.0.6.0.0",
+            "update_file_id": "43439"
         },
         {
             "name": "Alter_Soundoverride",
@@ -100,7 +102,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243",
-            "hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243"
+            "hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243",
+            "update_available": "3.0.6.0.0",
+            "update_file_id": "43439"
         },
         {
             "name": "Quartz",
@@ -473,7 +477,7 @@
         {
             "name": "BetterSpikes",
             "folder_name": "1290_BetterSpikes5X",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "tier": 1,
             "nexus_id": "6645",
             "nexus_file_id": "42036",
@@ -481,8 +485,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "e922e0a426924a19667263072cbd446f7953e925d7f028482d37dca72e9a62f5",
-            "hash": "e922e0a426924a19667263072cbd446f7953e925d7f028482d37dca72e9a62f5"
+            "folder_hash": "a8b69156ed1f979830e3e4ec68f4a7462a5660f9969e242f532f401f39dbcfd3",
+            "hash": "a8b69156ed1f979830e3e4ec68f4a7462a5660f9969e242f532f401f39dbcfd3"
         },
         {
             "name": "V3_OakravenPowerThings",
@@ -614,7 +618,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "795afb404a8529675b6ce86c3c5c9e120336bc3be851049dd59cc449d5f88407",
-            "hash": "795afb404a8529675b6ce86c3c5c9e120336bc3be851049dd59cc449d5f88407"
+            "hash": "795afb404a8529675b6ce86c3c5c9e120336bc3be851049dd59cc449d5f88407",
+            "update_available": "12",
+            "update_file_id": "43837"
         },
         {
             "name": "ElementalAttachments",
@@ -850,16 +856,16 @@
         {
             "name": "AGF-HUDPlus-1Main",
             "folder_name": "1550_AGF_HUDPlus_1Main_v6_0_4",
-            "version": "6.5.2",
+            "version": "6.5.5",
             "tier": 1,
             "nexus_id": "870",
-            "nexus_file_id": "43235",
+            "nexus_file_id": "44228",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "1997db867216918f263c11e1e159984e382fb4ece00746a50633a05799e2f36a",
-            "hash": "1997db867216918f263c11e1e159984e382fb4ece00746a50633a05799e2f36a"
+            "folder_hash": "703b35a1064a8c7d7abf2544bea1e7dc7384beb54f9a7f635d7742d096a7c295",
+            "hash": "703b35a1064a8c7d7abf2544bea1e7dc7384beb54f9a7f635d7742d096a7c295"
         },
         {
             "name": "AGF-HUDPlus-PurpleBook",
@@ -918,22 +924,8 @@
             "hash": "825c26ca450fed3cb7968b77aed6951370f59552139329b2f0106e2c3e370af6"
         },
         {
-            "name": "TechFreqsReclaimVehicles",
-            "folder_name": "1600_TechFreqsReclaimVehicles",
-            "version": "1.4",
-            "tier": 1,
-            "nexus_id": "7532",
-            "nexus_file_id": "42715",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "f19fafeb2b2ee21a9bd23dd6be9886fd8d81d20d1677ccfe07d271db2870a429",
-            "hash": "f19fafeb2b2ee21a9bd23dd6be9886fd8d81d20d1677ccfe07d271db2870a429"
-        },
-        {
             "name": "LittleRedSonja_FancyWallArt_NukaCola",
-            "folder_name": "1610_LittleRedSonja_FancyWallArt_NukaCola",
+            "folder_name": "1600_LittleRedSonja_FancyWallArt_NukaCola",
             "version": "1.2.0",
             "tier": 1,
             "nexus_id": "5888",
@@ -947,7 +939,7 @@
         },
         {
             "name": "CharcoalRevolution",
-            "folder_name": "1620_CharcoalRevolution",
+            "folder_name": "1610_CharcoalRevolution",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "6691",
@@ -960,22 +952,8 @@
             "hash": "bc8b57d3816b08eb19cec083ef0cf100d97b13391c0e12b4dac17a5e489fbea0"
         },
         {
-            "name": "1630_TechFreqsReclaimVehicles",
-            "folder_name": "1630_TechFreqsReclaimVehicles",
-            "version": "1.0",
-            "tier": 1,
-            "nexus_id": "7532",
-            "nexus_file_id": "42715",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "fa45611ac7b062a29d88c28e983b487fb35ce511c791b589111f452e41d9eb0e",
-            "hash": "fa45611ac7b062a29d88c28e983b487fb35ce511c791b589111f452e41d9eb0e"
-        },
-        {
             "name": "Arrows_Bolts_Bullets_Cause_Bleed",
-            "folder_name": "1640_ArrowsAndBoltsCauseBleed",
+            "folder_name": "1620_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8416",
@@ -989,8 +967,8 @@
         },
         {
             "name": "zCs_DistinctBuffIcons_plusCandyEdition",
-            "folder_name": "1650_zCs_DistinctBuffIcons_plusCandyEdition",
-            "version": "1.0.0",
+            "folder_name": "1630_zCs_DistinctBuffIcons_plusCandyEdition",
+            "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11145",
             "nexus_file_id": "43190",
@@ -998,12 +976,12 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "82d8880fe7c5fd3120dc4b9610a65e9dd8a672908d331a53178cb12a670fda9f",
-            "hash": "82d8880fe7c5fd3120dc4b9610a65e9dd8a672908d331a53178cb12a670fda9f"
+            "folder_hash": "8b64dc202cb148f2fd7970628c4a28844c8d10503d7a651a6796f6b2af26abde",
+            "hash": "8b64dc202cb148f2fd7970628c4a28844c8d10503d7a651a6796f6b2af26abde"
         },
         {
             "name": "Valmars_Working_Ovens_and_Sinks",
-            "folder_name": "1660_Valmars_Working_Ovens_and_Sinks",
+            "folder_name": "1640_Valmars_Working_Ovens_and_Sinks",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5994",
@@ -1017,7 +995,7 @@
         },
         {
             "name": "DewtasRandomKnockdownTime",
-            "folder_name": "1670_Dewtas_Random_Knockdown_Timer_2_5",
+            "folder_name": "1650_Dewtas_Random_Knockdown_Timer_2_5",
             "version": "V1.0",
             "tier": 1,
             "nexus_id": "5594",
@@ -1031,7 +1009,7 @@
         },
         {
             "name": "Stallionsdens_Extra_Recipes",
-            "folder_name": "1680_Stallionsdens_Extra_Recipes",
+            "folder_name": "1660_Stallionsdens_Extra_Recipes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "6006",
@@ -1045,7 +1023,7 @@
         },
         {
             "name": "UndeadBounties",
-            "folder_name": "1690_UndeadBounties",
+            "folder_name": "1670_UndeadBounties",
             "version": "1",
             "tier": 1,
             "nexus_id": "11232",
@@ -1059,7 +1037,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1700_zzzNail_Realism",
+            "folder_name": "1680_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -1073,7 +1051,7 @@
         },
         {
             "name": "RuntimeOCD",
-            "folder_name": "1710_RuntimeOCD",
+            "folder_name": "1690_RuntimeOCD",
             "version": "0.15.2",
             "tier": 3,
             "nexus_id": "6920",
@@ -1087,7 +1065,7 @@
         },
         {
             "name": "Locks",
-            "folder_name": "1720_Locks",
+            "folder_name": "1700_Locks",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "8101",
@@ -1101,7 +1079,7 @@
         },
         {
             "name": "Stallionsden_Everything_is_sellable",
-            "folder_name": "1730_Stallionsdens_Everything_is_Sellable",
+            "folder_name": "1710_Stallionsdens_Everything_is_Sellable",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5964",
@@ -1115,7 +1093,7 @@
         },
         {
             "name": "LazyMod",
-            "folder_name": "1740_Lazy_poi_pack_3_0",
+            "folder_name": "1720_Lazy_poi_pack_3_0",
             "version": "1.0.0.9.9",
             "tier": 1,
             "nexus_id": "5531",
@@ -1129,7 +1107,7 @@
         },
         {
             "name": "LittleRedSonja_FancyWallArt_VaultTec",
-            "folder_name": "1750_LittleRedSonja_FancyWallArt_VaultTec",
+            "folder_name": "1730_LittleRedSonja_FancyWallArt_VaultTec",
             "version": "1.1.0",
             "tier": 1,
             "nexus_id": "7369",
@@ -1143,7 +1121,7 @@
         },
         {
             "name": "TKC_Deconstructor",
-            "folder_name": "1760_TKC_Deconstructor",
+            "folder_name": "1740_TKC_Deconstructor",
             "version": "3.1.0",
             "tier": 1,
             "nexus_id": "11181",
@@ -1157,7 +1135,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1770_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1750_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "10710",
