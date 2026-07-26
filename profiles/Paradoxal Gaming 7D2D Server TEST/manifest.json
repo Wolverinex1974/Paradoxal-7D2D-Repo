@@ -163,8 +163,27 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "b32a37d69d6059a2e9b02ba71d3dbe2adf95d3a223405a6469e2f8fe4ec22fb3",
-            "hash": "b32a37d69d6059a2e9b02ba71d3dbe2adf95d3a223405a6469e2f8fe4ec22fb3"
+            "folder_hash": "250f275ea970548a71ac64084795b074b59be233ee30df0ac53c2b73282005ee",
+            "hash": "250f275ea970548a71ac64084795b074b59be233ee30df0ac53c2b73282005ee",
+            "Blueprint_Mutations": [
+                {
+                    "file": "Config\\RealismConfigs.xml",
+                    "search": "<property name=\"TraderSeasonalHours\" value=\"1\" />",
+                    "replace": "<property name=\"TraderSeasonalHours\" value=\"0\" />"
+                }
+            ],
+            "mutations": [
+                {
+                    "file": "Config\\RealismConfigs.xml",
+                    "search": "<property name=\"TraderSeasonalHours\" value=\"1\" />",
+                    "replace": "<property name=\"TraderSeasonalHours\" value=\"0\" />"
+                },
+                {
+                    "file": "Config\\RealismConfigs.xml",
+                    "search": "<property name=\"CrosshairEnable\" value=\"0\" />",
+                    "replace": "<property name=\"CrosshairEnable\" value=\"1\" />"
+                }
+            ]
         },
         {
             "name": "PGzUltimateRWGV3",
@@ -289,8 +308,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1",
-            "hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1",
+            "folder_hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
+            "hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
             "mutations": [
                 {
                     "file": "TiaoZaoMiniMap.xml",
