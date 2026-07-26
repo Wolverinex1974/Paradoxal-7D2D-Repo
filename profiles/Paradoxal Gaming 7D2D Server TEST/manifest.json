@@ -71,8 +71,44 @@
             "hash": "6ee0fff182fde229fd839317742273184ed9165bb5d30edaaff5f103fe9e5513"
         },
         {
+            "name": "Izayo_WeaponFixes",
+            "folder_name": "1010_07D3_0_Izayo_WeaponFixes",
+            "version": "1.0",
+            "tier": 1,
+            "nexus_id": "11059",
+            "nexus_file_id": "43439",
+            "is_disabled": false,
+            "dependencies": [
+                "Gears"
+            ],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2",
+            "hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2",
+            "update_available": "3.0.6.0.0",
+            "update_file_id": "43439"
+        },
+        {
+            "name": "Alter_Soundoverride",
+            "folder_name": "1020_0Alter_OverrideSounds",
+            "version": "1.1.0.4",
+            "tier": 1,
+            "nexus_id": "11059",
+            "nexus_file_id": "43439",
+            "is_disabled": false,
+            "dependencies": [
+                "Izayo_WeaponFixes"
+            ],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243",
+            "hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243",
+            "update_available": "3.0.6.0.0",
+            "update_file_id": "43439"
+        },
+        {
             "name": "Quartz",
-            "folder_name": "1010_0Quartz",
+            "folder_name": "1030_0Quartz",
             "version": "8.0.1",
             "tier": 1,
             "nexus_id": "2409",
@@ -88,7 +124,7 @@
         },
         {
             "name": "0-SCore_sphereii",
-            "folder_name": "1020_0SCore",
+            "folder_name": "1040_0SCore",
             "version": "3.0.28.1655",
             "tier": 1,
             "nexus_id": "6176",
@@ -102,7 +138,7 @@
         },
         {
             "name": "SCoreChanges",
-            "folder_name": "1030_0SCoreChangesGearsEdition",
+            "folder_name": "1050_0SCoreChangesGearsEdition",
             "version": "3.0.0.6",
             "tier": 1,
             "nexus_id": "7228",
@@ -118,7 +154,7 @@
         },
         {
             "name": "PGzUltimateRWGV3",
-            "folder_name": "1040_PGzUltimateRWGV3",
+            "folder_name": "1060_PGzUltimateRWGV3",
             "version": "3.0.1.12",
             "tier": 1,
             "nexus_id": "10917",
@@ -132,7 +168,7 @@
         },
         {
             "name": "WalkerSim2",
-            "folder_name": "1050_WalkerSim2",
+            "folder_name": "1070_WalkerSim2",
             "version": "2.0.5",
             "tier": 1,
             "nexus_id": "6014",
@@ -146,7 +182,7 @@
         },
         {
             "name": "RuntimeOCD",
-            "folder_name": "1060_RuntimeOCD",
+            "folder_name": "1080_RuntimeOCD",
             "version": "0.15.2",
             "tier": 3,
             "nexus_id": "6920",
@@ -160,7 +196,7 @@
         },
         {
             "name": "Stallionsdens_DoorTriggerVolumes",
-            "folder_name": "1070_Stallionsdens_DoorTriggerVolumes",
+            "folder_name": "1090_Stallionsdens_DoorTriggerVolumes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "11591",
@@ -174,7 +210,7 @@
         },
         {
             "name": "AGF-HUDPlus-1Main",
-            "folder_name": "1080_AGF_HUDPlus_1Main_v6_0_4",
+            "folder_name": "1100_AGF_HUDPlus_1Main_v6_0_4",
             "version": "6.5.5",
             "tier": 1,
             "nexus_id": "870",
@@ -188,7 +224,7 @@
         },
         {
             "name": "AGF-HUDPlus-PurpleBook",
-            "folder_name": "1090_AGFHUDPlusPurpleBookv3_0_0",
+            "folder_name": "1110_AGFHUDPlusPurpleBookv3_0_0",
             "version": "3.1.0",
             "tier": 1,
             "nexus_id": "10948",
@@ -202,7 +238,7 @@
         },
         {
             "name": "AGF-BackpackPlus-084Slots",
-            "folder_name": "1100_AGFBackpackPlus084Slotsv4_1_1",
+            "folder_name": "1120_AGFBackpackPlus084Slotsv4_1_1",
             "version": "4.1.1",
             "tier": 1,
             "nexus_id": "11300",
@@ -216,7 +252,7 @@
         },
         {
             "name": "AGF-VP-LargerStorageOption",
-            "folder_name": "1110_AGF_VP_LargerStorageOption_v1_0_0",
+            "folder_name": "1130_AGF_VP_LargerStorageOption_v1_0_0",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "10904",
@@ -230,7 +266,7 @@
         },
         {
             "name": "TiaoZaoMiniMap",
-            "folder_name": "1120_TiaoZaoMiniMap",
+            "folder_name": "1140_TiaoZaoMiniMap",
             "version": "3.8",
             "tier": 1,
             "nexus_id": "7732",
@@ -251,7 +287,7 @@
         },
         {
             "name": "zCs_DistinctBuffIcons_plusCandyEdition",
-            "folder_name": "1130_zCs_DistinctBuffIcons_plusCandyEdition",
+            "folder_name": "1150_zCs_DistinctBuffIcons_plusCandyEdition",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11145",
@@ -265,7 +301,7 @@
         },
         {
             "name": "KnowBeforeYouCraft",
-            "folder_name": "1140_KnowBeforeYouCraft",
+            "folder_name": "1160_KnowBeforeYouCraft",
             "version": "1.1.0",
             "tier": 1,
             "nexus_id": "11169",
@@ -279,7 +315,7 @@
         },
         {
             "name": "MPLogue_Better_Biomes_7D2D_v3_1",
-            "folder_name": "1150_MPLogue_Better_Biomes_7D2D_v3_1",
+            "folder_name": "1170_MPLogue_Better_Biomes_7D2D_v3_1",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "5366",
@@ -293,7 +329,7 @@
         },
         {
             "name": "MPLogue_Prefabs_7D2D_V3_1_1",
-            "folder_name": "1160_MPLogue_Prefabs_7D2D_V3_1_1",
+            "folder_name": "1180_MPLogue_Prefabs_7D2D_V3_1_1",
             "version": "3.1.1",
             "tier": 1,
             "nexus_id": "3436",
@@ -307,7 +343,7 @@
         },
         {
             "name": "MPLogue_UrbanDecay_7D2D_v3_1",
-            "folder_name": "1170_MPLogue_UrbanDecay_7D2D_v3_1",
+            "folder_name": "1190_MPLogue_UrbanDecay_7D2D_v3_1",
             "version": "3.1",
             "tier": 1,
             "nexus_id": "6867",
@@ -321,7 +357,7 @@
         },
         {
             "name": "ZZTong-Prefabs",
-            "folder_name": "1180_ZZTongPrefabs",
+            "folder_name": "1200_ZZTongPrefabs",
             "version": "V3.0-ZZ032",
             "tier": 1,
             "nexus_id": "1434",
@@ -335,7 +371,7 @@
         },
         {
             "name": "MXMRMXsPOIPACK",
-            "folder_name": "1190_MXMRMXsPOIPACKV1_16_1",
+            "folder_name": "1210_MXMRMXsPOIPACKV1_16_1",
             "version": "1.16.1",
             "tier": 1,
             "nexus_id": "8409",
@@ -349,7 +385,7 @@
         },
         {
             "name": "LazyMod",
-            "folder_name": "1200_Lazy_poi_pack_3_0",
+            "folder_name": "1220_Lazy_poi_pack_3_0",
             "version": "1.0.0.9.9",
             "tier": 1,
             "nexus_id": "5531",
@@ -363,7 +399,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1210_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1230_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "10710",
@@ -377,7 +413,7 @@
         },
         {
             "name": "DoubleGZombies3",
-            "folder_name": "1220_DoubleG_Zombies_3_3",
+            "folder_name": "1240_DoubleG_Zombies_3_3",
             "version": "1.3.3",
             "tier": 1,
             "nexus_id": "8212",
@@ -391,7 +427,7 @@
         },
         {
             "name": "DoubleGZombiesClassicsReanimated",
-            "folder_name": "1230_DoubleG_Zombies_Classics_Reanimated_1_5",
+            "folder_name": "1250_DoubleG_Zombies_Classics_Reanimated_1_5",
             "version": "1.5",
             "tier": 1,
             "nexus_id": "8861",
@@ -405,7 +441,7 @@
         },
         {
             "name": "DoubleGZombiesClassicsReImagined",
-            "folder_name": "1240_DoubleG_Zombies_Classics_ReImagined_1_0_2",
+            "folder_name": "1260_DoubleG_Zombies_Classics_ReImagined_1_0_2",
             "version": "1.0.2",
             "tier": 1,
             "nexus_id": "10542",
@@ -419,7 +455,7 @@
         },
         {
             "name": "LittleRedSonja_ZombiePack",
-            "folder_name": "1250_LittleRedSonja_ZombiePack",
+            "folder_name": "1270_LittleRedSonja_ZombiePack",
             "version": "2.3.1",
             "tier": 1,
             "nexus_id": "7573",
@@ -433,7 +469,7 @@
         },
         {
             "name": "LittleRedSonja_FancyZombieVariants",
-            "folder_name": "1260_LittleRedSonja_FancyZombieVariants_FULLQUALITY",
+            "folder_name": "1280_LittleRedSonja_FancyZombieVariants_FULLQUALITY",
             "version": "1.2.0",
             "tier": 1,
             "nexus_id": "7408",
@@ -447,7 +483,7 @@
         },
         {
             "name": "Bdubs_Vehicles",
-            "folder_name": "1270_BdubsVehicles",
+            "folder_name": "1290_BdubsVehicles",
             "version": "3.0.2.3",
             "tier": 1,
             "nexus_id": "342",
@@ -461,7 +497,7 @@
         },
         {
             "name": "Paniermehl_Vehicle_Respawner",
-            "folder_name": "1280_Paniermehl_Vehicle_Respawner",
+            "folder_name": "1300_Paniermehl_Vehicle_Respawner",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "10883",
@@ -475,7 +511,7 @@
         },
         {
             "name": "IGP_Classic",
-            "folder_name": "1290_IGP_Classic",
+            "folder_name": "1310_IGP_Classic",
             "version": "3.0.6.0.0",
             "tier": 1,
             "nexus_id": "11059",
@@ -491,7 +527,7 @@
         },
         {
             "name": "IGP_Resources",
-            "folder_name": "1300_IGP_Resources",
+            "folder_name": "1320_IGP_Resources",
             "version": "3.0.6.0.0",
             "tier": 1,
             "nexus_id": "11059",
@@ -504,42 +540,6 @@
             "author": "Unknown Author",
             "folder_hash": "bea1f31e9f2ac84fd1ffea3383cb916eb22a650af137090189b31b1a863513df",
             "hash": "bea1f31e9f2ac84fd1ffea3383cb916eb22a650af137090189b31b1a863513df"
-        },
-        {
-            "name": "Izayo_WeaponFixes",
-            "folder_name": "1310_07D3_0_Izayo_WeaponFixes",
-            "version": "1.0",
-            "tier": 1,
-            "nexus_id": "11059",
-            "nexus_file_id": "43439",
-            "is_disabled": false,
-            "dependencies": [
-                "Gears"
-            ],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2",
-            "hash": "5f90b38fcc1c514211ba2e013b60331441b12683d50999bb34c75cf0af07e8e2",
-            "update_available": "3.0.6.0.0",
-            "update_file_id": "43439"
-        },
-        {
-            "name": "Alter_Soundoverride",
-            "folder_name": "1320_0Alter_OverrideSounds",
-            "version": "1.1.0.4",
-            "tier": 1,
-            "nexus_id": "11059",
-            "nexus_file_id": "43439",
-            "is_disabled": false,
-            "dependencies": [
-                "Izayo_WeaponFixes"
-            ],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243",
-            "hash": "ea7b9663a76b2b653f887e31e910b82b52a9cd41cd42b849274d9ca88c9aa243",
-            "update_available": "3.0.6.0.0",
-            "update_file_id": "43439"
         },
         {
             "name": "ElementalAttachments",
