@@ -153,8 +153,22 @@
             "hash": "b17ec6280e767e0904a8716c58e3b9eae29f7880e0aaa9b0108577a6b5fae92d"
         },
         {
+            "name": "RealismOverhaulCORE",
+            "folder_name": "1060_0Zipp0osRealismOverhaulCore",
+            "version": "1.0.5",
+            "tier": 1,
+            "nexus_id": "10303",
+            "nexus_file_id": "44175",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "b32a37d69d6059a2e9b02ba71d3dbe2adf95d3a223405a6469e2f8fe4ec22fb3",
+            "hash": "b32a37d69d6059a2e9b02ba71d3dbe2adf95d3a223405a6469e2f8fe4ec22fb3"
+        },
+        {
             "name": "PGzUltimateRWGV3",
-            "folder_name": "1060_PGzUltimateRWGV3",
+            "folder_name": "1070_PGzUltimateRWGV3",
             "version": "3.0.1.12",
             "tier": 1,
             "nexus_id": "10917",
@@ -168,7 +182,7 @@
         },
         {
             "name": "WalkerSim2",
-            "folder_name": "1070_WalkerSim2",
+            "folder_name": "1080_WalkerSim2",
             "version": "2.0.5",
             "tier": 1,
             "nexus_id": "6014",
@@ -182,7 +196,7 @@
         },
         {
             "name": "RuntimeOCD",
-            "folder_name": "1080_RuntimeOCD",
+            "folder_name": "1090_RuntimeOCD",
             "version": "0.15.2",
             "tier": 3,
             "nexus_id": "6920",
@@ -196,7 +210,7 @@
         },
         {
             "name": "Stallionsdens_DoorTriggerVolumes",
-            "folder_name": "1090_Stallionsdens_DoorTriggerVolumes",
+            "folder_name": "1100_Stallionsdens_DoorTriggerVolumes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "11591",
@@ -210,7 +224,7 @@
         },
         {
             "name": "AGF-HUDPlus-1Main",
-            "folder_name": "1100_AGF_HUDPlus_1Main_v6_0_4",
+            "folder_name": "1110_AGF_HUDPlus_1Main_v6_0_4",
             "version": "6.5.5",
             "tier": 1,
             "nexus_id": "870",
@@ -224,7 +238,7 @@
         },
         {
             "name": "AGF-HUDPlus-PurpleBook",
-            "folder_name": "1110_AGFHUDPlusPurpleBookv3_0_0",
+            "folder_name": "1120_AGFHUDPlusPurpleBookv3_0_0",
             "version": "3.1.0",
             "tier": 1,
             "nexus_id": "10948",
@@ -238,7 +252,7 @@
         },
         {
             "name": "AGF-BackpackPlus-084Slots",
-            "folder_name": "1120_AGFBackpackPlus084Slotsv4_1_1",
+            "folder_name": "1130_AGFBackpackPlus084Slotsv4_1_1",
             "version": "4.1.1",
             "tier": 1,
             "nexus_id": "11300",
@@ -252,7 +266,7 @@
         },
         {
             "name": "AGF-VP-LargerStorageOption",
-            "folder_name": "1130_AGF_VP_LargerStorageOption_v1_0_0",
+            "folder_name": "1140_AGF_VP_LargerStorageOption_v1_0_0",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "10904",
@@ -266,7 +280,7 @@
         },
         {
             "name": "TiaoZaoMiniMap",
-            "folder_name": "1140_TiaoZaoMiniMap",
+            "folder_name": "1150_TiaoZaoMiniMap",
             "version": "3.8",
             "tier": 1,
             "nexus_id": "7732",
@@ -287,7 +301,7 @@
         },
         {
             "name": "zCs_DistinctBuffIcons_plusCandyEdition",
-            "folder_name": "1150_zCs_DistinctBuffIcons_plusCandyEdition",
+            "folder_name": "1160_zCs_DistinctBuffIcons_plusCandyEdition",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11145",
@@ -301,7 +315,7 @@
         },
         {
             "name": "KnowBeforeYouCraft",
-            "folder_name": "1160_KnowBeforeYouCraft",
+            "folder_name": "1170_KnowBeforeYouCraft",
             "version": "1.1.0",
             "tier": 1,
             "nexus_id": "11169",
@@ -315,7 +329,7 @@
         },
         {
             "name": "MPLogue_Better_Biomes_7D2D_v3_1",
-            "folder_name": "1170_MPLogue_Better_Biomes_7D2D_v3_1",
+            "folder_name": "1180_MPLogue_Better_Biomes_7D2D_v3_1",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "5366",
@@ -329,7 +343,7 @@
         },
         {
             "name": "MPLogue_Prefabs_7D2D_V3_1_1",
-            "folder_name": "1180_MPLogue_Prefabs_7D2D_V3_1_1",
+            "folder_name": "1190_MPLogue_Prefabs_7D2D_V3_1_1",
             "version": "3.1.1",
             "tier": 1,
             "nexus_id": "3436",
@@ -343,7 +357,7 @@
         },
         {
             "name": "MPLogue_UrbanDecay_7D2D_v3_1",
-            "folder_name": "1190_MPLogue_UrbanDecay_7D2D_v3_1",
+            "folder_name": "1200_MPLogue_UrbanDecay_7D2D_v3_1",
             "version": "3.1",
             "tier": 1,
             "nexus_id": "6867",
@@ -357,7 +371,7 @@
         },
         {
             "name": "ZZTong-Prefabs",
-            "folder_name": "1200_ZZTongPrefabs",
+            "folder_name": "1210_ZZTongPrefabs",
             "version": "V3.0-ZZ032",
             "tier": 1,
             "nexus_id": "1434",
@@ -371,7 +385,7 @@
         },
         {
             "name": "MXMRMXsPOIPACK",
-            "folder_name": "1210_MXMRMXsPOIPACKV1_16_1",
+            "folder_name": "1220_MXMRMXsPOIPACKV1_16_1",
             "version": "1.16.1",
             "tier": 1,
             "nexus_id": "8409",
@@ -385,7 +399,7 @@
         },
         {
             "name": "LazyMod",
-            "folder_name": "1220_Lazy_poi_pack_3_0",
+            "folder_name": "1230_Lazy_poi_pack_3_0",
             "version": "1.0.0.9.9",
             "tier": 1,
             "nexus_id": "5531",
@@ -399,7 +413,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1230_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1240_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "10710",
@@ -413,7 +427,7 @@
         },
         {
             "name": "DoubleGZombies3",
-            "folder_name": "1240_DoubleG_Zombies_3_3",
+            "folder_name": "1250_DoubleG_Zombies_3_3",
             "version": "1.3.3",
             "tier": 1,
             "nexus_id": "8212",
@@ -427,7 +441,7 @@
         },
         {
             "name": "DoubleGZombiesClassicsReanimated",
-            "folder_name": "1250_DoubleG_Zombies_Classics_Reanimated_1_5",
+            "folder_name": "1260_DoubleG_Zombies_Classics_Reanimated_1_5",
             "version": "1.5",
             "tier": 1,
             "nexus_id": "8861",
@@ -441,7 +455,7 @@
         },
         {
             "name": "DoubleGZombiesClassicsReImagined",
-            "folder_name": "1260_DoubleG_Zombies_Classics_ReImagined_1_0_2",
+            "folder_name": "1270_DoubleG_Zombies_Classics_ReImagined_1_0_2",
             "version": "1.0.2",
             "tier": 1,
             "nexus_id": "10542",
@@ -455,7 +469,7 @@
         },
         {
             "name": "LittleRedSonja_ZombiePack",
-            "folder_name": "1270_LittleRedSonja_ZombiePack",
+            "folder_name": "1280_LittleRedSonja_ZombiePack",
             "version": "2.3.1",
             "tier": 1,
             "nexus_id": "7573",
@@ -469,7 +483,7 @@
         },
         {
             "name": "LittleRedSonja_FancyZombieVariants",
-            "folder_name": "1280_LittleRedSonja_FancyZombieVariants_FULLQUALITY",
+            "folder_name": "1290_LittleRedSonja_FancyZombieVariants_FULLQUALITY",
             "version": "1.2.0",
             "tier": 1,
             "nexus_id": "7408",
@@ -483,7 +497,7 @@
         },
         {
             "name": "Bdubs_Vehicles",
-            "folder_name": "1290_BdubsVehicles",
+            "folder_name": "1300_BdubsVehicles",
             "version": "3.0.2.3",
             "tier": 1,
             "nexus_id": "342",
@@ -497,7 +511,7 @@
         },
         {
             "name": "Paniermehl_Vehicle_Respawner",
-            "folder_name": "1300_Paniermehl_Vehicle_Respawner",
+            "folder_name": "1310_Paniermehl_Vehicle_Respawner",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "10883",
@@ -511,7 +525,7 @@
         },
         {
             "name": "IGP_Classic",
-            "folder_name": "1310_IGP_Classic",
+            "folder_name": "1320_IGP_Classic",
             "version": "3.0.6.0.0",
             "tier": 1,
             "nexus_id": "11059",
@@ -527,7 +541,7 @@
         },
         {
             "name": "IGP_Resources",
-            "folder_name": "1320_IGP_Resources",
+            "folder_name": "1330_IGP_Resources",
             "version": "3.0.6.0.0",
             "tier": 1,
             "nexus_id": "11059",
@@ -543,7 +557,7 @@
         },
         {
             "name": "ElementalAttachments",
-            "folder_name": "1330_Elemental_Attachments",
+            "folder_name": "1340_Elemental_Attachments",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "8533",
@@ -557,7 +571,7 @@
         },
         {
             "name": "LittleRedSonja_FancyWallArt_Mumpfy",
-            "folder_name": "1340_LittleRedSonja_FancyWallArt_Mumpfy",
+            "folder_name": "1350_LittleRedSonja_FancyWallArt_Mumpfy",
             "version": "1.1.0",
             "tier": 1,
             "nexus_id": "10546",
@@ -571,7 +585,7 @@
         },
         {
             "name": "LittleRedSonja_FancyWallArt_NukaCola",
-            "folder_name": "1350_LittleRedSonja_FancyWallArt_NukaCola",
+            "folder_name": "1360_LittleRedSonja_FancyWallArt_NukaCola",
             "version": "1.2.0",
             "tier": 1,
             "nexus_id": "5888",
@@ -585,7 +599,7 @@
         },
         {
             "name": "LittleRedSonja_FancyWallArt_VaultTec",
-            "folder_name": "1360_LittleRedSonja_FancyWallArt_VaultTec",
+            "folder_name": "1370_LittleRedSonja_FancyWallArt_VaultTec",
             "version": "1.1.0",
             "tier": 1,
             "nexus_id": "7369",
@@ -599,7 +613,7 @@
         },
         {
             "name": "LittleRedSonja_FlyingFancyBroom",
-            "folder_name": "1370_LittleRedSonja_FlyingFancyBroom",
+            "folder_name": "1380_LittleRedSonja_FlyingFancyBroom",
             "version": "2.2.0",
             "tier": 1,
             "nexus_id": "6546",
@@ -613,7 +627,7 @@
         },
         {
             "name": "LittleRedSonja_GrabYourStuff",
-            "folder_name": "1380_zz_LittleRedSonja_GrabYourStuff",
+            "folder_name": "1390_zz_LittleRedSonja_GrabYourStuff",
             "version": "1.5.0",
             "tier": 1,
             "nexus_id": "5735",
@@ -627,7 +641,7 @@
         },
         {
             "name": "V3_OakravenAmmoPress",
-            "folder_name": "1390_V3_OakravenAmmoPress",
+            "folder_name": "1400_V3_OakravenAmmoPress",
             "version": "3.0.0.0",
             "tier": 1,
             "nexus_id": "5105",
@@ -641,7 +655,7 @@
         },
         {
             "name": "V3_OakravenPowerThings",
-            "folder_name": "1400_V3_OakravenPowerThings",
+            "folder_name": "1410_V3_OakravenPowerThings",
             "version": "3.0.0.0",
             "tier": 1,
             "nexus_id": "5187",
@@ -655,7 +669,7 @@
         },
         {
             "name": "V3_SolarPowerCrafting",
-            "folder_name": "1410_V3_SolarPowerCrafting",
+            "folder_name": "1420_V3_SolarPowerCrafting",
             "version": "3.0.0.0",
             "tier": 1,
             "nexus_id": "9348",
@@ -669,7 +683,7 @@
         },
         {
             "name": "3SlotForgeInput",
-            "folder_name": "1420_KHV1_3SlotForge",
+            "folder_name": "1430_KHV1_3SlotForge",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5542",
@@ -683,7 +697,7 @@
         },
         {
             "name": "TKC_Deconstructor",
-            "folder_name": "1430_TKC_Deconstructor",
+            "folder_name": "1440_TKC_Deconstructor",
             "version": "3.1.0",
             "tier": 1,
             "nexus_id": "11181",
@@ -697,7 +711,7 @@
         },
         {
             "name": "QuestPlus",
-            "folder_name": "1440_QuestPlus",
+            "folder_name": "1450_QuestPlus",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "10858",
@@ -711,7 +725,7 @@
         },
         {
             "name": "BetterPerks",
-            "folder_name": "1450_Better_perks_3_0",
+            "folder_name": "1460_Better_perks_3_0",
             "version": "9.7",
             "tier": 1,
             "nexus_id": "4067",
@@ -725,7 +739,7 @@
         },
         {
             "name": "BetterfullsetbonusesT1to6",
-            "folder_name": "1460_Better_full_armorset_bonuses_1_6_3_0",
+            "folder_name": "1470_Better_full_armorset_bonuses_1_6_3_0",
             "version": "3.8",
             "tier": 1,
             "nexus_id": "5181",
@@ -739,7 +753,7 @@
         },
         {
             "name": "Medical_conditions",
-            "folder_name": "1470_Medical_conditions",
+            "folder_name": "1480_Medical_conditions",
             "version": "1.4.0",
             "tier": 1,
             "nexus_id": "7322",
@@ -753,7 +767,7 @@
         },
         {
             "name": "Arrows_Bolts_Bullets_Cause_Bleed",
-            "folder_name": "1480_ArrowsAndBoltsCauseBleed",
+            "folder_name": "1490_ArrowsAndBoltsCauseBleed",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8416",
@@ -767,7 +781,7 @@
         },
         {
             "name": "BetterSpikes",
-            "folder_name": "1490_BetterSpikes5X",
+            "folder_name": "1500_BetterSpikes5X",
             "version": "1.0.4",
             "tier": 1,
             "nexus_id": "6645",
@@ -781,7 +795,7 @@
         },
         {
             "name": "Primitive_Farming_Style",
-            "folder_name": "1500_Primitive_Farming_Style",
+            "folder_name": "1510_Primitive_Farming_Style",
             "version": "2.2.2",
             "tier": 1,
             "nexus_id": "8154",
@@ -795,7 +809,7 @@
         },
         {
             "name": "FNS_Self-Planting_Trees",
-            "folder_name": "1510_FNS_Self_Planting_Trees",
+            "folder_name": "1520_FNS_Self_Planting_Trees",
             "version": "3.0.1.1",
             "tier": 1,
             "nexus_id": "5226",
@@ -809,7 +823,7 @@
         },
         {
             "name": "Khaines_Zombie_Reach_Adjustment",
-            "folder_name": "1520_Khaines_Zombie_Reach_Adjustment",
+            "folder_name": "1530_Khaines_Zombie_Reach_Adjustment",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5109",
@@ -823,7 +837,7 @@
         },
         {
             "name": "Valmars_Starter_Class_System",
-            "folder_name": "1530_Valmars_Starter_Class_System",
+            "folder_name": "1540_Valmars_Starter_Class_System",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "6112",
@@ -837,7 +851,7 @@
         },
         {
             "name": "Locks",
-            "folder_name": "1540_Locks",
+            "folder_name": "1550_Locks",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "8101",
@@ -851,7 +865,7 @@
         },
         {
             "name": "UndeadBounties",
-            "folder_name": "1550_UndeadBounties",
+            "folder_name": "1560_UndeadBounties",
             "version": "1",
             "tier": 1,
             "nexus_id": "11232",
@@ -865,7 +879,7 @@
         },
         {
             "name": "V3_VehicleModsCraftingSkill",
-            "folder_name": "1560_V3_VehicleModsCraftingSkill",
+            "folder_name": "1570_V3_VehicleModsCraftingSkill",
             "version": "3.0.0.0",
             "tier": 1,
             "nexus_id": "7375",
@@ -879,7 +893,7 @@
         },
         {
             "name": "V3_PartyStackSize",
-            "folder_name": "1570_V3_PartyStackSize",
+            "folder_name": "1580_V3_PartyStackSize",
             "version": "3.0.0.0",
             "tier": 1,
             "nexus_id": "7396",
@@ -893,7 +907,7 @@
         },
         {
             "name": "DewtasRandomKnockdownTime",
-            "folder_name": "1580_Dewtas_Random_Knockdown_Timer_2_5",
+            "folder_name": "1590_Dewtas_Random_Knockdown_Timer_2_5",
             "version": "V1.0",
             "tier": 1,
             "nexus_id": "5594",
@@ -907,7 +921,7 @@
         },
         {
             "name": "FNS_Vitamin_and_Painkiller_Recipe",
-            "folder_name": "1590_FNS_Vitamin_and_Painkiller_Recipes",
+            "folder_name": "1600_FNS_Vitamin_and_Painkiller_Recipes",
             "version": "3.0.1.1",
             "tier": 1,
             "nexus_id": "6233",
@@ -921,7 +935,7 @@
         },
         {
             "name": "FNS_Snow-2-H2O_Rope_and_Using_Murky_Water_in_Glue_Paint_and_Paper",
-            "folder_name": "1600_FNS_Dirty_Glue_and_Snow_2_H2O",
+            "folder_name": "1610_FNS_Dirty_Glue_and_Snow_2_H2O",
             "version": "3.0.1.1",
             "tier": 1,
             "nexus_id": "5532",
@@ -935,7 +949,7 @@
         },
         {
             "name": "Valmars_Working_Ovens_and_Sinks",
-            "folder_name": "1610_Valmars_Working_Ovens_and_Sinks",
+            "folder_name": "1620_Valmars_Working_Ovens_and_Sinks",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5994",
@@ -949,7 +963,7 @@
         },
         {
             "name": "Valmars_Buffed_Supply_Crate_Drops",
-            "folder_name": "1620_Valmars_Buffed_Supply_Crate_Drops",
+            "folder_name": "1630_Valmars_Buffed_Supply_Crate_Drops",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5987",
@@ -963,7 +977,7 @@
         },
         {
             "name": "CharcoalRevolution",
-            "folder_name": "1630_CharcoalRevolution",
+            "folder_name": "1640_CharcoalRevolution",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "6691",
@@ -977,7 +991,7 @@
         },
         {
             "name": "Stallionsden_Dont_you_dare_disappear",
-            "folder_name": "1640_Stallionsdens_Dont_you_dare_disappear",
+            "folder_name": "1650_Stallionsdens_Dont_you_dare_disappear",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5963",
@@ -991,7 +1005,7 @@
         },
         {
             "name": "Stallionsden_Everything_is_sellable",
-            "folder_name": "1650_Stallionsdens_Everything_is_Sellable",
+            "folder_name": "1660_Stallionsdens_Everything_is_Sellable",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5964",
@@ -1005,7 +1019,7 @@
         },
         {
             "name": "Stallionsdens_Extra_Recipes",
-            "folder_name": "1660_Stallionsdens_Extra_Recipes",
+            "folder_name": "1670_Stallionsdens_Extra_Recipes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "6006",
@@ -1019,7 +1033,7 @@
         },
         {
             "name": "Valmars_Survivor_Notes",
-            "folder_name": "1670_Valmars_Survivor_Notes",
+            "folder_name": "1680_Valmars_Survivor_Notes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5993",
@@ -1033,7 +1047,7 @@
         },
         {
             "name": "ISI-Mods-Unbound",
-            "folder_name": "1680_ISI_ModsUnbound3_0_1_6",
+            "folder_name": "1690_ISI_ModsUnbound3_0_1_6",
             "version": "3.0.1.6",
             "tier": 1,
             "nexus_id": "6466",
@@ -1047,7 +1061,7 @@
         },
         {
             "name": "Scomar82_Hobacs",
-            "folder_name": "1690_zzzScomar82_Hobacs",
+            "folder_name": "1700_zzzScomar82_Hobacs",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "5037",
@@ -1061,7 +1075,7 @@
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1700_Paradoxal_Gaming_tweaks",
+            "folder_name": "1710_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1075,7 +1089,7 @@
         },
         {
             "name": "RoadShapeFix",
-            "folder_name": "1710_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1720_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.0.3.0",
             "tier": 3,
             "nexus_id": "10710",
@@ -1089,7 +1103,7 @@
         },
         {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1720_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1730_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -1103,7 +1117,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1730_Colored_Custom_Descriptions",
+            "folder_name": "1740_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -1117,7 +1131,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1740_zzzNail_Realism",
+            "folder_name": "1750_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -1131,7 +1145,7 @@
         },
         {
             "name": "Combat_Sandbox_FLTR",
-            "folder_name": "1750_zzzCombatSandboxFLTR",
+            "folder_name": "1760_zzzCombatSandboxFLTR",
             "version": "3.0.1.0.0",
             "tier": 1,
             "nexus_id": "9980",
