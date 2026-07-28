@@ -211,8 +211,22 @@
             "hash": "666c34f7b6863be79145b32b1d93716554274d669b56750fa4f3131bcbad871e"
         },
         {
+            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1110_Zzzzxcp_CP_Classic_All_In_One",
+            "version": "3.0.3.0",
+            "tier": 1,
+            "nexus_id": "10710",
+            "nexus_file_id": "44496",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
+            "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94"
+        },
+        {
             "name": "DoubleGZombies3",
-            "folder_name": "1110_DoubleG_Zombies_3_3",
+            "folder_name": "1120_DoubleG_Zombies_3_3",
             "version": "1.3.4",
             "tier": 1,
             "nexus_id": "8212",
@@ -223,22 +237,6 @@
             "author": "Unknown Author",
             "folder_hash": "5f143e5bdabce35c3d58d5c0d16b7dd3843873ba7c1898f7149a1cf6371383d7",
             "hash": "5f143e5bdabce35c3d58d5c0d16b7dd3843873ba7c1898f7149a1cf6371383d7"
-        },
-        {
-            "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1120_Zzzzxcp_CP_Classic_All_In_One",
-            "version": "3.0.3.0",
-            "tier": 1,
-            "nexus_id": "10710",
-            "nexus_file_id": "40283",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
-            "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
-            "update_available": "3.1.3.1",
-            "update_file_id": "44496"
         },
         {
             "name": "DoubleGZombiesClassicsReanimated",
@@ -787,24 +785,8 @@
             "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
         },
         {
-            "name": "RoadShapeFix",
-            "folder_name": "1520_Zzzzxcp_CP_Classic_All_In_One",
-            "version": "3.0.3.0",
-            "tier": 3,
-            "nexus_id": "10710",
-            "nexus_file_id": "40283",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc",
-            "hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc",
-            "update_available": "3.1.3.1",
-            "update_file_id": "44496"
-        },
-        {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1530_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1520_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -818,7 +800,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1540_Colored_Custom_Descriptions",
+            "folder_name": "1530_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -832,7 +814,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1550_zzzNail_Realism",
+            "folder_name": "1540_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -843,6 +825,20 @@
             "author": "Unknown Author",
             "folder_hash": "96bb56969e82eb7060cc148c1dddae7a0e34e60cad3b247d01f30164e312056f",
             "hash": "96bb56969e82eb7060cc148c1dddae7a0e34e60cad3b247d01f30164e312056f"
+        },
+        {
+            "name": "RoadShapeFix",
+            "folder_name": "1550_Zzzzxcp_CP_Classic_All_In_One",
+            "version": "3.0.3.0",
+            "tier": 1,
+            "nexus_id": "10710",
+            "nexus_file_id": "40283",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc",
+            "hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc"
         },
         {
             "name": "Zero_Hour_Core",
