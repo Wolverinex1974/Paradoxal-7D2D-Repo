@@ -14,7 +14,7 @@
     },
     "server_info": {
         "ip": "35.142.67.196",
-        "port": "32570",
+        "port": "26900",
         "name": "Paradoxal Gaming 7D2D Vanilla Plus Server",
         "engine_branch": "public",
         "engine_build_id": "24392395"
@@ -85,22 +85,8 @@
             "hash": "703b35a1064a8c7d7abf2544bea1e7dc7384beb54f9a7f635d7742d096a7c295"
         },
         {
-            "name": "1020_0Alter_OverrideSounds",
-            "folder_name": "1020_0Alter_OverrideSounds",
-            "version": "1.0",
-            "tier": 1,
-            "nexus_id": "11059",
-            "nexus_file_id": "43439",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-        },
-        {
             "name": "AGF-HUDPlus-PurpleBook",
-            "folder_name": "1030_AGFHUDPlusPurpleBookv3_0_0",
+            "folder_name": "1020_AGFHUDPlusPurpleBookv3_0_0",
             "version": "3.2.0",
             "tier": 1,
             "nexus_id": "10948",
@@ -114,7 +100,7 @@
         },
         {
             "name": "AGF-BackpackPlus-084Slots",
-            "folder_name": "1040_AGFBackpackPlus084Slotsv4_1_1",
+            "folder_name": "1030_AGFBackpackPlus084Slotsv4_1_1",
             "version": "4.1.1",
             "tier": 1,
             "nexus_id": "11300",
@@ -128,7 +114,7 @@
         },
         {
             "name": "AGF-VP-LargerStorageOption",
-            "folder_name": "1050_AGF_VP_LargerStorageOption_v1_0_0",
+            "folder_name": "1040_AGF_VP_LargerStorageOption_v1_0_0",
             "version": "1.1.1",
             "tier": 1,
             "nexus_id": "10904",
@@ -142,7 +128,7 @@
         },
         {
             "name": "MPLogue_Better_Biomes_7D2D_v3_1",
-            "folder_name": "1060_MPLogue_Better_Biomes_7D2D_v3_1",
+            "folder_name": "1050_MPLogue_Better_Biomes_7D2D_v3_1",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "5366",
@@ -156,7 +142,7 @@
         },
         {
             "name": "MPLogue_Prefabs_7D2D_V3_1_1",
-            "folder_name": "1070_MPLogue_Prefabs_7D2D_V3_1_1",
+            "folder_name": "1060_MPLogue_Prefabs_7D2D_V3_1_1",
             "version": "3.1.1",
             "tier": 1,
             "nexus_id": "3436",
@@ -170,7 +156,7 @@
         },
         {
             "name": "MPLogue_UrbanDecay_7D2D_v3_1",
-            "folder_name": "1080_MPLogue_UrbanDecay_7D2D_v3_1",
+            "folder_name": "1070_MPLogue_UrbanDecay_7D2D_v3_1",
             "version": "3.1",
             "tier": 1,
             "nexus_id": "6867",
@@ -184,7 +170,7 @@
         },
         {
             "name": "ZZTong-Prefabs",
-            "folder_name": "1090_ZZTongPrefabs",
+            "folder_name": "1080_ZZTongPrefabs",
             "version": "V3.0-ZZ032",
             "tier": 1,
             "nexus_id": "1434",
@@ -195,6 +181,20 @@
             "author": "Unknown Author",
             "folder_hash": "245911d0f7beefb91772451bcfe327093aea2b5fb28436a94fa76981658ffe4d",
             "hash": "245911d0f7beefb91772451bcfe327093aea2b5fb28436a94fa76981658ffe4d"
+        },
+        {
+            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1090_Zzzzxcp_CP_Classic_All_In_One",
+            "version": "3.1.3.1",
+            "tier": 1,
+            "nexus_id": "10710",
+            "nexus_file_id": "44496",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8",
+            "hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8"
         },
         {
             "name": "MXMRMXsPOIPACK",
@@ -225,18 +225,18 @@
             "hash": "666c34f7b6863be79145b32b1d93716554274d669b56750fa4f3131bcbad871e"
         },
         {
-            "name": "Zzzzxcp_CP_Classic_All_In_One",
+            "name": "RoadShapeFix",
             "folder_name": "1120_Zzzzxcp_CP_Classic_All_In_One",
-            "version": "3.0.3.0",
-            "tier": 1,
+            "version": "3.1.3.1",
+            "tier": 3,
             "nexus_id": "10710",
-            "nexus_file_id": "40283",
+            "nexus_file_id": "44496",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94",
-            "hash": "b60b870f7e379968606cd0f79d0a584a174f3ffd690352d571b13d02a5706a94"
+            "folder_hash": "ece8a3d610c3ebc46d44dcdc2ade9bced7eef629d58c2fb95467e1d32a494cd8",
+            "hash": "ece8a3d610c3ebc46d44dcdc2ade9bced7eef629d58c2fb95467e1d32a494cd8"
         },
         {
             "name": "DoubleGZombies3",
@@ -244,7 +244,7 @@
             "version": "1.3.4",
             "tier": 1,
             "nexus_id": "8212",
-            "nexus_file_id": "40275",
+            "nexus_file_id": "44147",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
@@ -799,22 +799,8 @@
             "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
         },
         {
-            "name": "RoadShapeFix",
-            "folder_name": "1530_Zzzzxcp_CP_Classic_All_In_One",
-            "version": "3.0.3.0",
-            "tier": 3,
-            "nexus_id": "10710",
-            "nexus_file_id": "40283",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc",
-            "hash": "f4937fb824e62f51d16ea00f977c514eeda1b858597c7b0bca8a42f9c5f380cc"
-        },
-        {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1540_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1530_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -828,7 +814,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1550_Colored_Custom_Descriptions",
+            "folder_name": "1540_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -842,7 +828,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1560_zzzNail_Realism",
+            "folder_name": "1550_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
