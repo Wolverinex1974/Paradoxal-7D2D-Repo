@@ -68,7 +68,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "664eb58f83646c635e68f4a188cf1f4372a09cd70242c838c983daf5bf7f8d84",
-            "hash": "664eb58f83646c635e68f4a188cf1f4372a09cd70242c838c983daf5bf7f8d84"
+            "hash": "664eb58f83646c635e68f4a188cf1f4372a09cd70242c838c983daf5bf7f8d84",
+            "update_available": "13a",
+            "update_file_id": "44679"
         },
         {
             "name": "Bdubs_Vehicles",
@@ -222,7 +224,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "d32fefc78aa4829e0884c07ce338af9bea9ce583f09efe9ed343323f775d88ad",
-            "hash": "d32fefc78aa4829e0884c07ce338af9bea9ce583f09efe9ed343323f775d88ad"
+            "hash": "d32fefc78aa4829e0884c07ce338af9bea9ce583f09efe9ed343323f775d88ad",
+            "update_available": "1.17",
+            "update_file_id": "44901"
         },
         {
             "name": "LazyMod",
@@ -418,7 +422,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "a6c1676e0d5aa141f8b1f8783c38fc291ecb77dd588f0799585bc345bf5162e7",
-            "hash": "a6c1676e0d5aa141f8b1f8783c38fc291ecb77dd588f0799585bc345bf5162e7"
+            "hash": "a6c1676e0d5aa141f8b1f8783c38fc291ecb77dd588f0799585bc345bf5162e7",
+            "update_available": "3.1.0",
+            "update_file_id": "41522"
         },
         {
             "name": "V3_OakravenPowerThings",
@@ -432,7 +438,23 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "30057cdcb1bd739d823c5025ed209cfc1c425ad7d91b3e3ca68b1fb42f2eac71",
-            "hash": "30057cdcb1bd739d823c5025ed209cfc1c425ad7d91b3e3ca68b1fb42f2eac71"
+            "hash": "30057cdcb1bd739d823c5025ed209cfc1c425ad7d91b3e3ca68b1fb42f2eac71",
+            "update_available": "3.1.0",
+            "update_file_id": "41363"
+        },
+        {
+            "name": "CarnivoresDelight",
+            "folder_name": "1270_NDRCarnivoresDelight2_0_0",
+            "version": "1.0.1",
+            "tier": 1,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "0c91019f91c28f9301a1408ba5fa31020718ce515e5b5da47e2a09cb2b38b1c6",
+            "hash": "0c91019f91c28f9301a1408ba5fa31020718ce515e5b5da47e2a09cb2b38b1c6"
         },
         {
             "name": "V3_SolarPowerCrafting",
@@ -446,7 +468,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "954dd7febcd572820446ef78276ed01b72cb4f847d38e2ffe8c063b60081375e",
-            "hash": "954dd7febcd572820446ef78276ed01b72cb4f847d38e2ffe8c063b60081375e"
+            "hash": "954dd7febcd572820446ef78276ed01b72cb4f847d38e2ffe8c063b60081375e",
+            "update_available": "3.1.0",
+            "update_file_id": "40571"
         },
         {
             "name": "3SlotForgeInput",
@@ -642,7 +666,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "13c0ce1ee981c08fad38751bfe0d838bfacccd0c2a390ba66f19dfba88b61512",
-            "hash": "13c0ce1ee981c08fad38751bfe0d838bfacccd0c2a390ba66f19dfba88b61512"
+            "hash": "13c0ce1ee981c08fad38751bfe0d838bfacccd0c2a390ba66f19dfba88b61512",
+            "update_available": "3.1.0",
+            "update_file_id": "40578"
         },
         {
             "name": "V3_PartyStackSize",
@@ -656,7 +682,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "c1466724c7bc08979f11266d956173b27be4c89ea6a34f0d0d925931c628489a",
-            "hash": "c1466724c7bc08979f11266d956173b27be4c89ea6a34f0d0d925931c628489a"
+            "hash": "c1466724c7bc08979f11266d956173b27be4c89ea6a34f0d0d925931c628489a",
+            "update_available": "3.1.0",
+            "update_file_id": "40619"
         },
         {
             "name": "DewtasRandomKnockdownTime",
