@@ -883,6 +883,20 @@
             "hash": "96bb56969e82eb7060cc148c1dddae7a0e34e60cad3b247d01f30164e312056f"
         },
         {
+            "name": "EFArrowsnBolts",
+            "folder_name": "590_ExplodingFlamingArrowsBolts",
+            "version": "1.0.0",
+            "tier": 1,
+            "nexus_id": "11799",
+            "nexus_file_id": "44999",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "510df8e44fddd4eaff639e9b404916c8b4a57eed46b8a9c7d888dd6fa07aaf51",
+            "hash": "510df8e44fddd4eaff639e9b404916c8b4a57eed46b8a9c7d888dd6fa07aaf51"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
