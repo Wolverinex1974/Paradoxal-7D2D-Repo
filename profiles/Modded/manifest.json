@@ -925,6 +925,20 @@
             "hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c"
         },
         {
+            "name": "WMMZAirdropSpawnZeds",
+            "folder_name": "610_WMMZAirdropSpawnZeds",
+            "version": "3.1.13.1",
+            "tier": 1,
+            "nexus_id": "4174",
+            "nexus_file_id": "44515",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "25b475b4c7bcda54a4f159f760565bef92e0ebc8d2cb4b038d080ce351e142df",
+            "hash": "25b475b4c7bcda54a4f159f760565bef92e0ebc8d2cb4b038d080ce351e142df"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
