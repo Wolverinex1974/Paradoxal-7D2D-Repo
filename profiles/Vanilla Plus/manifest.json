@@ -68,7 +68,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "664eb58f83646c635e68f4a188cf1f4372a09cd70242c838c983daf5bf7f8d84",
-            "hash": "664eb58f83646c635e68f4a188cf1f4372a09cd70242c838c983daf5bf7f8d84"
+            "hash": "664eb58f83646c635e68f4a188cf1f4372a09cd70242c838c983daf5bf7f8d84",
+            "update_available": "13a",
+            "update_file_id": "44679"
         },
         {
             "name": "Bdubs_Vehicles",
@@ -479,7 +481,7 @@
         {
             "name": "TKC_Deconstructor",
             "folder_name": "1300_TKC_Deconstructor",
-            "version": "3.1.0",
+            "version": "3.1.8",
             "tier": 1,
             "nexus_id": "11181",
             "nexus_file_id": "44788",
@@ -487,22 +489,22 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "d2f4c82c4adf182ef1910efc8a6c572c93282f062de1ffe9386fff2ab2afcd10",
-            "hash": "d2f4c82c4adf182ef1910efc8a6c572c93282f062de1ffe9386fff2ab2afcd10"
+            "folder_hash": "9d536866e0393b88d8b1586587a914fafb1e745b5efc8fd0ea58be146500bfec",
+            "hash": "9d536866e0393b88d8b1586587a914fafb1e745b5efc8fd0ea58be146500bfec"
         },
         {
             "name": "QuestPlus",
             "folder_name": "1310_QuestPlus",
-            "version": "3.0",
+            "version": "3.1.1",
             "tier": 1,
             "nexus_id": "10858",
-            "nexus_file_id": "41143",
+            "nexus_file_id": "45105",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "92a56532294545fe6963c190fe886cbc52c2ab4c441b656711b14089b2e032b2",
-            "hash": "92a56532294545fe6963c190fe886cbc52c2ab4c441b656711b14089b2e032b2"
+            "folder_hash": "edd31c663dd904774b40222629e3cb412d441a64349247ef3497e678a984e919",
+            "hash": "edd31c663dd904774b40222629e3cb412d441a64349247ef3497e678a984e919"
         },
         {
             "name": "BetterPerks",
@@ -871,7 +873,7 @@
         {
             "name": "EFArrowsnBolts",
             "folder_name": "1580_ExplodingFlamingArrowsBolts",
-            "version": "1.0.0",
+            "version": "1.1",
             "tier": 1,
             "nexus_id": "11799",
             "nexus_file_id": "44999",
@@ -879,8 +881,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "510df8e44fddd4eaff639e9b404916c8b4a57eed46b8a9c7d888dd6fa07aaf51",
-            "hash": "510df8e44fddd4eaff639e9b404916c8b4a57eed46b8a9c7d888dd6fa07aaf51"
+            "folder_hash": "1364fa6e1179dcb117ff96573fa62704948424c986b678bf2faa870ff796d33a",
+            "hash": "1364fa6e1179dcb117ff96573fa62704948424c986b678bf2faa870ff796d33a"
         },
         {
             "name": "Zero_Hour_Core",
