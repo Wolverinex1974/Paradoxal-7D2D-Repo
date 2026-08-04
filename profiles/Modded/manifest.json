@@ -953,6 +953,20 @@
             "hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8"
         },
         {
+            "name": "Ores_Refining",
+            "folder_name": "640_Ores_Refining",
+            "version": "1.0.1",
+            "tier": 1,
+            "nexus_id": "11639",
+            "nexus_file_id": "44356",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "6bccce5c91e504ea1fe752f07b05bf8841cd80a71f43afcda484cf02a08e022b",
+            "hash": "6bccce5c91e504ea1fe752f07b05bf8841cd80a71f43afcda484cf02a08e022b"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
