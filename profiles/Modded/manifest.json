@@ -505,20 +505,6 @@
             "hash": "57786feddbb77c4e0ec037634228f1f24f1415d2a6ce8f0903513cde4cf3244a"
         },
         {
-            "name": "3SlotForgeInput",
-            "folder_name": "1320_KHV1_3SlotForge",
-            "version": "3.0.1.2",
-            "tier": 1,
-            "nexus_id": "5542",
-            "nexus_file_id": "40468",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "4e180c115febabfc8a899a7f472ba995c4d2d55170ac008b10d5ca86f067a4b1",
-            "hash": "4e180c115febabfc8a899a7f472ba995c4d2d55170ac008b10d5ca86f067a4b1"
-        },
-        {
             "name": "TKC_Deconstructor",
             "folder_name": "1330_TKC_Deconstructor",
             "version": "3.1.0",
@@ -923,20 +909,6 @@
             "author": "Unknown Author",
             "folder_hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c",
             "hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c"
-        },
-        {
-            "name": "Encumbrance",
-            "folder_name": "610_PaLoALoV3WeightAMinute",
-            "version": "3.0.0.2",
-            "tier": 1,
-            "nexus_id": "9137",
-            "nexus_file_id": "43415",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8",
-            "hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8"
         },
         {
             "name": "WMMZAirdropSpawnZeds",
