@@ -925,6 +925,20 @@
             "hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c"
         },
         {
+            "name": "Encumbrance",
+            "folder_name": "610_PaLoALoV3WeightAMinute",
+            "version": "3.0.0.2",
+            "tier": 1,
+            "nexus_id": "9137",
+            "nexus_file_id": "43415",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8",
+            "hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8"
+        },
+        {
             "name": "WMMZAirdropSpawnZeds",
             "folder_name": "610_WMMZAirdropSpawnZeds",
             "version": "3.1.13.1",
