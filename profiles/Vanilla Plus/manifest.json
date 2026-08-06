@@ -605,6 +605,20 @@
             "hash": "bbf5795d012a6716b4c728dac7b695b3b57b766abcd289eb9c381c2bfff81488"
         },
         {
+            "name": "Ores_Refining",
+            "folder_name": "1385_Ores_Refining",
+            "version": "1.0.1",
+            "tier": 1,
+            "nexus_id": "11639",
+            "nexus_file_id": "44356",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "6bccce5c91e504ea1fe752f07b05bf8841cd80a71f43afcda484cf02a08e022b",
+            "hash": "6bccce5c91e504ea1fe752f07b05bf8841cd80a71f43afcda484cf02a08e022b"
+        },
+        {
             "name": "Khaines_Zombie_Reach_Adjustment",
             "folder_name": "1390_Khaines_Zombie_Reach_Adjustment",
             "version": "3.0.1.2",
