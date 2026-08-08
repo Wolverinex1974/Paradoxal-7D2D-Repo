@@ -983,6 +983,20 @@
             "hash": "745e8cbdbad8436cf347cccddf36e18fea1856f2a6469fafe8b30871a67decac"
         },
         {
+            "name": "Locks",
+            "folder_name": "660_Locks",
+            "version": "3.0.0",
+            "tier": 1,
+            "nexus_id": "8101",
+            "nexus_file_id": "41864",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "c26e82b4e5fc41088d9607a52a3058bad6886a7113b8f78ba9f00842a73f8145",
+            "hash": "c26e82b4e5fc41088d9607a52a3058bad6886a7113b8f78ba9f00842a73f8145"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
