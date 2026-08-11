@@ -59,7 +59,7 @@
         {
             "name": "Ores_Refining",
             "folder_name": "1000_Ores_Refining",
-            "version": "1.0.1",
+            "version": "1.1",
             "tier": 1,
             "nexus_id": "11639",
             "nexus_file_id": "44356",
@@ -67,8 +67,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "6bccce5c91e504ea1fe752f07b05bf8841cd80a71f43afcda484cf02a08e022b",
-            "hash": "6bccce5c91e504ea1fe752f07b05bf8841cd80a71f43afcda484cf02a08e022b"
+            "folder_hash": "90b86013a6a0f51f80c4022cdfce3af55351b4c31da5e1ccdd22184db659eda4",
+            "hash": "90b86013a6a0f51f80c4022cdfce3af55351b4c31da5e1ccdd22184db659eda4"
         },
         {
             "name": "PGzUltimateRWGV3",
@@ -270,7 +270,7 @@
         },
         {
             "name": "LazyMod",
-            "folder_name": "1140_Lazy_poi_pack_3_0",
+            "folder_name": "1150_Lazy_poi_pack_3_0",
             "version": "1.0.0.9.9",
             "tier": 1,
             "nexus_id": "5531",
@@ -326,7 +326,7 @@
         },
         {
             "name": "LittleRedSonja_FancyZombieVariants",
-            "folder_name": "1180_LittleRedSonja_FancyZombieVariants_FULLQUALITY",
+            "folder_name": "1190_LittleRedSonja_FancyZombieVariants_FULLQUALITY",
             "version": "1.2.0",
             "tier": 1,
             "nexus_id": "7408",
@@ -537,7 +537,7 @@
         {
             "name": "BetterPerks",
             "folder_name": "1340_Better_perks_3_0",
-            "version": "9.8",
+            "version": "9.7",
             "tier": 1,
             "nexus_id": "4067",
             "nexus_file_id": "40684",
@@ -545,8 +545,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "b334b995e3d5f4b5664e2447fef1547c9150d52585caa6c3bbddac5c9a613065",
-            "hash": "b334b995e3d5f4b5664e2447fef1547c9150d52585caa6c3bbddac5c9a613065"
+            "folder_hash": "1eca85b6371ecc157ff9727332f3effdd39e885f4b5e5010799b72e58e02e3e9",
+            "hash": "1eca85b6371ecc157ff9727332f3effdd39e885f4b5e5010799b72e58e02e3e9"
         },
         {
             "name": "BetterfullsetbonusesT1to6",
