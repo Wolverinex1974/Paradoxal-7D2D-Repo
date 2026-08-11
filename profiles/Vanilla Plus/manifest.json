@@ -521,20 +521,6 @@
             "hash": "9d536866e0393b88d8b1586587a914fafb1e745b5efc8fd0ea58be146500bfec"
         },
         {
-            "name": "QuestPlus",
-            "folder_name": "1330_QuestPlus",
-            "version": "3.1.1",
-            "tier": 1,
-            "nexus_id": "10858",
-            "nexus_file_id": "45105",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "edd31c663dd904774b40222629e3cb412d441a64349247ef3497e678a984e919",
-            "hash": "edd31c663dd904774b40222629e3cb412d441a64349247ef3497e678a984e919"
-        },
-        {
             "name": "BetterPerks",
             "folder_name": "1340_Better_perks_3_0",
             "version": "9.9",
