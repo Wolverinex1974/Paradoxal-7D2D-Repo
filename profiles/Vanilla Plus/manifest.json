@@ -243,16 +243,16 @@
         {
             "name": "MXMRMXsPOIPACK",
             "folder_name": "1130_MXMRMXsPOIPACKV1_16_1",
-            "version": "1.16.1",
+            "version": "1.17",
             "tier": 1,
             "nexus_id": "8409",
-            "nexus_file_id": "42607",
+            "nexus_file_id": "44901",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "d32fefc78aa4829e0884c07ce338af9bea9ce583f09efe9ed343323f775d88ad",
-            "hash": "d32fefc78aa4829e0884c07ce338af9bea9ce583f09efe9ed343323f775d88ad"
+            "folder_hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7",
+            "hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7"
         },
         {
             "name": "DoubleGZombies3",
@@ -467,7 +467,7 @@
         {
             "name": "CarnivoresDelight",
             "folder_name": "1290_NDRCarnivoresDelight2_0_0",
-            "version": "2.0.1",
+            "version": "2.0.3",
             "tier": 1,
             "nexus_id": "11349",
             "nexus_file_id": "45374",
@@ -475,8 +475,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "6f49047e544f12222546f8924a2a4cb3ddf7b09360fc172eacc2b0f5c472014a",
-            "hash": "6f49047e544f12222546f8924a2a4cb3ddf7b09360fc172eacc2b0f5c472014a"
+            "folder_hash": "05fb5708842dfd0c8ec83ac5bb070906c3e5e9eb554814750af72499e0c21944",
+            "hash": "05fb5708842dfd0c8ec83ac5bb070906c3e5e9eb554814750af72499e0c21944"
         },
         {
             "name": "V3_SolarPowerCrafting",
@@ -537,16 +537,16 @@
         {
             "name": "BetterPerks",
             "folder_name": "1340_Better_perks_3_0",
-            "version": "9.7",
+            "version": "9.9",
             "tier": 1,
             "nexus_id": "4067",
-            "nexus_file_id": "40684",
+            "nexus_file_id": "45375",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "1eca85b6371ecc157ff9727332f3effdd39e885f4b5e5010799b72e58e02e3e9",
-            "hash": "1eca85b6371ecc157ff9727332f3effdd39e885f4b5e5010799b72e58e02e3e9"
+            "folder_hash": "7ef02b6a7ba2e9d7458cc0ae126dd1192ea6fcd21a25d14a2584d3533539f545",
+            "hash": "7ef02b6a7ba2e9d7458cc0ae126dd1192ea6fcd21a25d14a2584d3533539f545"
         },
         {
             "name": "BetterfullsetbonusesT1to6",
@@ -901,16 +901,16 @@
         {
             "name": "EFArrowsnBolts",
             "folder_name": "1600_ExplodingFlamingArrowsBolts",
-            "version": "1.1",
+            "version": "1.2",
             "tier": 1,
             "nexus_id": "11799",
-            "nexus_file_id": "44999",
+            "nexus_file_id": "45139",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "1364fa6e1179dcb117ff96573fa62704948424c986b678bf2faa870ff796d33a",
-            "hash": "1364fa6e1179dcb117ff96573fa62704948424c986b678bf2faa870ff796d33a"
+            "folder_hash": "05ebde6d6e02308321b8eb4211a734334240f0106a69e88c35646933644fb62e",
+            "hash": "05ebde6d6e02308321b8eb4211a734334240f0106a69e88c35646933644fb62e"
         },
         {
             "name": "Zero_Hour_Core",
