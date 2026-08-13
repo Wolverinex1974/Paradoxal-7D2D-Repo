@@ -86,7 +86,7 @@
         },
         {
             "name": "Alter_Soundoverride",
-            "folder_name": "1015_Alter_Soundoverride",
+            "folder_name": "1020_Alter_Soundoverride",
             "version": "3.0.6.0.0",
             "tier": 1,
             "nexus_id": "11059",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Quartz",
-            "folder_name": "1020_0Quartz",
+            "folder_name": "1030_0Quartz",
             "version": "8.0.1",
             "tier": 1,
             "nexus_id": "2409",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Gears",
-            "folder_name": "1030_00000Gears",
+            "folder_name": "1040_00000Gears",
             "version": "7.0.1",
             "tier": 1,
             "nexus_id": "4017",
@@ -128,7 +128,7 @@
         },
         {
             "name": "PGzUltimateRWGV3",
-            "folder_name": "1040_PGzUltimateRWGV3",
+            "folder_name": "1050_PGzUltimateRWGV3",
             "version": "13a",
             "tier": 1,
             "nexus_id": "10917",
@@ -142,7 +142,7 @@
         },
         {
             "name": "RealismOverhaulCORE",
-            "folder_name": "1050_0Zipp0osRealismOverhaulCore",
+            "folder_name": "1060_0Zipp0osRealismOverhaulCore",
             "version": "1.0.6",
             "tier": 1,
             "nexus_id": "10303",
@@ -153,20 +153,6 @@
             "author": "Unknown Author",
             "folder_hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c",
             "hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c"
-        },
-        {
-            "name": "Encumbrance",
-            "folder_name": "1060_PaLoALoV3WeightAMinute",
-            "version": "3.0.0.2",
-            "tier": 1,
-            "nexus_id": "9137",
-            "nexus_file_id": "43415",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8",
-            "hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8"
         },
         {
             "name": "Ores_Refining",
@@ -925,8 +911,22 @@
             "hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470"
         },
         {
+            "name": "Encumbrance",
+            "folder_name": "1610_PaLoALoV3WeightAMinute",
+            "version": "3.0.0.2",
+            "tier": 1,
+            "nexus_id": "9137",
+            "nexus_file_id": "43415",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8",
+            "hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8"
+        },
+        {
             "name": "Stallionsdens_Extra_Recipes",
-            "folder_name": "1610_Stallionsdens_Extra_Recipes",
+            "folder_name": "1620_Stallionsdens_Extra_Recipes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "6006",
@@ -940,7 +940,7 @@
         },
         {
             "name": "Valmars_Survivor_Notes",
-            "folder_name": "1620_Valmars_Survivor_Notes",
+            "folder_name": "1630_Valmars_Survivor_Notes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5993",
@@ -954,7 +954,7 @@
         },
         {
             "name": "Scomar82_Hobacs",
-            "folder_name": "1630_zzzScomar82_Hobacs",
+            "folder_name": "1640_zzzScomar82_Hobacs",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "5037",
@@ -968,7 +968,7 @@
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1640_Paradoxal_Gaming_tweaks",
+            "folder_name": "1650_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -982,7 +982,7 @@
         },
         {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1650_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1660_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -996,7 +996,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1660_Colored_Custom_Descriptions",
+            "folder_name": "1670_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -1010,7 +1010,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1670_zzzNail_Realism",
+            "folder_name": "1680_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -1024,7 +1024,7 @@
         },
         {
             "name": "RemoteTraderFramework",
-            "folder_name": "1680_RemoteTraderNetwork_v1_0_1",
+            "folder_name": "1690_RemoteTraderNetwork_v1_0_1",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11802",
@@ -1038,7 +1038,7 @@
         },
         {
             "name": "WMMZAirdropSpawnZeds",
-            "folder_name": "1690_WMMZAirdropSpawnZeds",
+            "folder_name": "1700_WMMZAirdropSpawnZeds",
             "version": "3.1.13.1",
             "tier": 1,
             "nexus_id": "4174",
@@ -1052,7 +1052,7 @@
         },
         {
             "name": "EFArrowsnBolts",
-            "folder_name": "1700_ExplodingFlamingArrowsBolts",
+            "folder_name": "1710_ExplodingFlamingArrowsBolts",
             "version": "1.2",
             "tier": 1,
             "nexus_id": "11799",
@@ -1066,7 +1066,7 @@
         },
         {
             "name": "Locks",
-            "folder_name": "1710_Locks",
+            "folder_name": "1720_Locks",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "8101",
@@ -1080,7 +1080,7 @@
         },
         {
             "name": "Combat_Sandbox_FLTR",
-            "folder_name": "1720_zzzCombatSandboxFLTR",
+            "folder_name": "1730_zzzCombatSandboxFLTR",
             "version": "3.0.1.0.0",
             "tier": 1,
             "nexus_id": "9980",
