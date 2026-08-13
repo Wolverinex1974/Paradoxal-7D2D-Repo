@@ -85,6 +85,20 @@
             "hash": "42872e4a73433173e754dad82ee92382debbbbeec2378af3cda7ae9f21396d64"
         },
         {
+            "name": "Alter_Soundoverride",
+            "folder_name": "1015_Alter_Soundoverride",
+            "version": "3.0.6.0.0",
+            "tier": 1,
+            "nexus_id": "11059",
+            "nexus_file_id": "43439",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "6f56fdac5fe02d7d1ca473b33a4cda4c5fd83e3e5fa4dfc3ce902ab17c5e8ee6",
+            "hash": "6f56fdac5fe02d7d1ca473b33a4cda4c5fd83e3e5fa4dfc3ce902ab17c5e8ee6"
+        },
+        {
             "name": "Quartz",
             "folder_name": "1020_0Quartz",
             "version": "8.0.1",
@@ -1077,20 +1091,6 @@
             "author": "Unknown Author",
             "folder_hash": "d5890b4d7dc33f0b4df64e3f910573c1b28cd2ad31f998bbfc2f66f6f328e01f",
             "hash": "d5890b4d7dc33f0b4df64e3f910573c1b28cd2ad31f998bbfc2f66f6f328e01f"
-        },
-        {
-            "name": "Alter_Soundoverride",
-            "folder_name": "1730_Alter_Soundoverride",
-            "version": "3.0.6.0.0",
-            "tier": 1,
-            "nexus_id": "11059",
-            "nexus_file_id": "43439",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "6f56fdac5fe02d7d1ca473b33a4cda4c5fd83e3e5fa4dfc3ce902ab17c5e8ee6",
-            "hash": "6f56fdac5fe02d7d1ca473b33a4cda4c5fd83e3e5fa4dfc3ce902ab17c5e8ee6"
         },
         {
             "name": "Zero_Hour_Core",
