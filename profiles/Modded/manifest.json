@@ -67,8 +67,15 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "0c29e21e57f6c7ecbc7aa230a6de0e793c727e82d23d641807f93297d6c0254d",
-            "hash": "0c29e21e57f6c7ecbc7aa230a6de0e793c727e82d23d641807f93297d6c0254d"
+            "folder_hash": "5cd8cddfff58b8f61be4be15305b981d652029afaa7dc19ae477803e814d6768",
+            "hash": "5cd8cddfff58b8f61be4be15305b981d652029afaa7dc19ae477803e814d6768",
+            "mutations": [
+                {
+                    "file": "Config\\blocks.xml",
+                    "search": "<property name=\"Encumbrance\" value=\"true\"/>",
+                    "replace": "<property name=\"Encumbrance\" value=\"true\"/>"
+                }
+            ]
         },
         {
             "name": "Izayo_WeaponFixes",
