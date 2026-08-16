@@ -806,20 +806,6 @@
             "hash": "925265b52fe4de20285674cff28fb8ebedc63b41743c5cd9f3a633aecf4c547a"
         },
         {
-            "name": "V3_PartyStackSize",
-            "folder_name": "1530_V3_PartyStackSize",
-            "version": "3.1.0",
-            "tier": 1,
-            "nexus_id": "7396",
-            "nexus_file_id": "40619",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "fa0c997e94db00be092b6364f0527794f590015c771b64c7bc7bd319a8b46469",
-            "hash": "fa0c997e94db00be092b6364f0527794f590015c771b64c7bc7bd319a8b46469"
-        },
-        {
             "name": "DewtasRandomKnockdownTime",
             "folder_name": "1540_Dewtas_Random_Knockdown_Timer_2_5",
             "version": "V1.0",
