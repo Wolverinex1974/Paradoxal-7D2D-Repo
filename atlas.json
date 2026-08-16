@@ -4,5 +4,11 @@
         "display_name": "Vanilla Plus",
         "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/profiles/Vanilla%20Plus/manifest.json",
         "status_flag": "ONLINE"
+    },
+    {
+        "profile_id": "1881f1a632d0b3873483a61e7a0f3f09",
+        "display_name": "Modded",
+        "manifest_url": "https://raw.githubusercontent.com/Wolverinex1974/Paradoxal-7D2D-Repo/main/profiles/Modded/manifest.json",
+        "status_flag": "ONLINE"
     }
 ]
