@@ -1107,15 +1107,15 @@
             "name": "ZZZ_ZeroHour_StackSize",
             "folder_name": "ZZZ_ZeroHour_StackSize",
             "version": "1.0",
-            "tier": 3,
+            "tier": 1,
             "nexus_id": "Unlinked",
             "nexus_file_id": "None",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "63f0f65291bee8acbb3b1d0eca05983b16eb7446d50e3934ffde69f87c915419",
-            "hash": "63f0f65291bee8acbb3b1d0eca05983b16eb7446d50e3934ffde69f87c915419"
+            "folder_hash": "a7e81e4d3b0454a3805e7adbf6ba43ccd0a9eebc57a619ce9adc9ee818d85c06",
+            "hash": "a7e81e4d3b0454a3805e7adbf6ba43ccd0a9eebc57a619ce9adc9ee818d85c06"
         }
     ]
 }
