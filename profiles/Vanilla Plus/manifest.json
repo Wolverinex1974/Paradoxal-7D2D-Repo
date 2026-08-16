@@ -897,6 +897,20 @@
             "hash": "36c7526fed898608023a402b28b5513babb859ac8a60c5ca8ebe8ad73946a134"
         },
         {
+            "name": "V3_PartyStackSize",
+            "folder_name": "1600_V3PartyStackSize",
+            "version": "3.0.0.0",
+            "tier": 1,
+            "nexus_id": "7396",
+            "nexus_file_id": "40619",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "e4e57cb929d29818f5043bda33cb793acb559c2a1fd3e61ee231d7f7564b6596",
+            "hash": "e4e57cb929d29818f5043bda33cb793acb559c2a1fd3e61ee231d7f7564b6596"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
@@ -913,20 +927,6 @@
             "folder_hash": "2f55225294d0cbf4ee2a1b688d1ddfe44cae617f2bb7d6530ff153af0f5762e5",
             "is_disabled": false,
             "dependencies": []
-        },
-        {
-            "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "ZZZ_ZeroHour_StackSize",
-            "version": "1.0",
-            "tier": 1,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "c9b3e3190027e60cee0189bc44b2b8df66a6c1dbd6b78391262ebc75a6e64b91",
-            "hash": "c9b3e3190027e60cee0189bc44b2b8df66a6c1dbd6b78391262ebc75a6e64b91"
         }
     ]
 }
