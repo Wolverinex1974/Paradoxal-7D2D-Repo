@@ -939,6 +939,20 @@
             "hash": "96a4c15c115903471231098aed0ae50d6945bc567c5e835b34f1e2f49db2e311"
         },
         {
+            "name": "TiaoZaoMiniMap",
+            "folder_name": "1630_TiaoZaoMiniMap",
+            "version": "3.8",
+            "tier": 1,
+            "nexus_id": "7732",
+            "nexus_file_id": "42864",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1",
+            "hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
