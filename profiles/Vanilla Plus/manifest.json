@@ -13,7 +13,7 @@
         "registry_overrides": {}
     },
     "server_info": {
-        "ip": "35.142.67.196",
+        "ip": "35.143.228.158",
         "port": "32570",
         "name": "Paradoxal Gaming 7D2D Vanilla Plus Server",
         "engine_branch": "public",
@@ -87,16 +87,16 @@
         {
             "name": "Bdubs_Vehicles",
             "folder_name": "1020_BdubsVehicles",
-            "version": "3.0.2.3",
+            "version": "3.1.0.1",
             "tier": 1,
             "nexus_id": "342",
-            "nexus_file_id": "43523",
+            "nexus_file_id": "45680",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "9ce8b72ba3ef1a125d2ad183083e06bee3f6afae7c656a1c640a5f6832e009b2",
-            "hash": "9ce8b72ba3ef1a125d2ad183083e06bee3f6afae7c656a1c640a5f6832e009b2"
+            "folder_hash": "db9c2022c4b1ea442c4c9551e74f30171ba537420c667341e745e8b18f814904",
+            "hash": "db9c2022c4b1ea442c4c9551e74f30171ba537420c667341e745e8b18f814904"
         },
         {
             "name": "AGF-HUDPlus-1Main",
@@ -897,20 +897,6 @@
             "hash": "36c7526fed898608023a402b28b5513babb859ac8a60c5ca8ebe8ad73946a134"
         },
         {
-            "name": "V3_PartyStackSize",
-            "folder_name": "1600_V3PartyStackSize",
-            "version": "3.0.0.0",
-            "tier": 1,
-            "nexus_id": "7396",
-            "nexus_file_id": "40619",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "e4e57cb929d29818f5043bda33cb793acb559c2a1fd3e61ee231d7f7564b6596",
-            "hash": "e4e57cb929d29818f5043bda33cb793acb559c2a1fd3e61ee231d7f7564b6596"
-        },
-        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
@@ -927,6 +913,20 @@
             "folder_hash": "2f55225294d0cbf4ee2a1b688d1ddfe44cae617f2bb7d6530ff153af0f5762e5",
             "is_disabled": false,
             "dependencies": []
+        },
+        {
+            "name": "ZZZ_ZeroHour_StackSize",
+            "folder_name": "ZZZ_ZeroHour_StackSize",
+            "version": "1.0",
+            "tier": 1,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "96a4c15c115903471231098aed0ae50d6945bc567c5e835b34f1e2f49db2e311",
+            "hash": "96a4c15c115903471231098aed0ae50d6945bc567c5e835b34f1e2f49db2e311"
         }
     ]
 }
