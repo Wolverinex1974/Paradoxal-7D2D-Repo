@@ -977,8 +977,15 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1",
-            "hash": "a1fed8b644e4dd23a315abbd32d5f416eebb1d7d664c8781841699f3a847f1d1"
+            "folder_hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
+            "hash": "7310bdfb56c042954c8ab40886587d113a281073f1d09ed0d20d0c22bbda1ce4",
+            "mutations": [
+                {
+                    "file": "TiaoZaoMiniMap.xml",
+                    "search": "<Property name=\"ShowEnemyIcons\" value=\"true\" />",
+                    "replace": "<Property name=\"ShowEnemyIcons\" value=\"false\" />"
+                }
+            ]
         },
         {
             "name": "zzzAGF-Special-Compatibilities",
@@ -1011,18 +1018,18 @@
         {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
-            "version": "1.0",
+            "version": "3.0.0",
             "last_updated": "2026-07-07",
             "nexus_id": "",
             "nexus_file_id": "",
             "last_checked_date": "Never",
-            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "hash": "2f55225294d0cbf4ee2a1b688d1ddfe44cae617f2bb7d6530ff153af0f5762e5",
             "download_urls": [],
             "tier": 1,
             "author": "Unknown",
             "description": "Auto-detected",
             "source": "Auto",
-            "folder_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "folder_hash": "2f55225294d0cbf4ee2a1b688d1ddfe44cae617f2bb7d6530ff153af0f5762e5",
             "is_disabled": false,
             "dependencies": []
         }
