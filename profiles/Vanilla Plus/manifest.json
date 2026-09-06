@@ -309,6 +309,20 @@
             "hash": "5f143e5bdabce35c3d58d5c0d16b7dd3843873ba7c1898f7149a1cf6371383d7"
         },
         {
+            "name": "LazyMod",
+            "folder_name": "1180_Lazy_poi_pack_3_0",
+            "version": "1.0.0.9.9",
+            "tier": 1,
+            "nexus_id": "5531",
+            "nexus_file_id": "40894",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "666c34f7b6863be79145b32b1d93716554274d669b56750fa4f3131bcbad871e",
+            "hash": "666c34f7b6863be79145b32b1d93716554274d669b56750fa4f3131bcbad871e"
+        },
+        {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
             "folder_name": "1180_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.1.3.1",
@@ -321,20 +335,6 @@
             "author": "Unknown Author",
             "folder_hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8",
             "hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8"
-        },
-        {
-            "name": "LazyMod",
-            "folder_name": "1190_Lazy_poi_pack_3_0",
-            "version": "1.0.0.9.9",
-            "tier": 1,
-            "nexus_id": "5531",
-            "nexus_file_id": "40894",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "666c34f7b6863be79145b32b1d93716554274d669b56750fa4f3131bcbad871e",
-            "hash": "666c34f7b6863be79145b32b1d93716554274d669b56750fa4f3131bcbad871e"
         },
         {
             "name": "RoadShapeFix",
