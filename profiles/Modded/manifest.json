@@ -919,7 +919,7 @@
         },
         {
             "name": "Stallionsdens_Extra_Recipes",
-            "folder_name": "1620_Stallionsdens_Extra_Recipes",
+            "folder_name": "1610_Stallionsdens_Extra_Recipes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "6006",
@@ -933,7 +933,7 @@
         },
         {
             "name": "Valmars_Survivor_Notes",
-            "folder_name": "1630_Valmars_Survivor_Notes",
+            "folder_name": "1620_Valmars_Survivor_Notes",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5993",
@@ -947,7 +947,7 @@
         },
         {
             "name": "Scomar82_Hobacs",
-            "folder_name": "1640_zzzScomar82_Hobacs",
+            "folder_name": "1630_zzzScomar82_Hobacs",
             "version": "3.0",
             "tier": 1,
             "nexus_id": "5037",
@@ -961,7 +961,7 @@
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1650_Paradoxal_Gaming_tweaks",
+            "folder_name": "1640_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -975,7 +975,7 @@
         },
         {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1660_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1650_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -989,7 +989,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1670_Colored_Custom_Descriptions",
+            "folder_name": "1660_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -1003,7 +1003,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1680_zzzNail_Realism",
+            "folder_name": "1670_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -1017,7 +1017,7 @@
         },
         {
             "name": "RemoteTraderFramework",
-            "folder_name": "1690_RemoteTraderNetwork_v1_0_1",
+            "folder_name": "1680_RemoteTraderNetwork_v1_0_1",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11802",
@@ -1031,7 +1031,7 @@
         },
         {
             "name": "WMMZAirdropSpawnZeds",
-            "folder_name": "1700_WMMZAirdropSpawnZeds",
+            "folder_name": "1690_WMMZAirdropSpawnZeds",
             "version": "3.1.13.1",
             "tier": 1,
             "nexus_id": "4174",
@@ -1045,7 +1045,7 @@
         },
         {
             "name": "EFArrowsnBolts",
-            "folder_name": "1710_ExplodingFlamingArrowsBolts",
+            "folder_name": "1700_ExplodingFlamingArrowsBolts",
             "version": "1.2",
             "tier": 1,
             "nexus_id": "11799",
@@ -1059,7 +1059,7 @@
         },
         {
             "name": "Locks",
-            "folder_name": "1720_Locks",
+            "folder_name": "1710_Locks",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "8101",
@@ -1073,7 +1073,7 @@
         },
         {
             "name": "Combat_Sandbox_FLTR",
-            "folder_name": "1730_zzzCombatSandboxFLTR",
+            "folder_name": "1720_zzzCombatSandboxFLTR",
             "version": "3.0.1.0.0",
             "tier": 1,
             "nexus_id": "9980",
@@ -1087,7 +1087,7 @@
         },
         {
             "name": "NavezganeArchives",
-            "folder_name": "1740_NavezganeArchives",
+            "folder_name": "1730_NavezganeArchives",
             "version": "2.4.5",
             "tier": 1,
             "nexus_id": "11750",
@@ -1101,7 +1101,7 @@
         },
         {
             "name": "zzzAGF-Special-Compatibilities",
-            "folder_name": "1750_zzzAGFSpecialCompatibilitiesv5_2_0",
+            "folder_name": "1740_zzzAGFSpecialCompatibilitiesv5_2_0",
             "version": "5.2.0",
             "tier": 1,
             "nexus_id": "11327",
@@ -1115,7 +1115,7 @@
         },
         {
             "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1760_ZZZ_ZeroHour_StackSize",
+            "folder_name": "1750_ZZZ_ZeroHour_StackSize",
             "version": "1.0",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1129,7 +1129,7 @@
         },
         {
             "name": "RoadShapeFix",
-            "folder_name": "1770_RoadShapeFix",
+            "folder_name": "1760_RoadShapeFix",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1143,7 +1143,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1780_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1770_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1157,7 +1157,7 @@
         },
         {
             "name": "WeightSystem",
-            "folder_name": "1790_WeightSystem",
+            "folder_name": "1780_WeightSystem",
             "version": "1.2.1",
             "tier": 1,
             "nexus_id": "12114",
@@ -1168,6 +1168,20 @@
             "author": "Unknown Author",
             "folder_hash": "80ea9b07895da03de2eb038c37c53f7ab6671fbb66aa2b746694392b67da8670",
             "hash": "80ea9b07895da03de2eb038c37c53f7ab6671fbb66aa2b746694392b67da8670"
+        },
+        {
+            "name": "PracticeMakesPerfect",
+            "folder_name": "1790_PracticeMakesPerfect",
+            "version": "1.0.15",
+            "tier": 1,
+            "nexus_id": "10841",
+            "nexus_file_id": "42854",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "255264cbee7595fd0d06af9472d886c1dd9f158ef4bb633a2d496eebaabe5a60",
+            "hash": "255264cbee7595fd0d06af9472d886c1dd9f158ef4bb633a2d496eebaabe5a60"
         },
         {
             "name": "Zero_Hour_Core",
