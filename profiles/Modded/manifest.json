@@ -1170,6 +1170,20 @@
             "hash": "ac7b83b0e38a5d533373ff632114896733ae07ce29263a56693cc91d508ba5e1"
         },
         {
+            "name": "WeightSystem",
+            "folder_name": "1790_WeightSystem",
+            "version": "1.2.1",
+            "tier": 1,
+            "nexus_id": "12114",
+            "nexus_file_id": "46426",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "80ea9b07895da03de2eb038c37c53f7ab6671fbb66aa2b746694392b67da8670",
+            "hash": "80ea9b07895da03de2eb038c37c53f7ab6671fbb66aa2b746694392b67da8670"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
