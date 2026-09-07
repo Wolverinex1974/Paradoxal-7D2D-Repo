@@ -918,20 +918,6 @@
             "hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470"
         },
         {
-            "name": "Encumbrance",
-            "folder_name": "1610_PaLoALoV3WeightAMinute",
-            "version": "3.0.0.2",
-            "tier": 1,
-            "nexus_id": "9137",
-            "nexus_file_id": "43415",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8",
-            "hash": "5dcc622484fb71e80a9c565f0e4fd71eafd966c885e5f5e6e251068b06d3beb8"
-        },
-        {
             "name": "Stallionsdens_Extra_Recipes",
             "folder_name": "1620_Stallionsdens_Extra_Recipes",
             "version": "3.0.3.0",
