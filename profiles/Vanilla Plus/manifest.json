@@ -1002,22 +1002,8 @@
             "hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470"
         },
         {
-            "name": "TacticoolGamers_vanilla_vehicle_mod",
-            "folder_name": "1670_TacticoolGamers_vanilla_vehicle_mod",
-            "version": "1.0",
-            "tier": 1,
-            "nexus_id": "10350",
-            "nexus_file_id": "39451",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "043132caa48b02ec9226f4ae0f63f96cfa6a82d8a6c8496d4dbc0676fe8c7715",
-            "hash": "043132caa48b02ec9226f4ae0f63f96cfa6a82d8a6c8496d4dbc0676fe8c7715"
-        },
-        {
             "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1680_ZZZ_ZeroHour_StackSize",
+            "folder_name": "1670_ZZZ_ZeroHour_StackSize",
             "version": "1.0",
             "tier": 3,
             "nexus_id": "Unlinked",
