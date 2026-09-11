@@ -324,7 +324,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1180_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1190_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.1.3.1",
             "tier": 1,
             "nexus_id": "10710",
@@ -1014,6 +1014,20 @@
             "author": "Unknown Author",
             "folder_hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470",
             "hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470"
+        },
+        {
+            "name": "MoreModSlotsInVehicle",
+            "folder_name": "1680_MoreModSlotsInVehicle119461_020260807T1527ZUk4MbEn5V_zip_unpacked",
+            "version": "1.0",
+            "tier": 1,
+            "nexus_id": "11946",
+            "nexus_file_id": "45241",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "d174166678e29915424def66597e7dd3fd596b440a77d9179ea4ccf3f715bd8f",
+            "hash": "d174166678e29915424def66597e7dd3fd596b440a77d9179ea4ccf3f715bd8f"
         },
         {
             "name": "Zero_Hour_Core",
