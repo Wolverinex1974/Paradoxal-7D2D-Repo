@@ -953,22 +953,8 @@
             "hash": "f515d6203d07354029aabb4c1816a7f574f5b9ab61b58e785a8b5a097c6e17da"
         },
         {
-            "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1640_ZZZ_ZeroHour_StackSize",
-            "version": "1.0",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "96a4c15c115903471231098aed0ae50d6945bc567c5e835b34f1e2f49db2e311",
-            "hash": "96a4c15c115903471231098aed0ae50d6945bc567c5e835b34f1e2f49db2e311"
-        },
-        {
             "name": "TiaoZaoMiniMap",
-            "folder_name": "1650_TiaoZaoMiniMap",
+            "folder_name": "1640_TiaoZaoMiniMap",
             "version": "3.8",
             "tier": 1,
             "nexus_id": "7732",
@@ -989,7 +975,7 @@
         },
         {
             "name": "zzzAGF-Special-Compatibilities",
-            "folder_name": "1660_zzzAGFSpecialCompatibilitiesv5_2_0",
+            "folder_name": "1650_zzzAGFSpecialCompatibilitiesv5_2_0",
             "version": "5.2.0",
             "tier": 1,
             "nexus_id": "11327",
@@ -1003,7 +989,7 @@
         },
         {
             "name": "Stallionsden_Everything_is_sellable",
-            "folder_name": "1670_Stallionsdens_Everything_is_Sellable",
+            "folder_name": "1660_Stallionsdens_Everything_is_Sellable",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5964",
@@ -1017,7 +1003,7 @@
         },
         {
             "name": "TacticoolGamers_vanilla_vehicle_mod",
-            "folder_name": "1680_TacticoolGamers_vanilla_vehicle_mod",
+            "folder_name": "1670_TacticoolGamers_vanilla_vehicle_mod",
             "version": "1.0",
             "tier": 1,
             "nexus_id": "10350",
@@ -1028,6 +1014,20 @@
             "author": "Unknown Author",
             "folder_hash": "043132caa48b02ec9226f4ae0f63f96cfa6a82d8a6c8496d4dbc0676fe8c7715",
             "hash": "043132caa48b02ec9226f4ae0f63f96cfa6a82d8a6c8496d4dbc0676fe8c7715"
+        },
+        {
+            "name": "ZZZ_ZeroHour_StackSize",
+            "folder_name": "1680_ZZZ_ZeroHour_StackSize",
+            "version": "1.0",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "502e8eb6a35f5430197f51d7b6adfcfee59b96c08fe217226a0271edd1185291",
+            "hash": "502e8eb6a35f5430197f51d7b6adfcfee59b96c08fe217226a0271edd1185291"
         },
         {
             "name": "Zero_Hour_Core",
