@@ -150,16 +150,16 @@
         {
             "name": "RealismOverhaulCORE",
             "folder_name": "1060_0Zipp0osRealismOverhaulCore",
-            "version": "1.0.6",
+            "version": "1.0.7",
             "tier": 1,
             "nexus_id": "10303",
-            "nexus_file_id": "44707",
+            "nexus_file_id": "47068",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c",
-            "hash": "f44970820e980d8a0aef3bc6f6c175dadc5a891fd4f600d5f1e0f17b0d044e5c"
+            "folder_hash": "06dbe736ec9608b299d225d3b66850ec345da3fdd1e3882ef28a4543d6dccf09",
+            "hash": "06dbe736ec9608b299d225d3b66850ec345da3fdd1e3882ef28a4543d6dccf09"
         },
         {
             "name": "Ores_Refining",
@@ -293,7 +293,7 @@
             "version": "4.0.0",
             "tier": 1,
             "nexus_id": "11624",
-            "nexus_file_id": "44250",
+            "nexus_file_id": "46585",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
@@ -1156,23 +1156,9 @@
             "hash": "ac7b83b0e38a5d533373ff632114896733ae07ce29263a56693cc91d508ba5e1"
         },
         {
-            "name": "WeightSystem",
-            "folder_name": "1780_WeightSystem",
-            "version": "1.2.1",
-            "tier": 1,
-            "nexus_id": "12114",
-            "nexus_file_id": "46426",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "80ea9b07895da03de2eb038c37c53f7ab6671fbb66aa2b746694392b67da8670",
-            "hash": "80ea9b07895da03de2eb038c37c53f7ab6671fbb66aa2b746694392b67da8670"
-        },
-        {
             "name": "PracticeMakesPerfect",
-            "folder_name": "1790_PracticeMakesPerfect",
-            "version": "1.0.15",
+            "folder_name": "1780_PracticeMakesPerfect",
+            "version": "1.0.16",
             "tier": 1,
             "nexus_id": "10841",
             "nexus_file_id": "42854",
@@ -1180,8 +1166,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "255264cbee7595fd0d06af9472d886c1dd9f158ef4bb633a2d496eebaabe5a60",
-            "hash": "255264cbee7595fd0d06af9472d886c1dd9f158ef4bb633a2d496eebaabe5a60"
+            "folder_hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2",
+            "hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2"
         },
         {
             "name": "Zero_Hour_Core",
