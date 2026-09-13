@@ -1114,22 +1114,8 @@
             "hash": "42e98cc7305cb7a6cdf8716e815712329e4e1a2bc5302dfe8c48c4220542a73a"
         },
         {
-            "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1750_ZZZ_ZeroHour_StackSize",
-            "version": "1.0",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "934bf416e81cc06c7ba809d99038c50197420acfeeab323cf6af76887826a5c6",
-            "hash": "934bf416e81cc06c7ba809d99038c50197420acfeeab323cf6af76887826a5c6"
-        },
-        {
             "name": "RoadShapeFix",
-            "folder_name": "1760_RoadShapeFix",
+            "folder_name": "1750_RoadShapeFix",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1143,7 +1129,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1770_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1760_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1157,7 +1143,7 @@
         },
         {
             "name": "PracticeMakesPerfect",
-            "folder_name": "1780_PracticeMakesPerfect",
+            "folder_name": "1770_PracticeMakesPerfect",
             "version": "1.0.16",
             "tier": 1,
             "nexus_id": "10841",
@@ -1168,6 +1154,20 @@
             "author": "Unknown Author",
             "folder_hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2",
             "hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2"
+        },
+        {
+            "name": "ZZZ_ZeroHour_StackSize",
+            "folder_name": "1780_ZZZ_ZeroHour_StackSize",
+            "version": "1.0",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "3ba904160b7449760d12dd5809d21434a99dc937487a4b29e2bec801a0ed9290",
+            "hash": "3ba904160b7449760d12dd5809d21434a99dc937487a4b29e2bec801a0ed9290"
         },
         {
             "name": "Zero_Hour_Core",
