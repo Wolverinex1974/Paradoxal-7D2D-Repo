@@ -960,22 +960,8 @@
             "hash": "39c8e503b377bb7bbe619433d8cc3c432478c4c9a8c364c8c2d9aae432e2574d"
         },
         {
-            "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1640_Paradoxal_Gaming_tweaks",
-            "version": "2.2.9",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
-            "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
-        },
-        {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1650_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1640_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -989,7 +975,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1660_Colored_Custom_Descriptions",
+            "folder_name": "1650_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -1003,7 +989,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1670_zzzNail_Realism",
+            "folder_name": "1660_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -1017,7 +1003,7 @@
         },
         {
             "name": "RemoteTraderFramework",
-            "folder_name": "1680_RemoteTraderNetwork_v1_0_1",
+            "folder_name": "1670_RemoteTraderNetwork_v1_0_1",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11802",
@@ -1031,7 +1017,7 @@
         },
         {
             "name": "WMMZAirdropSpawnZeds",
-            "folder_name": "1690_WMMZAirdropSpawnZeds",
+            "folder_name": "1680_WMMZAirdropSpawnZeds",
             "version": "3.1.13.1",
             "tier": 1,
             "nexus_id": "4174",
@@ -1045,7 +1031,7 @@
         },
         {
             "name": "EFArrowsnBolts",
-            "folder_name": "1700_ExplodingFlamingArrowsBolts",
+            "folder_name": "1690_ExplodingFlamingArrowsBolts",
             "version": "1.2",
             "tier": 1,
             "nexus_id": "11799",
@@ -1059,7 +1045,7 @@
         },
         {
             "name": "Locks",
-            "folder_name": "1710_Locks",
+            "folder_name": "1700_Locks",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "8101",
@@ -1073,7 +1059,7 @@
         },
         {
             "name": "Combat_Sandbox_FLTR",
-            "folder_name": "1720_zzzCombatSandboxFLTR",
+            "folder_name": "1710_zzzCombatSandboxFLTR",
             "version": "3.0.1.0.0",
             "tier": 1,
             "nexus_id": "9980",
@@ -1087,7 +1073,7 @@
         },
         {
             "name": "NavezganeArchives",
-            "folder_name": "1730_NavezganeArchives",
+            "folder_name": "1720_NavezganeArchives",
             "version": "2.4.5",
             "tier": 1,
             "nexus_id": "11750",
@@ -1101,7 +1087,7 @@
         },
         {
             "name": "zzzAGF-Special-Compatibilities",
-            "folder_name": "1740_zzzAGFSpecialCompatibilitiesv5_2_0",
+            "folder_name": "1730_zzzAGFSpecialCompatibilitiesv5_2_0",
             "version": "5.2.0",
             "tier": 1,
             "nexus_id": "11327",
@@ -1115,7 +1101,7 @@
         },
         {
             "name": "RoadShapeFix",
-            "folder_name": "1750_RoadShapeFix",
+            "folder_name": "1740_RoadShapeFix",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1129,7 +1115,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1760_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1750_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1143,7 +1129,7 @@
         },
         {
             "name": "PracticeMakesPerfect",
-            "folder_name": "1770_PracticeMakesPerfect",
+            "folder_name": "1760_PracticeMakesPerfect",
             "version": "1.0.16",
             "tier": 1,
             "nexus_id": "10841",
@@ -1154,6 +1140,20 @@
             "author": "Unknown Author",
             "folder_hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2",
             "hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2"
+        },
+        {
+            "name": "Paradoxal_Gaming_tweaks",
+            "folder_name": "1770_Paradoxal_Gaming_tweaks",
+            "version": "2.2.9",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
+            "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
         },
         {
             "name": "ZZZ_ZeroHour_StackSize",
@@ -1168,6 +1168,20 @@
             "author": "Unknown Author",
             "folder_hash": "3ba904160b7449760d12dd5809d21434a99dc937487a4b29e2bec801a0ed9290",
             "hash": "3ba904160b7449760d12dd5809d21434a99dc937487a4b29e2bec801a0ed9290"
+        },
+        {
+            "name": "TiaoZaoMiniMap",
+            "folder_name": "1790_TiaoZaoMiniMap",
+            "version": "3.2.1",
+            "tier": 1,
+            "nexus_id": "7732",
+            "nexus_file_id": "46499",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "729bbf71a40638a688a3e6733223cb7d40e3c6b76ba2272a0eabc2ac7da94ddb",
+            "hash": "729bbf71a40638a688a3e6733223cb7d40e3c6b76ba2272a0eabc2ac7da94ddb"
         },
         {
             "name": "Zero_Hour_Core",
