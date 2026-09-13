@@ -68,7 +68,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "0c29e21e57f6c7ecbc7aa230a6de0e793c727e82d23d641807f93297d6c0254d",
-            "hash": "0c29e21e57f6c7ecbc7aa230a6de0e793c727e82d23d641807f93297d6c0254d"
+            "hash": "0c29e21e57f6c7ecbc7aa230a6de0e793c727e82d23d641807f93297d6c0254d",
+            "update_available": "3.2.7.728",
+            "update_file_id": "46264"
         },
         {
             "name": "Ores_Refining",
@@ -222,7 +224,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b",
-            "hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b"
+            "hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b",
+            "update_available": "4.1.0",
+            "update_file_id": "46585"
         },
         {
             "name": "MPLogue_Better_Biomes_7D2D_v3_1",
@@ -292,7 +296,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7",
-            "hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7"
+            "hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7",
+            "update_available": "1.18",
+            "update_file_id": "46886"
         },
         {
             "name": "DoubleGZombies3",
@@ -334,7 +340,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8",
-            "hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8"
+            "hash": "d53747b9e11b240688af006c15ec90791fd31ad619077749ea6a1c66e8022aa8",
+            "update_available": "3.2.3.2",
+            "update_file_id": "46512"
         },
         {
             "name": "RoadShapeFix",
@@ -348,7 +356,9 @@
             "source": "Auto",
             "author": "Unknown Author",
             "folder_hash": "ece8a3d610c3ebc46d44dcdc2ade9bced7eef629d58c2fb95467e1d32a494cd8",
-            "hash": "ece8a3d610c3ebc46d44dcdc2ade9bced7eef629d58c2fb95467e1d32a494cd8"
+            "hash": "ece8a3d610c3ebc46d44dcdc2ade9bced7eef629d58c2fb95467e1d32a494cd8",
+            "update_available": "3.2.3.2",
+            "update_file_id": "46512"
         },
         {
             "name": "DoubleGZombiesClassicsReanimated",
