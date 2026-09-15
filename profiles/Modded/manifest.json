@@ -290,7 +290,7 @@
         {
             "name": "AGF-VP-DyesPlus",
             "folder_name": "1160_AGFVPDyesPlusv4_0_0",
-            "version": "4.0.0",
+            "version": "4.1.0",
             "tier": 1,
             "nexus_id": "11624",
             "nexus_file_id": "46585",
@@ -298,8 +298,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b",
-            "hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b"
+            "folder_hash": "50bd88eddc1779c1cbaa48c6b425d89de922f72d2c314b8d7156bedb30cae075",
+            "hash": "50bd88eddc1779c1cbaa48c6b425d89de922f72d2c314b8d7156bedb30cae075"
         },
         {
             "name": "KnowBeforeYouCraft",
