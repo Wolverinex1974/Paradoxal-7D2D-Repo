@@ -883,22 +883,8 @@
             "hash": "39c8e503b377bb7bbe619433d8cc3c432478c4c9a8c364c8c2d9aae432e2574d"
         },
         {
-            "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1590_Paradoxal_Gaming_tweaks",
-            "version": "2.2.9",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
-            "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
-        },
-        {
             "name": "ZZZ_FNS_Loot_All_the_Things",
-            "folder_name": "1600_ZZZ_FNS_Loot_All_the_Things",
+            "folder_name": "1590_ZZZ_FNS_Loot_All_the_Things",
             "version": "3.0.1.2",
             "tier": 1,
             "nexus_id": "5100",
@@ -912,7 +898,7 @@
         },
         {
             "name": "Colored_Custom_Descriptions",
-            "folder_name": "1610_Colored_Custom_Descriptions",
+            "folder_name": "1600_Colored_Custom_Descriptions",
             "version": "3.0.0",
             "tier": 1,
             "nexus_id": "11580",
@@ -926,7 +912,7 @@
         },
         {
             "name": "zzzNail_Realism",
-            "folder_name": "1620_zzzNail_Realism",
+            "folder_name": "1610_zzzNail_Realism",
             "version": "3.0.1",
             "tier": 1,
             "nexus_id": "8314",
@@ -940,7 +926,7 @@
         },
         {
             "name": "EFArrowsnBolts",
-            "folder_name": "1630_ExplodingFlamingArrowsBolts",
+            "folder_name": "1620_ExplodingFlamingArrowsBolts",
             "version": "1.2",
             "tier": 1,
             "nexus_id": "11799",
@@ -954,7 +940,7 @@
         },
         {
             "name": "RemoteTraderFramework",
-            "folder_name": "1640_RemoteTraderNetwork_v1_0_1",
+            "folder_name": "1630_RemoteTraderNetwork_v1_0_1",
             "version": "1.0.1",
             "tier": 1,
             "nexus_id": "11802",
@@ -968,7 +954,7 @@
         },
         {
             "name": "TiaoZaoMiniMap",
-            "folder_name": "1650_TiaoZaoMiniMap",
+            "folder_name": "1640_TiaoZaoMiniMap",
             "version": "3.8",
             "tier": 1,
             "nexus_id": "7732",
@@ -989,7 +975,7 @@
         },
         {
             "name": "zzzAGF-Special-Compatibilities",
-            "folder_name": "1660_zzzAGFSpecialCompatibilitiesv5_2_0",
+            "folder_name": "1650_zzzAGFSpecialCompatibilitiesv5_2_0",
             "version": "5.2.0",
             "tier": 1,
             "nexus_id": "11327",
@@ -1003,7 +989,7 @@
         },
         {
             "name": "Stallionsden_Everything_is_sellable",
-            "folder_name": "1670_Stallionsdens_Everything_is_Sellable",
+            "folder_name": "1660_Stallionsdens_Everything_is_Sellable",
             "version": "3.0.3.0",
             "tier": 1,
             "nexus_id": "5964",
@@ -1014,6 +1000,20 @@
             "author": "Unknown Author",
             "folder_hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470",
             "hash": "09fec67d0aa89a2e6b9399ce969bfdc40f9dfb679ab2395258dd8f937c4d7470"
+        },
+        {
+            "name": "Paradoxal_Gaming_tweaks",
+            "folder_name": "1670_Paradoxal_Gaming_tweaks",
+            "version": "2.2.9",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f",
+            "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
         },
         {
             "name": "ZZZ_ZeroHour_StackSize",
