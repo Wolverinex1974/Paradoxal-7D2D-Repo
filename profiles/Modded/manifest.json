@@ -158,8 +158,9 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "06dbe736ec9608b299d225d3b66850ec345da3fdd1e3882ef28a4543d6dccf09",
-            "hash": "06dbe736ec9608b299d225d3b66850ec345da3fdd1e3882ef28a4543d6dccf09"
+            "folder_hash": "a523760f5cffa36bbdaa1ef16a16516404394668258ea53292c63e4e726c9103",
+            "hash": "a523760f5cffa36bbdaa1ef16a16516404394668258ea53292c63e4e726c9103",
+            "mutations": []
         },
         {
             "name": "Ores_Refining",
@@ -1180,8 +1181,22 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "729bbf71a40638a688a3e6733223cb7d40e3c6b76ba2272a0eabc2ac7da94ddb",
-            "hash": "729bbf71a40638a688a3e6733223cb7d40e3c6b76ba2272a0eabc2ac7da94ddb"
+            "folder_hash": "5f973abacb58c5c4bc698500e943697b5ba179ba20262880e3bb76406d2a2b8e",
+            "hash": "5f973abacb58c5c4bc698500e943697b5ba179ba20262880e3bb76406d2a2b8e"
+        },
+        {
+            "name": "Fuel_Log",
+            "folder_name": "1800_Fuel_Log",
+            "version": "3.2.1",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "81c552b583084db44778174fdc6768db7bbe06aade431057bd7b91601ab0a84a",
+            "hash": "81c552b583084db44778174fdc6768db7bbe06aade431057bd7b91601ab0a84a"
         },
         {
             "name": "Zero_Hour_Core",
