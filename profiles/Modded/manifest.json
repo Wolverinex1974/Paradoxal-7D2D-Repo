@@ -158,9 +158,15 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "867b1247ee0dc713ba36ce0d4189e5656266608c59463177636712879765b4e8",
-            "hash": "867b1247ee0dc713ba36ce0d4189e5656266608c59463177636712879765b4e8",
-            "mutations": []
+            "folder_hash": "fd93055d418488e78b1e23b1cf990da7de2814e4805bed41d3cf569e4824bfc2",
+            "hash": "fd93055d418488e78b1e23b1cf990da7de2814e4805bed41d3cf569e4824bfc2",
+            "mutations": [
+                {
+                    "file": "Config\\RealismConfigs.xml",
+                    "search": "<property name=\"CrosshairEnable\" value=\"0\" />",
+                    "replace": "<property name=\"CrosshairEnable\" value=\"1\" />"
+                }
+            ]
         },
         {
             "name": "Ores_Refining",
