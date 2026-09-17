@@ -1205,6 +1205,20 @@
             "hash": "81c552b583084db44778174fdc6768db7bbe06aade431057bd7b91601ab0a84a"
         },
         {
+            "name": "ZZZ_AGF_Vehicle_Compat",
+            "folder_name": "1810_ZZZ_AGF_Vehicle_Compat",
+            "version": "3.0.1",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "0ce0821b87a376d917c3192f4f7865c59189e9ff70ce560621110215708541c4",
+            "hash": "0ce0821b87a376d917c3192f4f7865c59189e9ff70ce560621110215708541c4"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
