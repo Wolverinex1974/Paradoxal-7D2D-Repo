@@ -1163,22 +1163,8 @@
             "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
         },
         {
-            "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1780_ZZZ_ZeroHour_StackSize",
-            "version": "1.0",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "3ba904160b7449760d12dd5809d21434a99dc937487a4b29e2bec801a0ed9290",
-            "hash": "3ba904160b7449760d12dd5809d21434a99dc937487a4b29e2bec801a0ed9290"
-        },
-        {
             "name": "TiaoZaoMiniMap",
-            "folder_name": "1790_TiaoZaoMiniMap",
+            "folder_name": "1780_TiaoZaoMiniMap",
             "version": "3.2.1",
             "tier": 1,
             "nexus_id": "7732",
@@ -1192,7 +1178,7 @@
         },
         {
             "name": "Fuel_Log",
-            "folder_name": "1800_Fuel_Log",
+            "folder_name": "1790_Fuel_Log",
             "version": "3.2.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1206,7 +1192,7 @@
         },
         {
             "name": "ZZZ_AGF_Vehicle_Compat",
-            "folder_name": "1810_ZZZ_AGF_Vehicle_Compat",
+            "folder_name": "1800_ZZZ_AGF_Vehicle_Compat",
             "version": "3.0.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1217,6 +1203,20 @@
             "author": "Unknown Author",
             "folder_hash": "0ce0821b87a376d917c3192f4f7865c59189e9ff70ce560621110215708541c4",
             "hash": "0ce0821b87a376d917c3192f4f7865c59189e9ff70ce560621110215708541c4"
+        },
+        {
+            "name": "ZZZ_ZeroHour_StackSize",
+            "folder_name": "1810_ZZZ_ZeroHour_StackSize",
+            "version": "1.0",
+            "tier": 1,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "530b7bb8fac2f51e321a6eff9909c1f7ed8b490fe25ba9e090dcec4778fea961",
+            "hash": "530b7bb8fac2f51e321a6eff9909c1f7ed8b490fe25ba9e090dcec4778fea961"
         },
         {
             "name": "Zero_Hour_Core",
