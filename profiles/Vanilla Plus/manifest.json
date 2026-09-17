@@ -1016,22 +1016,8 @@
             "hash": "c511f4191f89e82c02aa954f09d186f7d561e9484a5349c71b5d8ed3dc37bc7f"
         },
         {
-            "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1680_ZZZ_ZeroHour_StackSize",
-            "version": "1.0",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "502e8eb6a35f5430197f51d7b6adfcfee59b96c08fe217226a0271edd1185291",
-            "hash": "502e8eb6a35f5430197f51d7b6adfcfee59b96c08fe217226a0271edd1185291"
-        },
-        {
             "name": "ZZZ_AGF_Vehicle_Compat",
-            "folder_name": "1690_ZZZ_AGF_Vehicle_Compat",
+            "folder_name": "1680_ZZZ_AGF_Vehicle_Compat",
             "version": "3.0.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1042,6 +1028,20 @@
             "author": "Unknown Author",
             "folder_hash": "0ce0821b87a376d917c3192f4f7865c59189e9ff70ce560621110215708541c4",
             "hash": "0ce0821b87a376d917c3192f4f7865c59189e9ff70ce560621110215708541c4"
+        },
+        {
+            "name": "ZZZ_ZeroHour_StackSize",
+            "folder_name": "1690_ZZZ_ZeroHour_StackSize",
+            "version": "1.0",
+            "tier": 1,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "5401e3533536f52d74eaf8ed0fa89f8f3963fe0193377a72d2aca386160e68a6",
+            "hash": "5401e3533536f52d74eaf8ed0fa89f8f3963fe0193377a72d2aca386160e68a6"
         },
         {
             "name": "Zero_Hour_Core",
