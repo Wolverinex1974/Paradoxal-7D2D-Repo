@@ -213,16 +213,16 @@
         {
             "name": "AGF-VP-DyesPlus",
             "folder_name": "1110_AGFVPDyesPlusv4_0_0",
-            "version": "4.0.0",
+            "version": "4.1.0",
             "tier": 1,
             "nexus_id": "11624",
-            "nexus_file_id": "44250",
+            "nexus_file_id": "46585",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b",
-            "hash": "aa41e107e9197d691ca78fe210dc0178080a31b106f11809d2975a37018bcd9b"
+            "folder_hash": "50bd88eddc1779c1cbaa48c6b425d89de922f72d2c314b8d7156bedb30cae075",
+            "hash": "50bd88eddc1779c1cbaa48c6b425d89de922f72d2c314b8d7156bedb30cae075"
         },
         {
             "name": "MPLogue_Better_Biomes_7D2D_v3_1",
@@ -283,16 +283,16 @@
         {
             "name": "MXMRMXsPOIPACK",
             "folder_name": "1160_MXMRMXsPOIPACKV1_16_1",
-            "version": "1.17",
+            "version": "1.18",
             "tier": 1,
             "nexus_id": "8409",
-            "nexus_file_id": "44901",
+            "nexus_file_id": "46886",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7",
-            "hash": "d868f139b7b5162e45fb9d20a381be01c1f094eda59960a6ae797b6ed78382f7"
+            "folder_hash": "0f90f5564f67bc7e4d7fe3be7fb080551d271c0c9f6d51f0163ccfc4256cd62e",
+            "hash": "0f90f5564f67bc7e4d7fe3be7fb080551d271c0c9f6d51f0163ccfc4256cd62e"
         },
         {
             "name": "LazyMod",
@@ -409,16 +409,16 @@
         {
             "name": "LittleRedSonja_ZombiePack",
             "folder_name": "1250_LittleRedSonja_ZombiePack",
-            "version": "2.3.1",
+            "version": "2.4.0",
             "tier": 1,
             "nexus_id": "7573",
-            "nexus_file_id": "43622",
+            "nexus_file_id": "46957",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "a3afba8c6f2908f6d531d128a694a91f40d48730800e1ba4992bcb1ec47de930",
-            "hash": "a3afba8c6f2908f6d531d128a694a91f40d48730800e1ba4992bcb1ec47de930"
+            "folder_hash": "0668bed14b66d2e74a174af878363db0d93f2f7b44d7dc5f8a26da56d56cba32",
+            "hash": "0668bed14b66d2e74a174af878363db0d93f2f7b44d7dc5f8a26da56d56cba32"
         },
         {
             "name": "Paniermehl_Vehicle_Respawner",
@@ -619,16 +619,16 @@
         {
             "name": "Medical_conditions",
             "folder_name": "1400_Medical_conditions",
-            "version": "1.4.0",
+            "version": "1.4.1",
             "tier": 1,
             "nexus_id": "7322",
-            "nexus_file_id": "41976",
+            "nexus_file_id": "46823",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "e5a6251d489da57750d09edc02d4bf8fe1615c77d33363e9c3b1a18933232de6",
-            "hash": "e5a6251d489da57750d09edc02d4bf8fe1615c77d33363e9c3b1a18933232de6"
+            "folder_hash": "6fe2f09c4565b76ee7bcea16e7e6495c28c1c8eead62c349f60ec3b8ceaeb18c",
+            "hash": "6fe2f09c4565b76ee7bcea16e7e6495c28c1c8eead62c349f60ec3b8ceaeb18c"
         },
         {
             "name": "Arrows_Bolts_Bullets_Cause_Bleed",
@@ -871,16 +871,16 @@
         {
             "name": "Scomar82_Hobacs",
             "folder_name": "1580_zzzScomar82_Hobacs",
-            "version": "3.0",
+            "version": "3.2",
             "tier": 1,
             "nexus_id": "5037",
-            "nexus_file_id": "41204",
+            "nexus_file_id": "47416",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "39c8e503b377bb7bbe619433d8cc3c432478c4c9a8c364c8c2d9aae432e2574d",
-            "hash": "39c8e503b377bb7bbe619433d8cc3c432478c4c9a8c364c8c2d9aae432e2574d"
+            "folder_hash": "0c83870585648d8d0699d49404f621b7064ad320538d05ce4b737d34df9d9c07",
+            "hash": "0c83870585648d8d0699d49404f621b7064ad320538d05ce4b737d34df9d9c07"
         },
         {
             "name": "ZZZ_FNS_Loot_All_the_Things",
@@ -941,16 +941,16 @@
         {
             "name": "RemoteTraderFramework",
             "folder_name": "1630_RemoteTraderNetwork_v1_0_1",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "tier": 1,
             "nexus_id": "11802",
-            "nexus_file_id": "44917",
+            "nexus_file_id": "46599",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "f515d6203d07354029aabb4c1816a7f574f5b9ab61b58e785a8b5a097c6e17da",
-            "hash": "f515d6203d07354029aabb4c1816a7f574f5b9ab61b58e785a8b5a097c6e17da"
+            "folder_hash": "6a66f723e5144f237680bb34be78655056d0f4866eed7a242b22e98703af6a35",
+            "hash": "6a66f723e5144f237680bb34be78655056d0f4866eed7a242b22e98703af6a35"
         },
         {
             "name": "TiaoZaoMiniMap",
