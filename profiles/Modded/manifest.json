@@ -1067,16 +1067,16 @@
         {
             "name": "Combat_Sandbox_FLTR",
             "folder_name": "1710_zzzCombatSandboxFLTR",
-            "version": "3.0.1.0.0",
+            "version": "3.2.0.2.0.0",
             "tier": 1,
             "nexus_id": "9980",
-            "nexus_file_id": "43440",
+            "nexus_file_id": "47566",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "d5890b4d7dc33f0b4df64e3f910573c1b28cd2ad31f998bbfc2f66f6f328e01f",
-            "hash": "d5890b4d7dc33f0b4df64e3f910573c1b28cd2ad31f998bbfc2f66f6f328e01f"
+            "folder_hash": "9388f209897f24ac8181b5c3570f6fbab712e07f39687adeb369baa26cb2ab4a",
+            "hash": "9388f209897f24ac8181b5c3570f6fbab712e07f39687adeb369baa26cb2ab4a"
         },
         {
             "name": "NavezganeArchives",
