@@ -150,16 +150,16 @@
         {
             "name": "RealismOverhaulCORE",
             "folder_name": "1060_0Zipp0osRealismOverhaulCore",
-            "version": "1.0.9",
+            "version": "1.1.1",
             "tier": 1,
             "nexus_id": "10303",
-            "nexus_file_id": "47472",
+            "nexus_file_id": "47750",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "fd93055d418488e78b1e23b1cf990da7de2814e4805bed41d3cf569e4824bfc2",
-            "hash": "fd93055d418488e78b1e23b1cf990da7de2814e4805bed41d3cf569e4824bfc2",
+            "folder_hash": "482e91aef5073edbecaf14efe8077eda7889ff424f9c52bde099c367ba99a612",
+            "hash": "482e91aef5073edbecaf14efe8077eda7889ff424f9c52bde099c367ba99a612",
             "mutations": [
                 {
                     "file": "Config\\RealismConfigs.xml",
@@ -1131,8 +1131,8 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2",
-            "hash": "381b542a131daeff89a79abe3a1b3fe8f87c45a997260161514845a506efd3c2"
+            "folder_hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12",
+            "hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12"
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
