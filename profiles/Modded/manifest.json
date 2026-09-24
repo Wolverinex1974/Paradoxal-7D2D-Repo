@@ -1125,8 +1125,8 @@
             "folder_name": "1760_PracticeMakesPerfect",
             "version": "1.0.16",
             "tier": 1,
-            "nexus_id": "10841",
-            "nexus_file_id": "42854",
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
@@ -1231,6 +1231,20 @@
             "author": "Unknown Author",
             "folder_hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90",
             "hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90"
+        },
+        {
+            "name": "BetterFire",
+            "folder_name": "1830_BetterFire3_0",
+            "version": "1.0",
+            "tier": 1,
+            "nexus_id": "3998",
+            "nexus_file_id": "40689",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "4f95089c8abec60ed37b75e44d89c26c5edbe85bdd5340de919e709d60990375",
+            "hash": "4f95089c8abec60ed37b75e44d89c26c5edbe85bdd5340de919e709d60990375"
         },
         {
             "name": "Zero_Hour_Core",
