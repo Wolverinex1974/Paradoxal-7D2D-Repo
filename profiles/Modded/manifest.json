@@ -1219,6 +1219,20 @@
             "hash": "f962aa69bf53ac2beaa165e60f5e05be8e7f15f1d5f0b53cd9bd055811294102"
         },
         {
+            "name": "WalkerSim2",
+            "folder_name": "820_WalkerSim2",
+            "version": "2.0.5",
+            "tier": 1,
+            "nexus_id": "6014",
+            "nexus_file_id": "40831",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90",
+            "hash": "f7ca55ed993e87cfeefd9a6efdbc0db9407d4de8ff487c5c319a699577b99e90"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
