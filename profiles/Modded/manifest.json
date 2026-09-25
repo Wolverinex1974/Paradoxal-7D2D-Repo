@@ -1149,8 +1149,22 @@
             "hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12"
         },
         {
+            "name": "QuickStack",
+            "folder_name": "1770_QuickStack",
+            "version": "0.19.0",
+            "tier": 1,
+            "nexus_id": "11251",
+            "nexus_file_id": "46905",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "06503115ea725b4a4e58f05a917df35d1f1a5bcf27be84d963213b40b9227e78",
+            "hash": "06503115ea725b4a4e58f05a917df35d1f1a5bcf27be84d963213b40b9227e78"
+        },
+        {
             "name": "TiaoZaoMiniMap",
-            "folder_name": "1770_TiaoZaoMiniMap",
+            "folder_name": "1780_TiaoZaoMiniMap",
             "version": "3.2.1",
             "tier": 1,
             "nexus_id": "7732",
@@ -1164,7 +1178,7 @@
         },
         {
             "name": "WalkerSim2",
-            "folder_name": "1780_WalkerSim2",
+            "folder_name": "1790_WalkerSim2",
             "version": "2.0.5",
             "tier": 1,
             "nexus_id": "6014",
@@ -1178,7 +1192,7 @@
         },
         {
             "name": "Zzzzxcp_CP_Classic_All_In_One",
-            "folder_name": "1790_Zzzzxcp_CP_Classic_All_In_One",
+            "folder_name": "1800_Zzzzxcp_CP_Classic_All_In_One",
             "version": "3.2.3.2",
             "tier": 1,
             "nexus_id": "10710",
@@ -1192,7 +1206,7 @@
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1800_Paradoxal_Gaming_tweaks",
+            "folder_name": "1810_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1206,7 +1220,7 @@
         },
         {
             "name": "Fuel_Log",
-            "folder_name": "1810_Fuel_Log",
+            "folder_name": "1820_Fuel_Log",
             "version": "3.2.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1220,7 +1234,7 @@
         },
         {
             "name": "ZZZ_AGF_Vehicle_Compat",
-            "folder_name": "1820_ZZZ_AGF_Vehicle_Compat",
+            "folder_name": "1830_ZZZ_AGF_Vehicle_Compat",
             "version": "3.0.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1234,7 +1248,7 @@
         },
         {
             "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1830_ZZZ_ZeroHour_StackSize",
+            "folder_name": "1840_ZZZ_ZeroHour_StackSize",
             "version": "1.0",
             "tier": 1,
             "nexus_id": "Unlinked",
@@ -1248,7 +1262,7 @@
         },
         {
             "name": "ZZZ_WorkstationHarvestFix",
-            "folder_name": "1840_ZZZ_WorkstationHarvestFix",
+            "folder_name": "1850_ZZZ_WorkstationHarvestFix",
             "version": "3.2.1",
             "tier": 3,
             "nexus_id": "Unlinked",
