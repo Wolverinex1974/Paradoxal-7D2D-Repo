@@ -1044,6 +1044,20 @@
             "hash": "5401e3533536f52d74eaf8ed0fa89f8f3963fe0193377a72d2aca386160e68a6"
         },
         {
+            "name": "ZZZ_WorkstationHarvestFix",
+            "folder_name": "1700_ZZZ_WorkstationHarvestFix",
+            "version": "3.2.1",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7",
+            "hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
