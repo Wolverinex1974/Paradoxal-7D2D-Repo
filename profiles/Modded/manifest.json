@@ -239,20 +239,6 @@
             "hash": "95e95b8012e5e77acf5498f21aa62a9ba53c8bc00249cf432cc13abe305250de"
         },
         {
-            "name": "AGF-NoEAC-SmeltTimerOption",
-            "folder_name": "1120_AGFNoEACSmeltTimerOptionv1_0_0",
-            "version": "1.0.0",
-            "tier": 1,
-            "nexus_id": "11824",
-            "nexus_file_id": "44986",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "e139f864aeecbbdead0623fb9e057671eee6b1f7da8c03d1da8549d1344f1553",
-            "hash": "e139f864aeecbbdead0623fb9e057671eee6b1f7da8c03d1da8549d1344f1553"
-        },
-        {
             "name": "AGF-NoEAC-Toolbelt12Slots",
             "folder_name": "1130_AGFNoEACToolbelt12Slotsv2_2_4",
             "version": "2.2.4",
