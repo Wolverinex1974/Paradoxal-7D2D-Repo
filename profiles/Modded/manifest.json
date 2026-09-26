@@ -1275,6 +1275,20 @@
             "hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7"
         },
         {
+            "name": "ZZZ_UI_Compat",
+            "folder_name": "1860_ZZZ_UI_Compat",
+            "version": "3.2.1",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "7ed40761a71c07e8a51034cddfc8bf23372b8ce1842f82addf31534cc19438bc",
+            "hash": "7ed40761a71c07e8a51034cddfc8bf23372b8ce1842f82addf31534cc19438bc"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
