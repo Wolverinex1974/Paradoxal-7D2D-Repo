@@ -337,20 +337,6 @@
             "hash": "50bd88eddc1779c1cbaa48c6b425d89de922f72d2c314b8d7156bedb30cae075"
         },
         {
-            "name": "KnowBeforeYouCraft",
-            "folder_name": "1190_KnowBeforeYouCraft",
-            "version": "1.1.0",
-            "tier": 1,
-            "nexus_id": "11169",
-            "nexus_file_id": "42931",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "825c26ca450fed3cb7968b77aed6951370f59552139329b2f0106e2c3e370af6",
-            "hash": "825c26ca450fed3cb7968b77aed6951370f59552139329b2f0106e2c3e370af6"
-        },
-        {
             "name": "MPLogue_Better_Biomes_7D2D_v3_1",
             "folder_name": "1200_MPLogue_Better_Biomes_7D2D_v3_1",
             "version": "3.0",
@@ -1287,20 +1273,6 @@
             "author": "Unknown Author",
             "folder_hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7",
             "hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7"
-        },
-        {
-            "name": "ZZZ_UI_Compat",
-            "folder_name": "1870_ZZZ_UI_Compat",
-            "version": "3.2.1",
-            "tier": 3,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "7ed40761a71c07e8a51034cddfc8bf23372b8ce1842f82addf31534cc19438bc",
-            "hash": "7ed40761a71c07e8a51034cddfc8bf23372b8ce1842f82addf31534cc19438bc"
         },
         {
             "name": "Zero_Hour_Core",
