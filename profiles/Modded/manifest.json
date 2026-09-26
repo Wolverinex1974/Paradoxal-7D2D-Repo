@@ -1163,22 +1163,8 @@
             "hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12"
         },
         {
-            "name": "RoadShapeFix",
-            "folder_name": "1780_RoadShapeFix",
-            "version": "3.2.3.2",
-            "tier": 1,
-            "nexus_id": "10710",
-            "nexus_file_id": "46512",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "f4e6b2808ffa65b1266e1e47ebbb71d0ff57a278fb4612e597dd97b63939a7a2",
-            "hash": "f4e6b2808ffa65b1266e1e47ebbb71d0ff57a278fb4612e597dd97b63939a7a2"
-        },
-        {
             "name": "QuickStack",
-            "folder_name": "1790_QuickStack",
+            "folder_name": "1780_QuickStack",
             "version": "0.19.0",
             "tier": 1,
             "nexus_id": "11251",
@@ -1189,6 +1175,20 @@
             "author": "Unknown Author",
             "folder_hash": "06503115ea725b4a4e58f05a917df35d1f1a5bcf27be84d963213b40b9227e78",
             "hash": "06503115ea725b4a4e58f05a917df35d1f1a5bcf27be84d963213b40b9227e78"
+        },
+        {
+            "name": "RoadShapeFix",
+            "folder_name": "1790_RoadShapeFix",
+            "version": "3.2.3.2",
+            "tier": 1,
+            "nexus_id": "10710",
+            "nexus_file_id": "46512",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "f4e6b2808ffa65b1266e1e47ebbb71d0ff57a278fb4612e597dd97b63939a7a2",
+            "hash": "f4e6b2808ffa65b1266e1e47ebbb71d0ff57a278fb4612e597dd97b63939a7a2"
         },
         {
             "name": "TiaoZaoMiniMap",
