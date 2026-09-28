@@ -150,16 +150,16 @@
         {
             "name": "RealismOverhaulCORE",
             "folder_name": "1060_0Zipp0osRealismOverhaulCore",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "tier": 1,
             "nexus_id": "10303",
-            "nexus_file_id": "47750",
+            "nexus_file_id": "47952",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "482e91aef5073edbecaf14efe8077eda7889ff424f9c52bde099c367ba99a612",
-            "hash": "482e91aef5073edbecaf14efe8077eda7889ff424f9c52bde099c367ba99a612",
+            "folder_hash": "c1b095ce945ae52bb3657a08352a4a37c4b0c8995ad7a7208b70632d094d430b",
+            "hash": "c1b095ce945ae52bb3657a08352a4a37c4b0c8995ad7a7208b70632d094d430b",
             "mutations": [
                 {
                     "file": "Config\\RealismConfigs.xml",
