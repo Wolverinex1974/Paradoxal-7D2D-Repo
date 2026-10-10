@@ -1,10 +1,10 @@
 {
-    "profile_name": "Paradoxal Gaming 7D2D Server TEST",
-    "server_port": "32467",
+    "profile_name": "Modded",
+    "server_port": "31974",
     "mod_repository": "Wolverinex1974/Paradoxal-7D2D-Repo",
-    "server_path": "C:/Servers/7D2D_TEST",
+    "server_path": "C:/Servers/7D2D_Modded",
     "timestamp": 1773923676.92199,
-    "install_path": "C:/Servers/7D2D_TEST",
+    "install_path": "C:/Servers/7D2D_Modded",
     "launcher_config": {
         "version": "1.0.0",
         "latest_version": "1.0.0",
@@ -16,7 +16,7 @@
         "ip": "35.143.228.158",
         "port": "31974",
         "name": "Paradoxal Gaming 7D2D Server Modded",
-        "engine_branch": "public",
+        "engine_branch": "v3.2.0",
         "engine_build_id": "24994542"
     },
     "mods": [
