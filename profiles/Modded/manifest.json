@@ -1236,7 +1236,7 @@
             "name": "ZZZ_ZeroHour_StackSize",
             "folder_name": "1850_ZZZ_ZeroHour_StackSize",
             "version": "1.0",
-            "tier": 1,
+            "tier": 3,
             "nexus_id": "Unlinked",
             "nexus_file_id": "None",
             "is_disabled": false,
