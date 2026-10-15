@@ -134,6 +134,20 @@
             "hash": "6ee0fff182fde229fd839317742273184ed9165bb5d30edaaff5f103fe9e5513"
         },
         {
+            "name": "PracticeMakesPerfect",
+            "folder_name": "1045_PracticeMakesPerfect",
+            "version": "1.0.16",
+            "tier": 1,
+            "nexus_id": "10841",
+            "nexus_file_id": "42854",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12",
+            "hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12"
+        },
+        {
             "name": "PGzUltimateRWGV3",
             "folder_name": "1050_PGzUltimateRWGV3",
             "version": "13a",
@@ -1121,20 +1135,6 @@
             "hash": "962514cb486a677e6c2670db01ceda43b18e052ced0fc4f98dfa79f95f682f65"
         },
         {
-            "name": "PracticeMakesPerfect",
-            "folder_name": "1760_PracticeMakesPerfect",
-            "version": "1.0.16",
-            "tier": 1,
-            "nexus_id": "10841",
-            "nexus_file_id": "42854",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12",
-            "hash": "cddf3cc788fd77d802b8ec44ace664627069fdf20f4e19c98a6b507ac3767f12"
-        },
-        {
             "name": "QuickStack",
             "folder_name": "1780_QuickStack",
             "version": "0.19.0",
@@ -1259,34 +1259,6 @@
             "author": "Unknown Author",
             "folder_hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7",
             "hash": "1a0a2f78cc68b4f2523b0f18d56a8b7b81fc5a8cc03852828296a39def9714a7"
-        },
-        {
-            "name": "TFP_CommandExtensions",
-            "folder_name": "TFP_CommandExtensions",
-            "version": "1.3.0.0",
-            "tier": 1,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c",
-            "hash": "8aced34448f65c841e06e50a54e4eceeeb332600df85c6ae581bc1ac356d9c0c"
-        },
-        {
-            "name": "TFP_MarkersExample",
-            "folder_name": "Xample_MarkersMod",
-            "version": "1.3.0.0",
-            "tier": 1,
-            "nexus_id": "Unlinked",
-            "nexus_file_id": "None",
-            "is_disabled": false,
-            "dependencies": [],
-            "source": "Auto",
-            "author": "Unknown Author",
-            "folder_hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5",
-            "hash": "98df7bfba337017c7d6ccf247d9e2bd67637e080ee7b74eaf95c61b010da6db5"
         },
         {
             "name": "Zero_Hour_Core",
