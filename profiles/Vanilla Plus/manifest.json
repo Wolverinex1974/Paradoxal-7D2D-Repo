@@ -881,6 +881,20 @@
             "hash": "5401e3533536f52d74eaf8ed0fa89f8f3963fe0193377a72d2aca386160e68a6"
         },
         {
+            "name": "TFP_CommandExtensions",
+            "folder_name": "TFP_CommandExtensions",
+            "version": "3.3.0.0",
+            "tier": 3,
+            "nexus_id": "Unlinked",
+            "nexus_file_id": "None",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "616ec0dd66d6c599e2525254818effa43cb01add390bd98cc84a54abade7fe0f",
+            "hash": "616ec0dd66d6c599e2525254818effa43cb01add390bd98cc84a54abade7fe0f"
+        },
+        {
             "name": "Zero_Hour_Core",
             "folder_name": "Zero_Hour_Core",
             "version": "3.0.0",
