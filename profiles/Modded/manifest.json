@@ -1177,8 +1177,38 @@
             "hash": "5f973abacb58c5c4bc698500e943697b5ba179ba20262880e3bb76406d2a2b8e"
         },
         {
+            "name": "Dismemberrandomizer",
+            "folder_name": "1790_DismemberRandomizer",
+            "version": "1.1.4",
+            "tier": 1,
+            "nexus_id": "9314",
+            "nexus_file_id": "49311",
+            "is_disabled": false,
+            "dependencies": [],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "4654907f15648cf23785c4a0fd953f5142c2595b87a7bf5e16ded0d2f49738f3",
+            "hash": "4654907f15648cf23785c4a0fd953f5142c2595b87a7bf5e16ded0d2f49738f3"
+        },
+        {
+            "name": "FlamethrowerTurret",
+            "folder_name": "1800_FlamethrowerTurret",
+            "version": "1.6.4",
+            "tier": 1,
+            "nexus_id": "9632",
+            "nexus_file_id": "48850",
+            "is_disabled": false,
+            "dependencies": [
+                "Dismemberrandomizer"
+            ],
+            "source": "Auto",
+            "author": "Unknown Author",
+            "folder_hash": "73f6e0b29109b996372bd29748c7d99dedad6a683f025791d363646490180628",
+            "hash": "73f6e0b29109b996372bd29748c7d99dedad6a683f025791d363646490180628"
+        },
+        {
             "name": "WalkerSim2",
-            "folder_name": "1790_WalkerSim2",
+            "folder_name": "1810_WalkerSim2",
             "version": "2.0.5",
             "tier": 1,
             "nexus_id": "6014",
@@ -1192,7 +1222,7 @@
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
-            "folder_name": "1800_Paradoxal_Gaming_tweaks",
+            "folder_name": "1820_Paradoxal_Gaming_tweaks",
             "version": "2.2.9",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1206,7 +1236,7 @@
         },
         {
             "name": "Fuel_Log",
-            "folder_name": "1810_Fuel_Log",
+            "folder_name": "1830_Fuel_Log",
             "version": "3.2.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1220,7 +1250,7 @@
         },
         {
             "name": "ZZZ_AGF_Vehicle_Compat",
-            "folder_name": "1820_ZZZ_AGF_Vehicle_Compat",
+            "folder_name": "1840_ZZZ_AGF_Vehicle_Compat",
             "version": "3.0.1",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1234,7 +1264,7 @@
         },
         {
             "name": "ZZZ_ZeroHour_StackSize",
-            "folder_name": "1830_ZZZ_ZeroHour_StackSize",
+            "folder_name": "1850_ZZZ_ZeroHour_StackSize",
             "version": "1.0",
             "tier": 3,
             "nexus_id": "Unlinked",
@@ -1248,7 +1278,7 @@
         },
         {
             "name": "ZZZ_WorkstationHarvestFix",
-            "folder_name": "1840_ZZZ_WorkstationHarvestFix",
+            "folder_name": "1860_ZZZ_WorkstationHarvestFix",
             "version": "3.2.1",
             "tier": 3,
             "nexus_id": "Unlinked",
