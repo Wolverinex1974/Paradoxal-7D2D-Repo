@@ -1095,32 +1095,30 @@
         {
             "name": "Dismemberrandomizer",
             "folder_name": "1730_DismemberRandomizer",
-            "version": "1.1.4",
+            "version": "1.1.2",
             "tier": 1,
             "nexus_id": "9314",
-            "nexus_file_id": "49311",
+            "nexus_file_id": "45100",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "4654907f15648cf23785c4a0fd953f5142c2595b87a7bf5e16ded0d2f49738f3",
-            "hash": "4654907f15648cf23785c4a0fd953f5142c2595b87a7bf5e16ded0d2f49738f3"
+            "folder_hash": "57e5764d94db14758dc5063af96b83a9a8c66b2a639a5d0f9410781f5292a89f",
+            "hash": "57e5764d94db14758dc5063af96b83a9a8c66b2a639a5d0f9410781f5292a89f"
         },
         {
             "name": "FlamethrowerTurret",
             "folder_name": "1740_FlamethrowerTurret",
-            "version": "1.6.4",
+            "version": "1.6.3",
             "tier": 1,
             "nexus_id": "9632",
-            "nexus_file_id": "48850",
+            "nexus_file_id": "46779",
             "is_disabled": false,
-            "dependencies": [
-                "Dismemberrandomizer"
-            ],
+            "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "73f6e0b29109b996372bd29748c7d99dedad6a683f025791d363646490180628",
-            "hash": "73f6e0b29109b996372bd29748c7d99dedad6a683f025791d363646490180628"
+            "folder_hash": "4661bdd72e324cd3678da7dbe978d2aa3c363b42852112daf3752b723683a520",
+            "hash": "4661bdd72e324cd3678da7dbe978d2aa3c363b42852112daf3752b723683a520"
         },
         {
             "name": "zzzAGF-Special-Compatibilities",
