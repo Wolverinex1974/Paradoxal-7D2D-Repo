@@ -1095,16 +1095,17 @@
         {
             "name": "Dismemberrandomizer",
             "folder_name": "1730_DismemberRandomizer",
-            "version": "1.1.4",
+            "version": "1.1.3",
             "tier": 1,
             "nexus_id": "9314",
-            "nexus_file_id": "49311",
+            "nexus_file_id": "46778",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "f57ef4208c980236ddfd5d75f44052ce64368caa277499a89e94102396994a48",
-            "hash": "f57ef4208c980236ddfd5d75f44052ce64368caa277499a89e94102396994a48"
+            "folder_hash": "141d91c7854d5bc41fceb8f662c9e127de6a1f4145d97ac182d796e5611e7165",
+            "hash": "141d91c7854d5bc41fceb8f662c9e127de6a1f4145d97ac182d796e5611e7165",
+            "update_locked": true
         },
         {
             "name": "FlamethrowerTurret",
@@ -1215,8 +1216,45 @@
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "201518aec0c27b5d82c2f7c0129e56b24b317ce255728fc97f91431268d7794e",
-            "hash": "201518aec0c27b5d82c2f7c0129e56b24b317ce255728fc97f91431268d7794e"
+            "folder_hash": "99c0ddb31ec89db9ff31abb1aedf3086ff67304d19ac298e3109eea50480d0eb",
+            "hash": "99c0ddb31ec89db9ff31abb1aedf3086ff67304d19ac298e3109eea50480d0eb",
+            "mutations": [
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<RandomSeed>665992037</RandomSeed>",
+                    "replace": "<RandomSeed>86954635</RandomSeed>"
+                },
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<PopulationDensity>160</PopulationDensity>",
+                    "replace": "<PopulationDensity>1400</PopulationDensity>"
+                },
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<SoundDistanceScale>1</SoundDistanceScale>",
+                    "replace": "<SoundDistanceScale>0.8</SoundDistanceScale>"
+                },
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<AgentStartPosition>RandomLocation</AgentStartPosition>",
+                    "replace": "<AgentStartPosition>RandomBorderLocation</AgentStartPosition>"
+                },
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<SpawnProtectionTime>300</SpawnProtectionTime>",
+                    "replace": "<SpawnProtectionTime>350</SpawnProtectionTime>"
+                },
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<PopulationStartPercent>10</PopulationStartPercent>",
+                    "replace": "<PopulationStartPercent>25</PopulationStartPercent>"
+                },
+                {
+                    "file": "WalkerSim.xml",
+                    "search": "<FullPopulationAtDay>8</FullPopulationAtDay>",
+                    "replace": "<FullPopulationAtDay>60</FullPopulationAtDay>"
+                }
+            ]
         },
         {
             "name": "Paradoxal_Gaming_tweaks",
