@@ -1095,16 +1095,16 @@
         {
             "name": "Dismemberrandomizer",
             "folder_name": "1730_DismemberRandomizer",
-            "version": "1.1.2",
+            "version": "1.1.4",
             "tier": 1,
             "nexus_id": "9314",
-            "nexus_file_id": "45100",
+            "nexus_file_id": "49311",
             "is_disabled": false,
             "dependencies": [],
             "source": "Auto",
             "author": "Unknown Author",
-            "folder_hash": "57e5764d94db14758dc5063af96b83a9a8c66b2a639a5d0f9410781f5292a89f",
-            "hash": "57e5764d94db14758dc5063af96b83a9a8c66b2a639a5d0f9410781f5292a89f"
+            "folder_hash": "f57ef4208c980236ddfd5d75f44052ce64368caa277499a89e94102396994a48",
+            "hash": "f57ef4208c980236ddfd5d75f44052ce64368caa277499a89e94102396994a48"
         },
         {
             "name": "FlamethrowerTurret",
